@@ -1,0 +1,4772 @@
+10.1002_2017jc013030
+Highlight: https://doi.org/10.17882/49388 : [1.0, 0.5, 0.0]
+
+
+10.1002_anie.201916483
+
+
+10.1002_anie.202005531
+
+
+10.1002_anie.202007717
+
+
+10.1002_chem.201902131
+
+
+10.1002_chem.201903120
+
+
+10.1002_chem.202000235
+
+
+10.1002_chem.202001412
+
+
+10.1002_chem.202001668
+
+
+10.1002_chem.202003167
+
+
+10.1002_cssc.202201821
+Highlight: https://doi.org/10.1002/cssc.202201821 : [1.0, 0.5, 0.0]
+
+
+10.1002_ece3.3985
+
+
+10.1002_ece3.4466
+Highlight: 10.5061/dryad.r6nq870 : [1.0, 0.5, 0.0]
+
+
+10.1002_ece3.5260
+Highlight: MK838494 : [1.0, 1.0, 0.0]
+Highlight: MK838511 : [1.0, 1.0, 0.0]
+Highlight: /10.5061/dryad.2f62927; : [1.0, 0.5, 0.0]
+Highlight: MK838494 : [1.0, 1.0, 0.0]
+Highlight: MK838511 : [1.0, 1.0, 0.0]
+Highlight: 5K12GM063651 : [0.0, 1.0, 0.0]
+
+
+10.1002_ece3.5395
+Highlight: /10.5441/001/1.c42j3js7, : [1.0, 0.5, 0.0]
+Highlight: /10.5441/001/1.4192t2j4 : [1.0, 0.5, 0.0]
+Highlight: /10.5441/001/1.71r7pp6q : [1.0, 0.5, 0.0]
+Highlight: /10.5441/001/1. : [1.0, 0.5, 0.0]
+Highlight: ck04mn78 : [1.0, 0.5, 0.0]
+Highlight: /10.5441 : [1.0, 0.5, 0.0]
+Highlight: /001/1.v1cs4nn0 : [1.0, 0.5, 0.0]
+Highlight: ID: 422037984 : [0.0, 1.0, 0.0]
+
+
+10.1002_ece3.6144
+Highlight: /10.5061/dryad.zw3r2​2854 : [1.0, 0.5, 0.0]
+Highlight: MH714866 : [1.0, 1.0, 0.0]
+Highlight: MH718435 : [1.0, 1.0, 0.0]
+Highlight: R/OPCSFAQ-12) : [0.0, 1.0, 0.0]
+Highlight: #4564 : [0.0, 1.0, 0.0]
+
+
+10.1002_ece3.6303
+Highlight: 10.5061/dryad.37pvm​cvgb : [1.0, 0.5, 0.0]
+Highlight: MN335287–MN335290 : [1.0, 0.5, 0.0]
+Highlight: MN107084–MN107151 : [1.0, 0.5, 0.0]
+Highlight: No. 31270461 : [0.0, 1.0, 0.0]
+Highlight: 2016YFC1201100 : [0.0, 1.0, 0.0]
+
+
+10.1002_ece3.6784
+Highlight: 387723284. : [0.0, 1.0, 0.0]
+
+
+10.1002_ece3.961
+
+
+10.1002_ece3.9627
+Highlight: 10.5061/dryad.b8gtht7h3 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: b8gtht7h3 : [1.0, 0.5, 0.0]
+Highlight: DE210101440 : [0.0, 1.0, 0.0]
+Highlight: #9384-­13 : [0.0, 1.0, 0.0]
+
+
+10.1002_ecs2.1280
+Highlight: /10.5061/dryad.p3fg9 : [1.0, 0.5, 0.0]
+
+
+10.1002_ecs2.4619
+Highlight: 10.25349/D9QW5X : [1.0, 0.5, 0.0]
+Highlight: HSD1333 : [0.0, 1.0, 0.0]
+Highlight: SC-12998 : [0.0, 1.0, 0.0]
+
+
+10.1002_ejic.201900904
+Highlight: GK 1582) : [0.0, 1.0, 0.0]
+
+
+10.1002_ejoc.202000139
+Highlight: 226244/F50 : [0.0, 1.0, 0.0]
+
+
+10.1002_ejoc.202000916
+Highlight: M00146 : [0.0, 1.0, 0.0]
+Highlight: P30237 : [0.0, 1.0, 0.0]
+
+
+10.1002_esp.5058
+Highlight: 10.5066/P9FW6E8K : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: jh9w0vt9t : [1.0, 0.5, 0.0]
+
+
+10.1002_esp.5090
+Highlight: DP170103350 : [0.0, 1.0, 0.0]
+Highlight: 10.5066/P9353101, : [1.0, 1.0, 0.0]
+Highlight: #DP170103350 : [0.0, 1.0, 0.0]
+
+
+10.1002_mp.14424
+Highlight: BIL KLS-4300-08-2017 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.7937/tcia.2020.6c7y-gq39 : [1.0, 0.5, 0.0]
+Highlight: R25EB025787-01 : [0.0, 1.0, 0.0]
+Highlight: NSF 1933369 : [0.0, 1.0, 0.0]
+Highlight: UL1TR003167 : [0.0, 1.0, 0.0]
+Highlight: R01AG066749 : [0.0, 1.0, 0.0]
+Highlight: RP 170668 : [0.0, 1.0, 0.0]
+Highlight: NSF 1557679 : [0.0, 1.0, 0.0]
+Highlight: P50CA097007 : [0.0, 1.0, 0.0]
+Highlight: P30CA016672 : [0.0, 1.0, 0.0]
+Highlight: 1R01DE025248/R56DE025248 : [0.0, 1.0, 0.0]
+Highlight: R01DE028290 : [0.0, 1.0, 0.0]
+Highlight: 1R01CA218148 : [0.0, 1.0, 0.0]
+Highlight: 10.7937/K9/TCIA.2015.PF0M9REI : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.7937/tcia.2020.6c7y-gq39 : [1.0, 0.5, 0.0]
+
+
+10.1002_nafm.10870
+Highlight: 10.5066/ : [1.0, 1.0, 0.0]
+Highlight: P90A4UGJ : [1.0, 1.0, 0.0]
+Highlight: 10.5066/P94BH3W0 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5066/P9GTUMAY : [1.0, 1.0, 0.0]
+
+
+10.1007_jhep07(2018)134
+
+
+10.1007_jhep11(2018)113
+Highlight: 2014/14/M/ST2/00428, : [0.0, 1.0, 0.0]
+Highlight: 2015/19/B/ST2/02861 : [0.0, 1.0, 0.0]
+Highlight: 2014/13/B/ST2/02543 : [0.0, 1.0, 0.0]
+Highlight: 2012/07/E/ST2/01406 : [0.0, 1.0, 0.0]
+Highlight: 2014/15/B/ST2/03998 : [0.0, 1.0, 0.0]
+Highlight: MDM-2015-0509 : [0.0, 1.0, 0.0]
+
+
+10.1007_jhep11(2018)115
+Highlight: 2014/14/M/ST2/00428 : [0.0, 1.0, 0.0]
+Highlight: 2014/13/B/ST2/02543 : [0.0, 1.0, 0.0]
+Highlight: 2014/15/B/ST2/03998 : [0.0, 1.0, 0.0]
+Highlight: n. 30820817 : [0.0, 1.0, 0.0]
+Highlight: 2012/07/E/ST2/01406 : [0.0, 1.0, 0.0]
+Highlight: 2015/19/B/ST2/02861 : [0.0, 1.0, 0.0]
+
+
+10.1007_jhep12(2018)117
+Highlight: No. 675440 : [0.0, 1.0, 0.0]
+Highlight: 2014/14/M/ST2/00428 : [0.0, 1.0, 0.0]
+Highlight: 2015/19/B/ST2/02861 : [0.0, 1.0, 0.0]
+Highlight: 2012/07/E/ST2/01406 : [0.0, 1.0, 0.0]
+Highlight: MDM-2015-0509 : [0.0, 1.0, 0.0]
+Highlight: 2014/15/B/ST2/03998 : [0.0, 1.0, 0.0]
+Highlight: 2014/13/B/ST2/02543 : [0.0, 1.0, 0.0]
+
+
+10.1007_s00259-022-06053-8
+Highlight: pp y SNSF 320030_176052 : [0.0, 1.0, 0.0]
+Highlight: E! 114021 : [0.0, 1.0, 0.0]
+Highlight: RC-06–01 : [0.0, 1.0, 0.0]
+Highlight: g g g https://​doi.​org/​10.​7937/​K9/​TCIA.​2017.​7hs46​erv. : [1.0, 1.0, 0.0]
+Highlight: https://​doi.​org/​10.​7937/​tcia.​2019.​30ilq​fcl : [1.0, 1.0, 0.0]
+Highlight: g p ( ) 107937/k9/tcia. 2020:a8sh-7363 : [1.0, 1.0, 0.0]
+
+
+10.1007_s00382-012-1636-1
+
+
+10.1007_s00382-022-06361-7
+Highlight: NA17OAR4310284 : [0.0, 1.0, 0.0]
+Highlight: p A18OAR4310341fi : [0.0, 1.0, 0.0]
+Highlight: 4600010378 : [0.0, 1.0, 0.0]
+Highlight: y p USBR‐ R15AC00003) : [0.0, 1.0, 0.0]
+Highlight: NA11OAR43101 : [0.0, 1.0, 0.0]
+Highlight: https://​doi.​org/​10.​6075/ : [1.0, 0.5, 0.0]
+Highlight: J0891​61B : [1.0, 0.5, 0.0]
+Highlight: https://​doi.​org/​10.​6075/​J0154​FJJ : [1.0, 1.0, 0.0]
+Highlight: https://​doi.​org/​10.​6075/ : [1.0, 1.0, 0.0]
+Highlight: g J0154​FJJ : [1.0, 1.0, 0.0]
+Highlight: g https://​doi.​org/​10.​6075/​J0891​61B : [1.0, 0.5, 0.0]
+
+
+10.1007_s00442-022-05201-z
+Highlight: 10.​5061/ : [1.0, 0.5, 0.0]
+Highlight: y dryad.​wpzgm​sbps : [1.0, 0.5, 0.0]
+
+
+10.1007_s10904-014-0054-8
+Highlight: JA12216 : [0.0, 1.0, 0.0]
+Highlight: CCDC : [1.0, 0.5, 0.0]
+Highlight: codes are no. 979211–979214 : [1.0, 0.5, 0.0]
+
+
+10.1007_s12263-014-0408-4
+
+
+10.1007_s12559-020-09751-3
+Highlight: /10.7937/K9/ : [1.0, 1.0, 0.0]
+Highlight: TCIA.2015.U1X8A5NR : [1.0, 1.0, 0.0]
+
+
+10.1016_j.ast.2022.107401
+Highlight: 10 .17862 /cranﬁeld .rd .19146182 .v1 : [1.0, 0.5, 0.0]
+Highlight: 10 .17862 /cranﬁeld .rd . : [1.0, 0.5, 0.0]
+Highlight: .v1 19146182 : [1.0, 0.5, 0.0]
+Highlight: EP/P020259/1] : [0.0, 1.0, 0.0]
+Highlight: EP/R029326/1] : [0.0, 1.0, 0.0]
+Highlight: EP/L000261/1 : [0.0, 1.0, 0.0]
+Highlight: No : [0.0, 1.0, 0.0]
+Highlight: 88881.128864/2016-01 : [0.0, 1.0, 0.0]
+
+
+10.1016_j.cpc.2024.109087
+Highlight: 22K03526 : [0.0, 1.0, 0.0]
+Highlight: 21H01041 : [0.0, 1.0, 0.0]
+
+
+10.1016_j.dib.2022.108797
+Highlight: 10.1594/PANGAEA.949117 : [1.0, 0.5, 0.0]
+Highlight: 10.1594/PANGAEA.949117 : [1.0, 0.5, 0.0]
+Highlight: 18K18186 ) : [0.0, 1.0, 0.0]
+Highlight: 17J04576 : [0.0, 1.0, 0.0]
+
+
+10.1016_j.dib.2023.109949
+Highlight: 10.5281/zenodo.8338991 : [1.0, 0.5, 0.0]
+Highlight: 10.5281/zenodo.8338991 : [1.0, 0.5, 0.0]
+
+
+10.1016_j.ecolind.2021.107934
+Highlight: g q y https://doi.org/10.6073/pasta/be42bb841e696b7bca­ : [1.0, 1.0, 0.0]
+Highlight: ( d9957aed33db5e) : [1.0, 1.0, 0.0]
+Highlight: ) y 10.6096/CTOH_SEAICE_2019_12) : [1.0, 1.0, 0.0]
+Highlight: DE180100828 : [0.0, 1.0, 0.0]
+Highlight: g JP19K12301 : [0.0, 1.0, 0.0]
+Highlight: ( ) JP17H06323 : [0.0, 1.0, 0.0]
+
+
+10.1016_j.fuel.2022.125768
+Highlight: https://doi.org/10.11583/DTU.20 : [1.0, 0.5, 0.0]
+Highlight: 555586.v2 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.11583/DTU.20555586.v2 : [1.0, 0.5, 0.0]
+
+
+10.1016_j.jlp.2022.104761
+
+
+10.1016_j.jobe.2023.107105
+Highlight: https://doi.org/10.5281/zenodo.8014150 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5281/zenodo.8014150 : [1.0, 0.5, 0.0]
+
+
+10.1016_j.jsames.2022.103824
+Highlight: g 10.5066/F7K072R7 : [1.0, 1.0, 0.0]
+
+
+10.1016_j.molcel.2018.11.006
+Highlight: 095751/Z/11/Z : [0.0, 1.0, 0.0]
+Highlight: 5P41GM103484 : [0.0, 1.0, 0.0]
+Highlight: (PUTJD145 : [0.0, 1.0, 0.0]
+Highlight: (201330102 : [0.0, 1.0, 0.0]
+Highlight: (092809/Z/10/Z) : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.17632/xtb4mkvf8f.1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17632/jb4jjxsbb7.1 : [1.0, 0.5, 0.0]
+Highlight: https://dx.doi.org/10.17632/ fzvwgpjx88.1 : [1.0, 0.5, 0.0]
+Highlight: MSV000081006 : [1.0, 1.0, 0.0]
+Highlight: MSV000081001 : [1.0, 1.0, 0.0]
+Highlight: MSV000080981 : [1.0, 1.0, 0.0]
+Highlight: MSV000080986 : [1.0, 1.0, 0.0]
+Highlight: MSV000080988 : [1.0, 1.0, 0.0]
+Highlight: MSV000082857 : [1.0, 1.0, 0.0]
+Highlight: PDB: 5NNC : [1.0, 1.0, 0.0]
+Highlight: PDB: 5NND : [1.0, 1.0, 0.0]
+Highlight: PDB: 5NNE : [1.0, 1.0, 0.0]
+Highlight: PDB: 5NNF : [1.0, 1.0, 0.0]
+Highlight: PDB: 5NNG : [1.0, 1.0, 0.0]
+Highlight: PDB: 6G0O : [1.0, 1.0, 0.0]
+Highlight: PDB: 6G0P : [1.0, 1.0, 0.0]
+Highlight: PDB: 6G0Q : [1.0, 1.0, 0.0]
+Highlight: PDB: 6G0R : [1.0, 1.0, 0.0]
+Highlight: PDB: 6G0S : [1.0, 1.0, 0.0]
+Highlight: MSV000082859 : [0.0, 1.0, 0.0]
+Highlight: E-MTAB-5670 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE44672 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE89420 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE69140 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE61188 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE52279 : [1.0, 1.0, 0.0]
+Highlight: GEO: GSE79360 : [1.0, 1.0, 0.0]
+Highlight: _ RRID: SCR_001837 : [1.0, 1.0, 0.0]
+Highlight: p RRID: SCR 007393 : [1.0, 1.0, 0.0]
+Highlight: RRID: SCR 002380 : [1.0, 1.0, 0.0]
+
+
+10.1016_j.scitotenv.2024.171850
+Highlight: g y PRE.2020.004 : [0.0, 1.0, 0.0]
+Highlight: y /10.17863/CAM.107163 : [1.0, 0.5, 0.0]
+
+
+10.1016_j.websem.2024.100815
+Highlight: doi:10.17863/CAM.82548 : [1.0, 0.5, 0.0]
+
+
+10.1017_rdc.2022.19
+Highlight: GINOP-2.3.4-15-2020-00007 : [0.0, 1.0, 0.0]
+Highlight: 10.11588/data/10100 : [1.0, 1.0, 0.0]
+
+
+10.1017_s0007123423000601
+Highlight: https://doi.org/10.7910/ : [1.0, 0.5, 0.0]
+Highlight: DVN/FWCKSE : [1.0, 0.5, 0.0]
+
+
+10.1021_acs.jcim.9b01185
+
+
+10.1021_acscentsci.1c01109
+Highlight: https://doi.org/10.21942/uva.17040392 : [1.0, 0.5, 0.0]
+
+
+10.1021_acsomega.3c06074
+Highlight: 5VA1 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257578 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL572163 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257578 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1782574 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3422978 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL2424928 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL390649 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL195180 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL70 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257821 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL572163 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1257578 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1782574 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3422978 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL2424928 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL390649 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1097 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL195180 : [1.0, 1.0, 0.0]
+
+
+10.1021_jacs.2c06519
+Highlight: 10.25377/sussex.21184705 : [1.0, 0.5, 0.0]
+Highlight: CCDC 2169273 : [1.0, 0.5, 0.0]
+Highlight: 2170255 : [1.0, 0.5, 0.0]
+Highlight: EP/V003089/1 : [0.0, 1.0, 0.0]
+Highlight: EP/V046659/1 : [0.0, 1.0, 0.0]
+Highlight: EP/W02098X/1 : [0.0, 1.0, 0.0]
+Highlight: EP/T031425/1) : [0.0, 1.0, 0.0]
+Highlight: urn:nbn:fi:research-infras-2016072533 : [0.0, 1.0, 0.0]
+Highlight: 10.25377/sussex. : [0.0, 1.0, 0.0]
+
+
+10.1029_2018gl078007
+Highlight: https://doi.org/10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.886pr72 : [1.0, 0.5, 0.0]
+
+
+10.1029_2019jg005297
+Highlight: https://doi.org/10.5061/dryad.pp045j3 : [1.0, 0.5, 0.0]
+Highlight: NA17OAR4310288 : [0.0, 1.0, 0.0]
+Highlight: DBI‐0735191 : [0.0, 1.0, 0.0]
+Highlight: DBI‐1265383 : [0.0, 1.0, 0.0]
+
+
+10.1029_2019pa003774
+Highlight: OCE‐1558679 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.3334/CDIAC/OTG.NDP093_GLODAPv2 : [1.0, 1.0, 0.0]
+
+
+10.1029_2020jf005675
+Highlight: https://doi.org/10.5066/P9BU8FAQ : [1.0, 0.5, 0.0]
+
+
+10.1029_2021ea001703
+Highlight: https://doi.org/10.13020/jjdx-1m95 : [1.0, 0.5, 0.0]
+
+
+10.1029_2021gl096173
+Highlight: (https://datadryad.org/stash/share/ : [0.0, 1.0, 0.0]
+Highlight: exYZnfhUnvOFfjOvnMV4os7WO4ErfrGhwxFBAR-jUZA). : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.25326/09 : [1.0, 1.0, 0.0]
+
+
+10.1029_2021pa004379
+Highlight: OCE-1851900 : [0.0, 1.0, 0.0]
+Highlight: DGE-1148903 : [0.0, 1.0, 0.0]
+Highlight: OCE-1459563 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.25921/dt5g-my32 : [1.0, 0.5, 0.0]
+
+
+10.1029_2022gl100473
+Highlight: https://zenodo.org/record/6886498 : [0.0, 1.0, 0.0]
+
+
+10.1029_2023ea002840
+Highlight: https://doi.org/10.1594/PANGAEA.964081 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.1594/PANGAEA.964085 : [1.0, 0.5, 0.0]
+Highlight: RS‐2023‐00291696 : [0.0, 1.0, 0.0]
+Highlight: NRF‐ : [0.0, 1.0, 0.0]
+Highlight: 2018R1A2B3003256 : [0.0, 1.0, 0.0]
+Highlight: RS‐2023‐ : [0.0, 1.0, 0.0]
+Highlight: 00278926 : [0.0, 1.0, 0.0]
+Highlight: PE24100 : [0.0, 1.0, 0.0]
+
+
+10.1029_2023wr035126
+Highlight: DE-SC0020146 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/ : [1.0, 1.0, 0.0]
+Highlight: zenodo.7859686 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6073/pasta/ : [1.0, 1.0, 0.0]
+Highlight: bb935444378d112d9189556fd22a441d : [1.0, 1.0, 0.0]
+
+
+10.1038_hdy.2013.74
+Highlight: doi:10.5061/dryad.75030 : [1.0, 0.5, 0.0]
+
+
+10.1038_hdy.2014.75
+Highlight: doi:10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.1p80f : [1.0, 0.5, 0.0]
+Highlight: DEB-1257287 : [0.0, 1.0, 0.0]
+Highlight: DBI 1004665 : [0.0, 1.0, 0.0]
+Highlight: 12-8032) : [0.0, 1.0, 0.0]
+
+
+10.1038_hdy.2015.99
+Highlight: KJ767593– : [1.0, 0.5, 0.0]
+Highlight: KJ767630 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.f47f6 : [1.0, 0.5, 0.0]
+Highlight: Rnw/HO/2009/03 : [0.0, 1.0, 0.0]
+Highlight: NZ010 : [0.0, 1.0, 0.0]
+
+
+10.1038_ncomms11871
+Highlight: CCDC 1442910–1442920 : [1.0, 0.5, 0.0]
+Highlight: MOE2013-T2-1-005) : [0.0, 1.0, 0.0]
+
+
+10.1038_s41396-020-00885-8
+Highlight: PF00484.18 : [1.0, 1.0, 0.0]
+Highlight: PF01493.23) : [1.0, 1.0, 0.0]
+Highlight: PF00348 : [1.0, 1.0, 0.0]
+Highlight: PF05834 : [1.0, 1.0, 0.0]
+Highlight: PF15461.5 : [1.0, 1.0, 0.0]
+Highlight: IPR011040 : [1.0, 1.0, 0.0]
+Highlight: IPR004302 : [1.0, 1.0, 0.0]
+Highlight: IPR004963 : [1.0, 1.0, 0.0]
+Highlight: IPR004981 : [1.0, 1.0, 0.0]
+Highlight: IPR033396 : [1.0, 1.0, 0.0]
+Highlight: IPR001577 : [1.0, 1.0, 0.0]
+Highlight: IPR006201 : [1.0, 1.0, 0.0]
+Highlight: IPR000884 : [1.0, 1.0, 0.0]
+Highlight: IPR004911 : [1.0, 1.0, 0.0]
+Highlight: IPR016201 : [1.0, 1.0, 0.0]
+Highlight: IPR002477 : [1.0, 1.0, 0.0]
+Highlight: IPR011040 : [1.0, 1.0, 0.0]
+Highlight: IPR021345 : [1.0, 1.0, 0.0]
+Highlight: IPR012338 : [1.0, 1.0, 0.0]
+Highlight: IPR029787 : [1.0, 1.0, 0.0]
+Highlight: IPR036452 : [1.0, 1.0, 0.0]
+Highlight: IPR008139 : [1.0, 1.0, 0.0]
+Highlight: IPR017920 : [1.0, 1.0, 0.0]
+Highlight: IPR004007 : [1.0, 1.0, 0.0]
+Highlight: IPR004785 : [1.0, 1.0, 0.0]
+Highlight: IPR005524 : [1.0, 1.0, 0.0]
+Highlight: PR028730 : [1.0, 1.0, 0.0]
+Highlight: IPR029723 : [1.0, 1.0, 0.0]
+Highlight: IPR009613 : [1.0, 1.0, 0.0]
+Highlight: IPR001124 : [1.0, 1.0, 0.0]
+Highlight: IPR002889 : [1.0, 1.0, 0.0]
+Highlight: IPR008139 : [1.0, 1.0, 0.0]
+Highlight: IPR011124 : [1.0, 1.0, 0.0]
+Highlight: PRJEB6603 : [1.0, 0.5, 0.0]
+Highlight: PRJEB41235 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/ : [1.0, 0.5, 0.0]
+Highlight: m9.ﬁgshare.c.5008046 : [1.0, 0.5, 0.0]
+Highlight: H2020‐MSCA‐ITN‐2015‐675752 : [0.0, 1.0, 0.0]
+
+
+10.1038_s41437-020-0318-8
+Highlight: https://doi.org/10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: rxwdbrv58 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41467-018-04041-x
+Highlight: PNQY00000000 : [1.0, 0.5, 0.0]
+Highlight: PNQY01000000 : [1.0, 0.5, 0.0]
+Highlight: MG518493 : [1.0, 0.5, 0.0]
+Highlight: MG518517 : [1.0, 0.5, 0.0]
+Highlight: https://doi.pangaea.de/10.1594/PANGAEA.860727] : [1.0, 0.5, 0.0]
+Highlight: https://doi.pangaea.de/10.1594/PANGAEA.876062 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41467-018-07681-1
+Highlight: doi:10.5281/zenodo.1472500 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41467-019-10357-z
+Highlight: The X-ray crystallographic coordinates for structures reported in this study have been : [1.0, 0.5, 0.0]
+Highlight: deposited at the Cambridge Crystallographic Data Center (CCDC), under deposition : [1.0, 0.5, 0.0]
+Highlight: numbers 1878657-1878660. : [1.0, 0.5, 0.0]
+
+
+10.1038_s41558-022-01301-z
+
+
+10.1038_s41562-021-01247-w
+Highlight: p https://doi.org/10.34973/983b-a047 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41597-019-0101-y
+Highlight: GSE130386i 3 : [1.0, 0.5, 0.0]
+Highlight: SRP184152 : [1.0, 0.5, 0.0]
+Highlight: pi GSE130386 : [1.0, 0.5, 0.0]
+Highlight: gy KJCX20180411 : [0.0, 1.0, 0.0]
+Highlight: CARS-29 : [0.0, 1.0, 0.0]
+Highlight: SRP184152 : [1.0, 0.5, 0.0]
+Highlight: p pi https://doi.org/10.6084/m9.figshare.c.4378256.v1 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41597-022-01555-4
+Highlight: yh p https://doi.org/10.7937/TCIA.XC7A-QT20 : [1.0, 0.5, 0.0]
+Highlight: y g https://doi.org/10.7937/TCIA.e3sv-re93 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.7937/Q1EE-J082 : [1.0, 1.0, 0.0]
+Highlight: g https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK : [1.0, 1.0, 0.0]
+Highlight: p https://doi.org/10.7937/TCIA.XC7A-QT20 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41597-023-02280-2
+Highlight: g EMPIAR-10005 : [1.0, 1.0, 0.0]
+Highlight: ( EMPIAR-10852) : [1.0, 1.0, 0.0]
+Highlight: ) ( EMPIAR-10387) : [1.0, 1.0, 0.0]
+Highlight: yi EMPIAR-10532) : [1.0, 1.0, 0.0]
+Highlight: p p EMPIAR-11057 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR-10093 : [1.0, 1.0, 0.0]
+Highlight: p EMPIAR-10017 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR-10017 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR 10081 : [1.0, 1.0, 0.0]
+Highlight: p y EMPIAR-10406 : [1.0, 1.0, 0.0]
+Highlight: p EMPIAR-10345 : [1.0, 1.0, 0.0]
+Highlight: p EMPIAR 10406 : [1.0, 1.0, 0.0]
+Highlight: g y EMPIAR ID 10345 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR ID 10345 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR ID 10406 : [1.0, 1.0, 0.0]
+Highlight: EMPIAR-10406, : [1.0, 1.0, 0.0]
+Highlight: g EMPIAR 10406. : [1.0, 1.0, 0.0]
+Highlight: EMPIAR 10345 : [1.0, 1.0, 0.0]
+
+
+10.1038_s41598-017-15852-1
+Highlight: ( XDB12010103 : [0.0, 1.0, 0.0]
+Highlight: 2013CB933403 : [0.0, 1.0, 0.0]
+
+
+10.1038_s41598-020-59839-x
+Highlight: IPR014760 : [1.0, 1.0, 0.0]
+Highlight: IPR000264: : [1.0, 1.0, 0.0]
+Highlight: IPR020857 : [1.0, 1.0, 0.0]
+Highlight: SM00103 : [1.0, 1.0, 0.0]
+Highlight: IPR020858 : [1.0, 1.0, 0.0]
+Highlight: PIRSF002520 : [1.0, 1.0, 0.0]
+Highlight: IPR021177 : [1.0, 1.0, 0.0]
+Highlight: IPR023415 l : [1.0, 1.0, 0.0]
+Highlight: SM00192 : [1.0, 1.0, 0.0]
+Highlight: IPR002172 l : [1.0, 1.0, 0.0]
+Highlight: IPR023415 l : [1.0, 1.0, 0.0]
+Highlight: SM00192 : [1.0, 1.0, 0.0]
+Highlight: IPR002172 l : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ( (A ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000003950 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002239 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000001337 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000003950 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002239 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000001337 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000003950 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012128 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002239 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000001337 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002144 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002898 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000005291 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013303 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002144 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002898 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000005291 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013303 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002144 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002898 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000005291 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013303 : [1.0, 1.0, 0.0]
+Highlight: 2004-147/MS/MESSE : [0.0, 1.0, 0.0]
+Highlight: ENSOARG00000013782 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012835 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013966 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000014129 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000003950 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000012128 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002239 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000001337 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002144 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000002898 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000005291 : [1.0, 1.0, 0.0]
+Highlight: ENSOARG00000013303 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000017121 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000013718 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000017131 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000047833 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000011038 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000021275 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000009143 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000017869 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000009139 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000032007 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000034501 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000018517 : [1.0, 1.0, 0.0]
+Highlight: q NM_001078656 : [1.0, 1.0, 0.0]
+
+
+10.1038_s41598-021-85671-y
+Highlight: yh https://​doi.​org/​10.​7937/​K9/​TCIA.​2017.​8oje5​q00 31 : [1.0, 1.0, 0.0]
+Highlight: ) https://​doi.​org/​10. : [1.0, 1.0, 0.0]
+Highlight: p 7937/​tcia.​2019.​8kap3​72n : [1.0, 1.0, 0.0]
+Highlight: j q https://​doi.​org/​10.​7937/​tcia.​2019.​8dho2​gls : [1.0, 1.0, 0.0]
+
+
+10.1038_s41598-024-56373-y
+Highlight: q OR353748 : [1.0, 0.5, 0.0]
+Highlight: CP130886, : [1.0, 0.5, 0.0]
+Highlight: AJ229235 : [1.0, 1.0, 0.0]
+Highlight: p y NR_146840) : [1.0, 1.0, 0.0]
+Highlight: ( NR_027571 : [1.0, 1.0, 0.0]
+Highlight: y y GCA_007743815.1)i : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007745435.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_001983935.1) : [1.0, 1.0, 0.0]
+Highlight: g ( GCA_007746795.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007744675.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007745175.1) : [1.0, 1.0, 0.0]
+Highlight: g GCA_013036045.1) : [1.0, 1.0, 0.0]
+Highlight: g GCA_009720525.1 : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007754425.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007748015.1) : [1.0, 1.0, 0.0]
+Highlight: q ( GCA_008329715.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_007748195.1 : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007747795.1 : [1.0, 1.0, 0.0]
+Highlight: J ( GCA_007747015.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_900113665.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_001707835.1) T : [1.0, 1.0, 0.0]
+Highlight: ), GCA_000165715.3 : [1.0, 1.0, 0.0]
+Highlight: _ ), GCA_022267515.1) : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007747995.1)h : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007860075.1 T : [1.0, 1.0, 0.0]
+Highlight: ),h _ GCA_007744255.1 : [1.0, 1.0, 0.0]
+Highlight: ),h g GCA_011634775.1 T : [1.0, 1.0, 0.0]
+Highlight: _ ), GCA_007859735.1 T : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007744975.1 : [1.0, 1.0, 0.0]
+Highlight: _ ), GCA_000255655.1 : [1.0, 1.0, 0.0]
+Highlight: _ ), GCA_007859715.1 T : [1.0, 1.0, 0.0]
+Highlight: _ ) GCA_000092105.1 : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_007752345.1) : [1.0, 1.0, 0.0]
+Highlight: ), GCA_000153105.1 : [1.0, 1.0, 0.0]
+Highlight: g CP001848.1 : [1.0, 1.0, 0.0]
+Highlight: y OR353748 : [1.0, 0.5, 0.0]
+Highlight: y CP130886 : [1.0, 0.5, 0.0]
+
+
+10.1038_s41893-020-0559-9
+
+
+10.1038_sdata.2017.167
+Highlight: http://dx.doi.org/10.5061/dryad.sm847 : [1.0, 0.5, 0.0]
+
+
+10.1039_c5sc01309g
+
+
+10.1039_c9ce01020c
+
+
+10.1039_c9ra06638a
+
+
+10.1039_c9sc02930c
+
+
+10.1039_d0dt02130j
+
+
+10.1039_d0gc00363h
+
+
+10.1039_d0sc01197e
+
+
+10.1039_d0sc01518k
+
+
+10.1039_d0sc02283g
+
+
+10.1039_d0sc02676j
+
+
+10.1039_d0sc03604h
+
+
+10.1039_d1ee03696c
+Highlight: doi:10.3334/CDIAC/ : [1.0, 1.0, 0.0]
+Highlight: 00001_V2017 : [1.0, 1.0, 0.0]
+
+
+10.1039_d2cc00847e
+Highlight: 10.5281/zenodo.6010342 : [1.0, 1.0, 0.0]
+
+
+10.1051_e3sconf_202017220004
+
+
+10.1055_s-0039-1693681
+
+
+10.1073_pnas.1323607111
+Highlight: doi:10.5061/dryad.v2t58) : [1.0, 0.5, 0.0]
+
+
+10.1073_pnas.1705601114
+Highlight: doi:10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.7248c : [1.0, 0.5, 0.0]
+Highlight: PRJEB21611) : [1.0, 0.5, 0.0]
+
+
+10.1073_pnas.1711872115
+Highlight: 10.5281/zenodo.1135372 : [1.0, 0.5, 0.0]
+
+
+10.1073_pnas.1915395117
+Highlight: https://doi.org/10.6073/pasta/57108aaeede00e77cac110bc5366a92b : [1.0, 0.5, 0.0]
+Highlight: 10.6073/pasta/1a5760c3146c574c98db854ad6d3addc : [1.0, 1.0, 0.0]
+Highlight: 10.6073/pasta/721fdcde85b630d1b4548b677d9b1d86 : [1.0, 1.0, 0.0]
+
+
+10.1073_pnas.2306723120
+Highlight: p p 10.5066/F7DF6PQS) : [1.0, 1.0, 0.0]
+Highlight: y y https://doi.org/10.15468/dl.k8zeq6 : [1.0, 0.5, 0.0]
+Highlight: y y p https://doi.org/10.15468/dl.a2a348 : [1.0, 0.5, 0.0]
+Highlight: p p gy https://doi.org/10.5281/zenodo.8411975 : [1.0, 0.5, 0.0]
+
+
+10.1080_01621459.2019.1573732
+Highlight: NE/L002434/1 : [0.0, 1.0, 0.0]
+
+
+10.1080_02713683.2019.1607392
+
+
+10.1080_0284186x.2019.1669817
+Highlight: 2018/FO201362 : [0.0, 1.0, 0.0]
+
+
+10.1080_0284186x.2020.1714721
+
+
+10.1080_07350015.2020.1766469
+Highlight: DP-170103135. : [0.0, 1.0, 0.0]
+
+
+10.1080_13501763.2019.1630470
+Highlight: ES/N001826/1] : [0.0, 1.0, 0.0]
+
+
+10.1080_14756366.2020.1740692
+Highlight: 2018J01132 : [0.0, 1.0, 0.0]
+Highlight: 20720180051 : [0.0, 1.0, 0.0]
+Highlight: 81773600 : [0.0, 1.0, 0.0]
+
+
+10.1080_15476286.2016.1232238
+Highlight: G1350-02 : [0.0, 1.0, 0.0]
+Highlight: G1000409 : [0.0, 1.0, 0.0]
+Highlight: MR/J500525/ : [0.0, 1.0, 0.0]
+Highlight: 1 : [0.0, 1.0, 0.0]
+Highlight: BB/I021345/1 : [0.0, 1.0, 0.0]
+
+
+10.1080_19475683.2023.2226196
+Highlight: https://doi.org/10.15468/dl.cb2hsf : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.qm4v2t : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.92jj3s : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.be7krr : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.yc59mu : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.qgemaq : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.ucepps : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.zrhwa2 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.nvnscr : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.ah5fq7 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.waw9qx : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.dcatgu : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.gtnw2a : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.txwcpa : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.sz5x6g : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.2a5f6c . : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.6qzmh7 : [1.0, 0.5, 0.0]
+
+
+10.1080_21645515.2023.2189598
+
+
+10.1080_22221751.2020.1738277
+Highlight: T11/707/15) : [0.0, 1.0, 0.0]
+Highlight: N_HKU728/14 : [0.0, 1.0, 0.0]
+Highlight: 81461168030 : [0.0, 1.0, 0.0]
+Highlight: 16150572 : [0.0, 1.0, 0.0]
+Highlight: SZSM201911014) : [0.0, 1.0, 0.0]
+
+
+10.1093_beheco_arad016
+Highlight: g p 10.5061/dryad.rxwdbrvdc : [1.0, 0.5, 0.0]
+
+
+10.1093_beheco_arw167
+Highlight: p 10.5061/dryad.12np0. : [1.0, 0.5, 0.0]
+
+
+10.1093_beheco_arz101
+Highlight: pf 10.5061/dryad.4dj6042 : [1.0, 0.5, 0.0]
+
+
+10.1093_bib_bbab395
+Highlight: 10.5281/zenodo.4923158 : [1.0, 0.5, 0.0]
+
+
+10.1093_evolut_qpad206
+Highlight: https://doi.org/10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: d2547d87h : [1.0, 0.5, 0.0]
+Highlight: PRJNA1009132 : [1.0, 0.5, 0.0]
+Highlight: JP15J00134 : [0.0, 1.0, 0.0]
+Highlight: JP17K15195 : [0.0, 1.0, 0.0]
+Highlight: JP23K05905 : [0.0, 1.0, 0.0]
+Highlight: JP19H01002 : [0.0, 1.0, 0.0]
+Highlight: JP19K16211 : [0.0, 1.0, 0.0]
+
+
+10.1093_nar_gkp1049
+Highlight: PF00106 : [1.0, 1.0, 0.0]
+Highlight: 3.20.20.140 : [0.0, 1.0, 0.0]
+Highlight: 3.30.450.20 : [0.0, 1.0, 0.0]
+Highlight: 3.30.450.40 : [0.0, 1.0, 0.0]
+Highlight: 3.30.930.10 : [0.0, 1.0, 0.0]
+Highlight: 3.40.30.10 : [0.0, 1.0, 0.0]
+Highlight: 3.40.50.1000 : [0.0, 1.0, 0.0]
+Highlight: 3.40.50.1820 : [0.0, 1.0, 0.0]
+Highlight: 3.40.50.620 : [0.0, 1.0, 0.0]
+Highlight: 3.40.630.30 : [0.0, 1.0, 0.0]
+Highlight: 3.90.1200.10 : [0.0, 1.0, 0.0]
+Highlight: 3.90.226.10 : [0.0, 1.0, 0.0]
+Highlight: PF03372 : [1.0, 1.0, 0.0]
+Highlight: GM074942 : [0.0, 1.0, 0.0]
+Highlight: GM074942 : [0.0, 1.0, 0.0]
+
+
+10.1093_sysbio_syy011
+Highlight: http://dx.doi.org/10.5061/dryad.739bs : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.739bs : [1.0, 0.5, 0.0]
+
+
+10.1098_rsbl.2015.0113
+Highlight: 10.5061/dryad.1h7p0 : [1.0, 0.5, 0.0]
+
+
+10.1098_rsos.160417
+Highlight: http://dx.doi.org/10.5061/dryad.2bs69 : [1.0, 0.5, 0.0]
+
+
+10.1098_rsos.170796
+Highlight: https://dx.doi.org/10.6084/m9. : [1.0, 0.5, 0.0]
+Highlight: figshare.c.3872161 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.2g5f9 : [1.0, 0.5, 0.0]
+
+
+10.1098_rsos.190841
+Highlight: https://doi.org/10.5061/dryad.3b65k44 : [1.0, 0.5, 0.0]
+Highlight: doi:10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.3b65k44 : [1.0, 0.5, 0.0]
+
+
+10.1098_rsos.210982
+Highlight: https://doi.org/10.5061/dryad.fxpnvx0pn : [1.0, 0.5, 0.0]
+Highlight: doi:10.5061/dryad.fxpnvx0pn : [1.0, 0.5, 0.0]
+
+
+10.1098_rspb.2015.0371
+Highlight: http://dx.doi.org/10.5061/dryad.kh7nt : [1.0, 0.5, 0.0]
+Highlight: CTM2010–15840) : [0.0, 1.0, 0.0]
+
+
+10.1098_rspb.2015.1498
+Highlight: http://dx.doi.org/10.5061/dryad.rj7g1 : [1.0, 0.5, 0.0]
+
+
+10.1098_rspb.2015.2726
+Highlight: http://dx.doi.org/10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.2fp25 : [1.0, 0.5, 0.0]
+
+
+10.1098_rspb.2015.2764
+Highlight: doi:10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: 447sq : [1.0, 0.5, 0.0]
+Highlight: NSF IOS-1354737 : [0.0, 1.0, 0.0]
+Highlight: #1306627 : [0.0, 1.0, 0.0]
+
+
+10.1101_096297
+Highlight: F30MH103925 : [0.0, 1.0, 0.0]
+Highlight: R01HD065024 : [0.0, 1.0, 0.0]
+Highlight: U19AI100625 : [0.0, 1.0, 0.0]
+Highlight: U42OD010924 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/zenodo.817658 : [1.0, 0.5, 0.0]
+
+
+10.1101_2022.02.10.480011
+Highlight: https://doi.org/10.15482/USDA.ADC/1524676. : [1.0, 1.0, 0.0]
+
+
+10.1101_2022.07.21.501061
+Highlight: https://doi.org/10.15468/dl.354f8k : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.pdjqte : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.nbku3v : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.uejpg6 : [1.0, 0.5, 0.0]
+
+
+10.1103_physrevresearch.4.023008
+Highlight: https://doi.org/10.5291/ILL-DATA.5-31-2380 : [1.0, 0.5, 0.0]
+
+
+10.1107_s0108270106019688
+
+
+10.1107_s1600536807066780
+
+
+10.1107_s1600536808011148
+
+
+10.1107_s1600536809014883
+
+
+10.1107_s1600536809022582
+
+
+10.1107_s1600536809043700
+
+
+10.1107_s1600536810036299
+
+
+10.1107_s1600536810047185
+
+
+10.1107_s1600536811003163
+
+
+10.1107_s160053681102201x
+
+
+10.1107_s160053681103220x
+
+
+10.1107_s1600536811042164
+
+
+10.1107_s1600536812014614
+
+
+10.1107_s1600536812019885
+
+
+10.1107_s1600536812024269
+
+
+10.1107_s1600536812027390
+
+
+10.1107_s1600536812046892
+
+
+10.1107_s2052252514012081
+
+
+10.1107_s2052252515010271
+
+
+10.1107_s2052252515011665
+
+
+10.1107_s2052252515023945
+
+
+10.1107_s2052252520013603
+
+
+10.1107_s2053229620003757
+
+
+10.1107_s2056989014026358
+
+
+10.1107_s2056989015010257
+
+
+10.1107_s2056989015019891
+
+
+10.1107_s2056989016016819
+
+
+10.1107_s2056989020010658
+
+
+10.1107_s2059798322005691
+Highlight: https://doi.org/10.18150/VAOJLJ : [1.0, 0.5, 0.0]
+Highlight: 10.18150/R8VJ7V : [1.0, 0.5, 0.0]
+Highlight: 10.18150/ : [1.0, 0.5, 0.0]
+Highlight: VAZZ2F : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.18150/LIENZ5 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.18150/6OXPLO : [1.0, 0.5, 0.0]
+Highlight: 10.18150/WEFSC9 : [1.0, 0.5, 0.0]
+Highlight: 10.18150/XSEXUF : [1.0, 0.5, 0.0]
+Highlight: 10.18150/ : [1.0, 0.5, 0.0]
+Highlight: R3BTBM : [1.0, 0.5, 0.0]
+Highlight: 10.18150/T0WC49 : [1.0, 0.5, 0.0]
+Highlight: 7qy6 : [1.0, 0.5, 0.0]
+Highlight: 7qsf : [1.0, 0.5, 0.0]
+Highlight: 7r5c : [1.0, 0.5, 0.0]
+Highlight: 7qq8 : [1.0, 0.5, 0.0]
+Highlight: 7qyx : [1.0, 0.5, 0.0]
+Highlight: 7r1g : [1.0, 0.5, 0.0]
+Highlight: 7qym : [1.0, 0.5, 0.0]
+Highlight: 7qvr : [1.0, 0.5, 0.0]
+Highlight: 7qtc : [1.0, 0.5, 0.0]
+Highlight: 2020/38/E/NZ1/00035 : [0.0, 1.0, 0.0]
+
+
+10.1107_s2414314616000523
+
+
+10.1107_s2414314616007033
+
+
+10.1107_s2414314616007227
+
+
+10.1107_s2414314619012446
+
+
+10.1109_access.2024.3385658
+Highlight: https://doi.org/10.5281/zenodo.10908593/ : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2435.13087
+Highlight: https://doi.org/10.5061/dryad.hs20gv7 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5061/dryad.hs20gv7 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2435.13431
+Highlight: https​://doi.org/10.5061/dryad.d84hg87 : [1.0, 0.5, 0.0]
+Highlight: https​://doi.org/10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.d84hg87 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2435.13569
+Highlight: https://doi. : [1.0, 0.5, 0.0]
+Highlight: org/10.5061/dryad.9s4mw​6mbw : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5061/dryad.9s4mw​6mbw : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2656.12382
+Highlight: http://dx.doi.org/10.5061/dryad.r390f : [1.0, 0.5, 0.0]
+Highlight: doi:10.5061/dryad.r390f : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2656.12491
+Highlight: 10.5061/dryad.h5j86 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.h5j86 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2656.12501
+Highlight: 10.5061/dryad.m02hm : [1.0, 0.5, 0.0]
+Highlight: doi:10.5061/dryad.m02hm : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2656.12594
+Highlight: 10.1111/ecog.04716 : [1.0, 0.5, 0.0]
+Highlight: y g 10.5061/dryad.gb5mkkwk8 : [1.0, 0.5, 0.0]
+Highlight: p p g g http://dx.doi.org/10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: y g gb5mkkwk8 C L : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2664.13128
+Highlight: 10.5061/dryad.n3k9f : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.n3k9f : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2664.13136
+Highlight: 10.5061/dryad.bn7p2f5 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.bn7p2f5 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2664.13168
+Highlight: /10.5061/dryad.j8cm402 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.j8cm402 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2664.13446
+Highlight: 10.5061/dryad.6d66b49 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.6d66b49 : [1.0, 0.5, 0.0]
+
+
+10.1111_1365-2745.13449
+Highlight: 10.5061/dryad.r7sqv​9s8n : [1.0, 0.5, 0.0]
+Highlight: PRJNA627488 : [1.0, 0.5, 0.0]
+Highlight: ​PRJNA​ : [1.0, 0.5, 0.0]
+Highlight: 627488 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5061/dryad.r7sqv​9s8n : [1.0, 0.5, 0.0]
+
+
+10.1111_2041-210x.12453
+Highlight: doi:10.5061/dryad.h4f7p : [1.0, 0.5, 0.0]
+
+
+10.1111_2041-210x.13817
+Highlight: https://doi.org/10.5061/dryad.fn2z3​4tw7 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.fn2z3​4tw7 : [1.0, 0.5, 0.0]
+
+
+10.1111_acel.13089
+Highlight: P30EY022589 : [0.0, 1.0, 0.0]
+Highlight: R01EY027011 : [0.0, 1.0, 0.0]
+Highlight: P30EY022589 : [0.0, 1.0, 0.0]
+Highlight: GSE141725 : [1.0, 0.5, 0.0]
+Highlight: 10.6075/J0707ZTM : [1.0, 0.5, 0.0]
+
+
+10.1111_bph.14747
+
+
+10.1111_cas.12935
+Highlight: HPA001426 : [0.0, 1.0, 0.0]
+Highlight: HPA003156 : [0.0, 1.0, 0.0]
+Highlight: CAB009216 : [0.0, 1.0, 0.0]
+Highlight: HPA008063 : [0.0, 1.0, 0.0]
+Highlight: CAB010055 : [0.0, 1.0, 0.0]
+Highlight: HPA001522 : [0.0, 1.0, 0.0]
+Highlight: HPA042865 : [0.0, 1.0, 0.0]
+Highlight: HPA007450 : [0.0, 1.0, 0.0]
+Highlight: HPA003927 : [0.0, 1.0, 0.0]
+Highlight: HPA030827 : [0.0, 1.0, 0.0]
+Highlight: CAB004592 : [0.0, 1.0, 0.0]
+Highlight: HPA001612 : [0.0, 1.0, 0.0]
+Highlight: Q99538 : [1.0, 1.0, 0.0]
+Highlight: O75787 : [1.0, 1.0, 0.0]
+Highlight: P24593 : [1.0, 1.0, 0.0]
+Highlight: P17900 : [1.0, 1.0, 0.0]
+Highlight: P21741 : [1.0, 1.0, 0.0]
+Highlight: P51884 : [1.0, 1.0, 0.0]
+Highlight: P53004 : [1.0, 1.0, 0.0]
+Highlight: Q08629 : [1.0, 1.0, 0.0]
+Highlight: Q12907 : [1.0, 1.0, 0.0]
+Highlight: Q96AG4 : [1.0, 1.0, 0.0]
+Highlight: P23142 : [1.0, 1.0, 0.0]
+Highlight: P24821 : [1.0, 1.0, 0.0]
+
+
+10.1111_ddi.13153
+
+
+10.1111_ddi.13161
+Highlight: https://doi.org/10.13020/​z71w-jx69 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.73n5t​b2v8 : [1.0, 0.5, 0.0]
+
+
+10.1111_ejn.13855
+Highlight: https://doi.org/10.5281/ : [1.0, 0.5, 0.0]
+Highlight: zenodo.1158410 : [1.0, 0.5, 0.0]
+
+
+10.1111_eva.12151
+Highlight: http://dx.doi.org/10.5061/dryad.3978f : [1.0, 0.5, 0.0]
+Highlight: KJ437343 : [1.0, 0.5, 0.0]
+Highlight: KJ437271 : [1.0, 0.5, 0.0]
+
+
+10.1111_eva.12446
+Highlight: http://doi:10.5061/dryad.7g2c9 : [1.0, 0.5, 0.0]
+Highlight: P2BEP3_152103 : [0.0, 1.0, 0.0]
+Highlight: GA – 659791 : [0.0, 1.0, 0.0]
+
+
+10.1111_eva.12768
+Highlight: https://doi.org/10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: rf79641 : [1.0, 0.5, 0.0]
+
+
+10.1111_evo.13972
+Highlight: https://doi.org/10.5061/dryad.3xsj3txbz : [1.0, 0.5, 0.0]
+
+
+10.1111_gcb.13914
+Highlight: https://doi.org/10.15131/shef.data.5414629 : [1.0, 0.5, 0.0]
+
+
+10.1111_gcb.14974
+
+
+10.1111_ggr.12517
+Highlight: 10.5281/zenodo.7804445 : [1.0, 0.5, 0.0]
+
+
+10.1111_mec.16743
+Highlight: /10.5066/ : [1.0, 0.5, 0.0]
+Highlight: P9F519WO : [1.0, 0.5, 0.0]
+Highlight: /10.5061/dryad.g1jws​ : [1.0, 0.5, 0.0]
+Highlight: tqsg : [1.0, 0.5, 0.0]
+
+
+10.1111_mec.16977
+Highlight: R15DE029945 : [0.0, 1.0, 0.0]
+Highlight: P20GM121342 : [0.0, 1.0, 0.0]
+Highlight: #1942178 : [0.0, 1.0, 0.0]
+Highlight: 10.5061/dryad.4mw6m​90cz : [1.0, 0.5, 0.0]
+Highlight: PRJNA​955776 : [1.0, 0.5, 0.0]
+Highlight: P20GM121342 : [0.0, 1.0, 0.0]
+Highlight: IOS-­1456765 : [0.0, 1.0, 0.0]
+Highlight: R15DE029945 : [0.0, 1.0, 0.0]
+
+
+10.1111_njb.02077
+Highlight: y g http://dx.doi.org/10.5061/dryad.2gh0ht2 : [1.0, 0.5, 0.0]
+
+
+10.1128_JVI.01717-21
+Highlight: EPI_ISL_376123 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293286 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_291131 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_332358 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_332395 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_332396 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_332399 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293289 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293290 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293291 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_332401 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293287 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_293288 : [0.0, 1.0, 0.0]
+
+
+10.1128_spectrum.00422-24
+Highlight: GCA_024582855.4) : [1.0, 0.5, 0.0]
+Highlight: COG0341 : [0.0, 1.0, 0.0]
+Highlight: COG1314 : [0.0, 1.0, 0.0]
+Highlight: COG0653 : [0.0, 1.0, 0.0]
+Highlight: COG0753 : [0.0, 1.0, 0.0]
+Highlight: COG1674 : [0.0, 1.0, 0.0]
+Highlight: COG4499 : [0.0, 1.0, 0.0]
+Highlight: COG1511 : [0.0, 1.0, 0.0]
+Highlight: COG5417 : [0.0, 1.0, 0.0]
+Highlight: K04562 : [0.0, 1.0, 0.0]
+Highlight: K02404 : [0.0, 1.0, 0.0]
+Highlight: K02398 : [0.0, 1.0, 0.0]
+Highlight: K13626 : [0.0, 1.0, 0.0]
+Highlight: K02557 : [0.0, 1.0, 0.0]
+Highlight: K02556 : [0.0, 1.0, 0.0]
+Highlight: COG0159 : [0.0, 1.0, 0.0]
+Highlight: COG0133 : [0.0, 1.0, 0.0]
+Highlight: COG0161 : [0.0, 1.0, 0.0]
+Highlight: COG3479 : [0.0, 1.0, 0.0]
+Highlight: COG1012 : [0.0, 1.0, 0.0]
+Highlight: COG1120 : [0.0, 1.0, 0.0]
+Highlight: COG0609 : [0.0, 1.0, 0.0]
+Highlight: COG0609 : [0.0, 1.0, 0.0]
+Highlight: COG0614 : [0.0, 1.0, 0.0]
+Highlight: COG3540 : [0.0, 1.0, 0.0]
+Highlight: COG1785 : [0.0, 1.0, 0.0]
+Highlight: COG1785 : [0.0, 1.0, 0.0]
+Highlight: COG0745 : [0.0, 1.0, 0.0]
+Highlight: COG0642 : [0.0, 1.0, 0.0]
+Highlight: COG0372 : [0.0, 1.0, 0.0]
+Highlight: COG0372 : [0.0, 1.0, 0.0]
+Highlight: COG3493 : [0.0, 1.0, 0.0]
+Highlight: COG2225 : [0.0, 1.0, 0.0]
+Highlight: COG0471 : [0.0, 1.0, 0.0]
+Highlight: COG1757 : [0.0, 1.0, 0.0]
+Highlight: COG0704 : [0.0, 1.0, 0.0]
+Highlight: COG0226 : [0.0, 1.0, 0.0]
+Highlight: COG0573 : [0.0, 1.0, 0.0]
+Highlight: COG1117 : [0.0, 1.0, 0.0]
+Highlight: GCA_002574795 : [1.0, 1.0, 0.0]
+Highlight: GCA_002566345 : [1.0, 1.0, 0.0]
+Highlight: GCA_002561015, : [1.0, 1.0, 0.0]
+Highlight: PF04347 : [1.0, 1.0, 0.0]
+Highlight: PF01052 : [1.0, 1.0, 0.0]
+Highlight: PF04509 : [1.0, 1.0, 0.0]
+Highlight: PF02154 : [1.0, 1.0, 0.0]
+Highlight: PF03748 : [1.0, 1.0, 0.0]
+Highlight: PF03963 : [1.0, 1.0, 0.0]
+Highlight: GCA_02557935.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002551875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_018615055.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002552955.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_023824195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_023824195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002551875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002552955.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_014892475.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_018615055.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_023824195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002872495.3, : [1.0, 1.0, 0.0]
+Highlight: GCA_003382345.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002551875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_029873355.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002552955.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_023824195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_018615055.1, : [1.0, 1.0, 0.0]
+Highlight: GCA_023824195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002551875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_002552955.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_014892475.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_014892475.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_024582855.4 : [1.0, 0.5, 0.0]
+Highlight: SRX23584000 : [1.0, 0.5, 0.0]
+Highlight: SRX23571306 : [1.0, 0.5, 0.0]
+Highlight: PRJNA700828 : [1.0, 0.5, 0.0]
+
+
+10.1130_ges01387.1
+Highlight: https://​doi​.org​/10​.5066​/F7QN64XQ​ : [1.0, 1.0, 0.0]
+Highlight: doi:​10​.5066​/F7TH8JWJ : [1.0, 1.0, 0.0]
+Highlight: doi:​10​.5066​/F7930R7P : [1.0, 1.0, 0.0]
+
+
+10.1136_jitc-2021-003114
+Highlight: CVCL_7151 : [1.0, 1.0, 0.0]
+Highlight: CVCL_2213 : [1.0, 1.0, 0.0]
+Highlight: CVCL_0627 : [1.0, 1.0, 0.0]
+Highlight: CVCL_6245 : [1.0, 1.0, 0.0]
+Highlight: CVCL_0530 : [1.0, 1.0, 0.0]
+Highlight: CVCL_3967 : [1.0, 1.0, 0.0]
+Highlight: CVCL_0395 : [1.0, 1.0, 0.0]
+Highlight: CVCL_2235) : [1.0, 1.0, 0.0]
+Highlight: CVCL_1917) : [1.0, 1.0, 0.0]
+Highlight: CVCL_1919 : [1.0, 1.0, 0.0]
+Highlight: CVCL_1916) : [1.0, 1.0, 0.0]
+Highlight: CVCL_1918 : [1.0, 1.0, 0.0]
+Highlight: CVCL_D615) : [1.0, 1.0, 0.0]
+Highlight: CVCL_KS61 : [1.0, 1.0, 0.0]
+Highlight: CVCL_0213 : [1.0, 1.0, 0.0]
+
+
+10.1140_epjc_s10052-016-4366-4
+
+
+10.1140_epjc_s10052-018-6033-4
+
+
+10.1140_epjc_s10052-018-6468-7
+
+
+10.1140_epjc_s10052-019-6583-0
+
+
+10.1140_epjds_s13688-018-0132-1
+
+
+10.1145_3461702.3462538
+Highlight: https://doi.org/10.3886/ICPSR35035.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR35020.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36120.v2 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36119.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36398.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36395.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36795.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR36791.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR37062.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR37065.v2 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR27646.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR30770.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR30765.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR33530.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR33525.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR34585.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR34584.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.3886/ICPSR25104.v1 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10. : [1.0, 0.5, 0.0]
+Highlight: 3886/ICPSR25113.v1 : [1.0, 0.5, 0.0]
+
+
+10.1155_2013_536562
+
+
+10.1177_0018720820970751
+
+
+10.1186_1471-244x-13-259
+
+
+10.1186_1752-153x-7-123
+
+
+10.1186_gb-2010-11-10-r101
+Highlight: GEO:GSE24237 : [1.0, 0.5, 0.0]
+
+
+10.1186_s11658-018-0120-2
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE2280- : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE70604 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: GSE2280 : [1.0, 1.0, 0.0]
+Highlight: 16YFZJ0026 : [0.0, 1.0, 0.0]
+Highlight: 16YFZJ0026 : [0.0, 1.0, 0.0]
+
+
+10.1186_s11689-019-9287-8
+Highlight: R15HD086662 : [0.0, 1.0, 0.0]
+Highlight: P50HD027802 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12859-016-0904-1
+
+
+10.1186_s12859-016-0922-z
+Highlight: SRP023548 : [1.0, 1.0, 0.0]
+Highlight: SRR873838 : [1.0, 1.0, 0.0]
+Highlight: SRR873834 : [1.0, 1.0, 0.0]
+Highlight: SRR873822 : [1.0, 1.0, 0.0]
+Highlight: SRR879615 : [1.0, 1.0, 0.0]
+Highlight: SRR879800 : [1.0, 1.0, 0.0]
+Highlight: SRR880232 : [1.0, 1.0, 0.0]
+Highlight: SRR881272 : [1.0, 1.0, 0.0]
+Highlight: SRR880070 : [1.0, 1.0, 0.0]
+Highlight: SRR881852 : [1.0, 1.0, 0.0]
+Highlight: SRR881451 : [1.0, 1.0, 0.0]
+Highlight: SRR881672 : [1.0, 1.0, 0.0]
+Highlight: SRR881985 : [1.0, 1.0, 0.0]
+Highlight: SRP041955 : [1.0, 1.0, 0.0]
+Highlight: GSE49712 : [1.0, 1.0, 0.0]
+Highlight: SRR950078 : [1.0, 1.0, 0.0]
+Highlight: SRR950080 : [1.0, 1.0, 0.0]
+Highlight: SRR950082 : [1.0, 1.0, 0.0]
+Highlight: SRR950084 : [1.0, 1.0, 0.0]
+Highlight: SRR950086 : [1.0, 1.0, 0.0]
+Highlight: SRR950079 : [1.0, 1.0, 0.0]
+Highlight: SRR950081 : [1.0, 1.0, 0.0]
+Highlight: SRR950083 : [1.0, 1.0, 0.0]
+Highlight: SRR950085 : [1.0, 1.0, 0.0]
+Highlight: SRR950087 : [1.0, 1.0, 0.0]
+Highlight: GSE70285 : [1.0, 0.5, 0.0]
+Highlight: GSE70285 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12859-016-0938-4
+
+
+10.1186_s12859-016-1206-3
+
+
+10.1186_s12859-017-1563-6
+
+
+10.1186_s12859-017-1952-x
+Highlight: SRP035367 : [1.0, 1.0, 0.0]
+Highlight: SRR1508275 : [1.0, 1.0, 0.0]
+Highlight: SRP079401 : [1.0, 1.0, 0.0]
+Highlight: SRP079401 : [1.0, 1.0, 0.0]
+Highlight: SRP079401 : [1.0, 1.0, 0.0]
+Highlight: SRP079401 : [1.0, 1.0, 0.0]
+Highlight: MG-RAST 13322 : [0.0, 1.0, 0.0]
+Highlight: MG-RAST 13322 : [0.0, 1.0, 0.0]
+Highlight: GREEEN GR-16-043 : [0.0, 1.0, 0.0]
+Highlight: DEB 1737898 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12859-018-2036-2
+
+
+10.1186_s12859-018-2146-x
+Highlight: NGII20160305 : [0.0, 1.0, 0.0]
+Highlight: No.61672447 : [0.0, 1.0, 0.0]
+Highlight: No.61640210 : [0.0, 1.0, 0.0]
+Highlight: No.11KZ|KZ03051 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12859-018-2263-6
+Highlight: GSE83083 : [1.0, 1.0, 0.0]
+Highlight: GSE83083 : [1.0, 1.0, 0.0]
+Highlight: GSE37147 : [1.0, 1.0, 0.0]
+Highlight: GSE4115 : [1.0, 1.0, 0.0]
+Highlight: GSE994 : [1.0, 1.0, 0.0]
+Highlight: GSE66499 : [1.0, 1.0, 0.0]
+Highlight: GSE7895 : [1.0, 1.0, 0.0]
+Highlight: GSE4115 : [1.0, 1.0, 0.0]
+Highlight: GSE7895 : [1.0, 1.0, 0.0]
+Highlight: GSE66499 : [1.0, 1.0, 0.0]
+Highlight: GSE83083 : [1.0, 1.0, 0.0]
+Highlight: GSE59765 : [1.0, 1.0, 0.0]
+Highlight: GSE994 : [1.0, 1.0, 0.0]
+Highlight: GSE37147 : [1.0, 1.0, 0.0]
+Highlight: U01CA164720 : [0.0, 1.0, 0.0]
+Highlight: R01ES025002 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12859-018-2414-9
+
+
+10.1186_s12859-020-3415-z
+
+
+10.1186_s12859-020-3496-8
+Highlight: No.61702397 : [0.0, 1.0, 0.0]
+Highlight: No.61772395 : [0.0, 1.0, 0.0]
+Highlight: No. 61672407 : [0.0, 1.0, 0.0]
+Highlight: No. 61532014 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12860-020-00261-6
+Highlight: MSMEG_1060 : [0.0, 1.0, 0.0]
+Highlight: MSMEG_2695 : [0.0, 1.0, 0.0]
+Highlight: MSMEG_3754 : [0.0, 1.0, 0.0]
+Highlight: MSMEG_4306 : [0.0, 1.0, 0.0]
+Highlight: MSMEG_5512 : [0.0, 1.0, 0.0]
+Highlight: UP000000757 : [1.0, 1.0, 0.0]
+Highlight: PXD016241 : [1.0, 0.0, 0.0]
+
+
+10.1186_s12862-015-0558-z
+Highlight: https:// : [1.0, 0.5, 0.0]
+Highlight: doi.org/10.6070/H42N5083 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6070/H4T43R3V : [1.0, 0.5, 0.0]
+Highlight: https://doi. : [1.0, 0.5, 0.0]
+Highlight: org/10.6070/H4PG1PR0 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6070/H4JQ : [1.0, 0.5, 0.0]
+Highlight: 0Z24 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6070/H4DZ06BS : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/ : [1.0, 0.5, 0.0]
+Highlight: 10.6070/H4959FKC : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6070/H45D8 : [1.0, 0.5, 0.0]
+Highlight: PVN : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6070/H4X : [1.0, 0.5, 0.0]
+Highlight: W4GSD : [1.0, 0.5, 0.0]
+
+
+10.1186_s12862-018-1213-2
+Highlight: GOCE-CT-2004-505403. : [0.0, 1.0, 0.0]
+Highlight: (PL97–12670 : [0.0, 1.0, 0.0]
+Highlight: GOCE-CT-2003- : [0.0, 1.0, 0.0]
+Highlight: 505446 : [0.0, 1.0, 0.0]
+Highlight: 815–01.011 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12862-019-1388-1
+Highlight: 5F32GM115209-03 : [0.0, 1.0, 0.0]
+Highlight: R01 GM-102511 : [0.0, 1.0, 0.0]
+Highlight: R01 AG049396 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12862-019-1509-x
+Highlight: 2016YFC0503200 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12863-017-0513-7
+Highlight: W81XWH-16-1-0110 : [0.0, 1.0, 0.0]
+Highlight: HG004724 : [0.0, 1.0, 0.0]
+Highlight: DA018341 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12863-019-0790-4
+Highlight: SRP158951 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-015-2206-9
+Highlight: ENSMODG00000014381 : [1.0, 1.0, 0.0]
+Highlight: GCA_000189315.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000219685.1 : [1.0, 1.0, 0.0]
+Highlight: SRX015793 : [1.0, 1.0, 0.0]
+Highlight: A:SRX015790 : [1.0, 1.0, 0.0]
+Highlight: SRX862745 : [1.0, 1.0, 0.0]
+Highlight: ERS624953 : [1.0, 0.5, 0.0]
+Highlight: ERS624952 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-018-4947-8
+
+
+10.1186_s12864-018-5054-6
+Highlight: PCSIRT13073 : [0.0, 1.0, 0.0]
+Highlight: PCSIRT_17R55 : [0.0, 1.0, 0.0]
+Highlight: 2011AA10A105 : [0.0, 1.0, 0.0]
+Highlight: 2016YFD0101504 : [0.0, 1.0, 0.0]
+Highlight: 2016YFD0101500 : [0.0, 1.0, 0.0]
+
+
+10.1186_s12864-018-5198-4
+Highlight: PRJNA421475 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-019-5872-1
+Highlight: PRJDB4785 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-019-6099-x
+Highlight: SRR8906254-SRR8906256 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-019-6131-1
+Highlight: SRR952232 : [1.0, 1.0, 0.0]
+Highlight: SRR952238 : [1.0, 1.0, 0.0]
+Highlight: ERR519283 : [1.0, 1.0, 0.0]
+Highlight: ERR519288 : [1.0, 1.0, 0.0]
+Highlight: ERR5220668 : [1.0, 1.0, 0.0]
+Highlight: ERR522063 : [1.0, 1.0, 0.0]
+Highlight: SRR7194749 : [1.0, 1.0, 0.0]
+Highlight: SRR6300650 : [1.0, 1.0, 0.0]
+Highlight: SRR7194798 : [1.0, 1.0, 0.0]
+Highlight: SRR6300675 : [1.0, 1.0, 0.0]
+Highlight: SRR6305144 : [1.0, 1.0, 0.0]
+Highlight: PRJNA292031 : [1.0, 1.0, 0.0]
+Highlight: PRJEB25675 : [1.0, 0.5, 0.0]
+Highlight: PRJEB27669 : [1.0, 0.5, 0.0]
+Highlight: PRJEB27670 : [1.0, 0.5, 0.0]
+Highlight: PRJEB24169 : [1.0, 0.5, 0.0]
+Highlight: PRJEB22479 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12864-019-6324-7
+
+
+10.1186_s12864-020-6657-2
+Highlight: PRJDB8242 : [1.0, 0.5, 0.0]
+Highlight: SAMD00169834 : [1.0, 0.5, 0.0]
+Highlight: DRA008324 : [1.0, 0.5, 0.0]
+Highlight: BJKT01000001–BJKT01000065 : [1.0, 0.5, 0.0]
+Highlight: DRA008220 : [1.0, 0.5, 0.0]
+Highlight: DRA006301 : [1.0, 0.5, 0.0]
+Highlight: DRA008173 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12866-015-0509-2
+Highlight: PRJNA283549 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12866-019-1542-3
+Highlight: RQWM00000000 : [1.0, 0.5, 0.0]
+Highlight: RQWM01000000 : [1.0, 0.5, 0.0]
+Highlight: Whole : [1.0, 0.5, 0.0]
+Highlight: Genome Shotgun : [1.0, 0.5, 0.0]
+Highlight: GCA_000007825.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000008505.1 : [1.0, 1.0, 0.0]
+Highlight: NC_007530.2, : [1.0, 1.0, 0.0]
+Highlight: NC_007323.3 : [1.0, 1.0, 0.0]
+Highlight: NC_ : [1.0, 1.0, 0.0]
+Highlight: 007322.2 : [1.0, 1.0, 0.0]
+Highlight: NC_007530.2 : [1.0, 1.0, 0.0]
+
+
+10.1186_s12866-020-01863-y
+Highlight: MN931248 : [1.0, 0.5, 0.0]
+Highlight: MN931689 : [1.0, 0.5, 0.0]
+Highlight: MN931700 : [1.0, 0.5, 0.0]
+Highlight: MT273088 : [1.0, 0.5, 0.0]
+Highlight: MN931247 : [1.0, 0.5, 0.0]
+Highlight: MN923050-MN923069 : [1.0, 0.5, 0.0]
+Highlight: NC_002978 : [1.0, 1.0, 0.0]
+Highlight: PRJNA593570 : [1.0, 0.5, 0.0]
+Highlight: SAMN13481355 : [1.0, 0.5, 0.0]
+Highlight: SAMN14519337 : [1.0, 0.5, 0.0]
+Highlight: SRX8097933 : [1.0, 0.5, 0.0]
+Highlight: SRX7550680 : [1.0, 0.5, 0.0]
+Highlight: SRX7550679 : [1.0, 0.5, 0.0]
+Highlight: SRX8097936 : [1.0, 0.5, 0.0]
+Highlight: MN923050 : [1.0, 0.5, 0.0]
+Highlight: MN923069 : [1.0, 0.5, 0.0]
+Highlight: MN931247 : [1.0, 0.5, 0.0]
+Highlight: MN931248 : [1.0, 0.5, 0.0]
+Highlight: MN931689 : [1.0, 0.5, 0.0]
+Highlight: MN931700 : [1.0, 0.5, 0.0]
+Highlight: MT273088 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12868-018-0468-2
+
+
+10.1186_s12868-019-0514-8
+
+
+10.1186_s12870-018-1332-3
+
+
+10.1186_s12870-018-1542-8
+
+
+10.1186_s12870-019-1632-2
+Highlight: SAMN10345060 : [1.0, 0.5, 0.0]
+Highlight: SAMN10345061 : [1.0, 0.5, 0.0]
+Highlight: SAMN10345062 : [1.0, 0.5, 0.0]
+Highlight: SAMN10345063 : [1.0, 0.5, 0.0]
+Highlight: PRJNA499783 : [1.0, 0.5, 0.0]
+Highlight: SAMN10345065 : [1.0, 0.5, 0.0]
+Highlight: SAMN10345064 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12870-019-1889-5
+
+
+10.1186_s12870-019-1904-x
+
+
+10.1186_s12870-019-1926-4
+Highlight: https://doi.org/10.15454/6TL2N4 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15454/IASSTN : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/1 : [1.0, 0.5, 0.0]
+Highlight: 0.15454/AEC4BN : [1.0, 0.5, 0.0]
+
+
+10.1186_s12870-019-2199-7
+
+
+10.1186_s12870-020-02651-6
+Highlight: YNR007C : [0.0, 1.0, 0.0]
+Highlight: NP_080678 : [0.0, 1.0, 0.0]
+Highlight: AT5G61500 : [0.0, 1.0, 0.0]
+Highlight: Mapoly0003s0208 : [0.0, 1.0, 0.0]
+Highlight: ME000344S06021 : [0.0, 1.0, 0.0]
+Highlight: AANG000634 : [0.0, 1.0, 0.0]
+Highlight: GAQ83284 : [0.0, 1.0, 0.0]
+Highlight: Pp3c8_11900 : [0.0, 1.0, 0.0]
+Highlight: PRJCA001964 : [1.0, 0.5, 0.0]
+Highlight: SAMC116814 : [1.0, 0.5, 0.0]
+Highlight: SAMC116811 : [1.0, 0.5, 0.0]
+Highlight: PRJCA001964 : [1.0, 0.5, 0.0]
+Highlight: SAMC116811 : [1.0, 0.5, 0.0]
+Highlight: SAMC116814 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12870-020-02692-x
+Highlight: MT702589 : [1.0, 1.0, 0.0]
+Highlight: MT702590 : [1.0, 1.0, 0.0]
+Highlight: MT702583 : [1.0, 1.0, 0.0]
+Highlight: JN105300.1 : [1.0, 1.0, 0.0]
+Highlight: ADK55061.1 : [1.0, 1.0, 0.0]
+Highlight: HQ283447.1 : [1.0, 1.0, 0.0]
+Highlight: HQ283448.1 : [1.0, 1.0, 0.0]
+Highlight: MT702582 : [1.0, 1.0, 0.0]
+Highlight: KJ466969.1 : [1.0, 1.0, 0.0]
+Highlight: MT702586 : [1.0, 1.0, 0.0]
+Highlight: MT702587 : [1.0, 1.0, 0.0]
+Highlight: MT702588 : [1.0, 1.0, 0.0]
+Highlight: MT702584 : [1.0, 1.0, 0.0]
+Highlight: MT702585 : [1.0, 1.0, 0.0]
+
+
+10.1186_s12870-020-2295-8
+Highlight: PRJNA574257 : [1.0, 0.5, 0.0]
+Highlight: PRJNA605850 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12874-018-0583-x
+
+
+10.1186_s12874-019-0829-2
+
+
+10.1186_s12879-018-3065-1
+
+
+10.1186_s12879-019-3766-0
+
+
+10.1186_s12881-019-0773-3
+
+
+10.1186_s12882-019-1494-8
+
+
+10.1186_s12884-018-1751-z
+
+
+10.1186_s12885-017-3237-1
+Highlight: CCR13262005 : [0.0, 1.0, 0.0]
+Highlight: CA098131 : [0.0, 1.0, 0.0]
+Highlight: CA68485 : [0.0, 1.0, 0.0]
+Highlight: SAC110030 : [0.0, 1.0, 0.0]
+Highlight: CA68485 : [0.0, 1.0, 0.0]
+Highlight: CCR13262005 : [0.0, 1.0, 0.0]
+Highlight: CA098131 : [0.0, 1.0, 0.0]
+Highlight: PCT/US2012/065724 : [0.0, 1.0, 0.0]
+Highlight: RB#090026 : [0.0, 1.0, 0.0]
+Highlight: SRP101418 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12885-018-4229-5
+
+
+10.1186_s12885-018-4314-9
+
+
+10.1186_s12885-018-4768-9
+
+
+10.1186_s12885-019-5681-6
+Highlight: EGAD00001004885 : [1.0, 0.5, 0.0]
+Highlight: GSE128766 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12885-020-06724-5
+
+
+10.1186_s12903-018-0656-6
+
+
+10.1186_s12906-019-2769-0
+
+
+10.1186_s12913-018-3333-1
+
+
+10.1186_s12915-018-0498-3
+
+
+10.1186_s12915-018-0584-6
+
+
+10.1186_s12916-019-1469-4
+Highlight: GSE135055 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12918-015-0209-4
+
+
+10.1186_s12918-018-0564-z
+
+
+10.1186_s12918-018-0620-8
+Highlight: PXD008153 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12920-018-0379-1
+Highlight: GSE115601 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12920-018-0403-5
+Highlight: NM_0002046.3) : [1.0, 1.0, 0.0]
+Highlight: NM_007393) : [1.0, 1.0, 0.0]
+Highlight: NM_003406.2 : [1.0, 1.0, 0.0]
+Highlight: NM_000493.3 : [1.0, 1.0, 0.0]
+Highlight: NM_001854.2 : [1.0, 1.0, 0.0]
+Highlight: NM_004385.2 : [1.0, 1.0, 0.0]
+Highlight: NM_013372.5 : [1.0, 1.0, 0.0]
+Highlight: NM_000526.3 : [1.0, 1.0, 0.0]
+Highlight: NM_005940.3 : [1.0, 1.0, 0.0]
+Highlight: NM_006832.1 : [1.0, 1.0, 0.0]
+Highlight: NM_015170.1 : [1.0, 1.0, 0.0]
+Highlight: NM_003247.2 : [1.0, 1.0, 0.0]
+Highlight: NM_002046.3 : [1.0, 1.0, 0.0]
+Highlight: NM_007393 : [1.0, 1.0, 0.0]
+Highlight: NM_003406.2 : [1.0, 1.0, 0.0]
+Highlight: GSE72205 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12920-018-0426-y
+
+
+10.1186_s12920-019-0611-7
+
+
+10.1186_s12920-019-0628-y
+Highlight: GSE49710 : [1.0, 1.0, 0.0]
+Highlight: GSE3960 : [1.0, 1.0, 0.0]
+Highlight: GSE62564 : [1.0, 1.0, 0.0]
+Highlight: GSE16476 : [1.0, 1.0, 0.0]
+Highlight: 10.5281/zenodo.3357673 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12920-019-0646-9
+Highlight: GSE63695 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12920-020-00737-6
+Highlight: EGAS00001004394 : [1.0, 0.5, 0.0]
+Highlight: /10.17044/NBIS/G000003 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12931-019-1001-6
+
+
+10.1186_s12933-019-0813-5
+
+
+10.1186_s12934-018-1005-9
+Highlight: PF06013 h : [1.0, 1.0, 0.0]
+Highlight: PF15652 d : [1.0, 1.0, 0.0]
+Highlight: PF15542 : [1.0, 1.0, 0.0]
+Highlight: IPR028916 h b : [1.0, 1.0, 0.0]
+Highlight: PF12639 ] Th : [1.0, 1.0, 0.0]
+
+
+10.1186_s12935-020-01373-x
+
+
+10.1186_s12943-018-0878-x
+
+
+10.1186_s12943-019-1017-z
+Highlight: SRP149488 : [1.0, 0.5, 0.0]
+Highlight: GDS723 : [1.0, 1.0, 0.0]
+Highlight: GDS4121 : [1.0, 1.0, 0.0]
+Highlight: GDS1453 : [1.0, 1.0, 0.0]
+Highlight: GSE11324 : [1.0, 1.0, 0.0]
+Highlight: GSE71651 : [1.0, 0.5, 0.0]
+Highlight: GSE71651 : [1.0, 0.5, 0.0]
+Highlight: SRP149488 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12967-019-2100-3
+
+
+10.1186_s12967-020-02311-1
+Highlight: 81522048 : [0.0, 1.0, 0.0]
+Highlight: 81573511 : [0.0, 1.0, 0.0]
+Highlight: 81874329 : [0.0, 1.0, 0.0]
+Highlight: 31801121 : [0.0, 1.0, 0.0]
+Highlight: 2016YFC0905000 : [0.0, 1.0, 0.0]
+Highlight: 2016YFC0905001 : [0.0, 1.0, 0.0]
+Highlight: 2016Q04 : [0.0, 1.0, 0.0]
+Highlight: GSE31312 : [1.0, 0.5, 0.0]
+Highlight: GSE10846 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12974-020-01860-y
+Highlight: R01NS079739- : [0.0, 1.0, 0.0]
+Highlight: 05 : [0.0, 1.0, 0.0]
+Highlight: GSE144193 : [1.0, 0.5, 0.0]
+
+
+10.1186_s12977-015-0204-2
+
+
+10.1186_s13007-019-0403-2
+Highlight: BB/M011194/1 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13014-018-1166-z
+
+
+10.1186_s13020-020-00307-z
+Highlight: 31560613 : [0.0, 1.0, 0.0]
+Highlight: 81100910 : [0.0, 1.0, 0.0]
+Highlight: No. 2017FE468 (-002)). : [0.0, 1.0, 0.0]
+
+
+10.1186_s13024-018-0254-8
+Highlight: GSE65067 : [1.0, 1.0, 0.0]
+Highlight: GSE49329 : [1.0, 1.0, 0.0]
+Highlight: GSE74615 : [1.0, 1.0, 0.0]
+Highlight: GSE101689 : [1.0, 1.0, 0.0]
+Highlight: K08-NS099474–1 : [0.0, 1.0, 0.0]
+Highlight: P30 NS055077 : [0.0, 1.0, 0.0]
+Highlight: SR #28301 : [0.0, 1.0, 0.0]
+Highlight: SR #37102 : [0.0, 1.0, 0.0]
+Highlight: P50 : [0.0, 1.0, 0.0]
+Highlight: AG025688 : [0.0, 1.0, 0.0]
+Highlight: AMP-AD U01 AG046161 : [0.0, 1.0, 0.0]
+Highlight: Synapse:syn11209141 : [1.0, 0.5, 0.0]
+Highlight: Synapse:syn10934660. : [1.0, 0.5, 0.0]
+
+
+10.1186_s13024-018-0266-4
+Highlight: GSE65067 : [1.0, 1.0, 0.0]
+Highlight: PXD007160) : [1.0, 1.0, 0.0]
+Highlight: P50 : [0.0, 1.0, 0.0]
+Highlight: AG025688, : [0.0, 1.0, 0.0]
+Highlight: K08-NS099474–1; : [0.0, 1.0, 0.0]
+Highlight: K08-NS087121 : [0.0, 1.0, 0.0]
+Highlight: NS055077) : [0.0, 1.0, 0.0]
+Highlight: RF1AG057471 : [0.0, 1.0, 0.0]
+Highlight: R01AG057330 : [0.0, 1.0, 0.0]
+Highlight: U01AG046161 : [0.0, 1.0, 0.0]
+Highlight: 5R01AG053960 : [0.0, 1.0, 0.0]
+Highlight: RF1AG057470 : [0.0, 1.0, 0.0]
+Highlight: #37102 : [0.0, 1.0, 0.0]
+Highlight: PXD009137 : [1.0, 0.5, 0.0]
+Highlight: # 300123 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13039-022-00631-z
+Highlight: GSE87048 h : [1.0, 1.0, 0.0]
+Highlight: GSE67047 ) : [1.0, 1.0, 0.0]
+Highlight: CONACyT-FONCICYT 95419 : [0.0, 1.0, 0.0]
+Highlight: CONACyT-FOSISS 142040 : [0.0, 1.0, 0.0]
+Highlight: 084/2010 : [0.0, 1.0, 0.0]
+Highlight: 2020/043 : [0.0, 1.0, 0.0]
+Highlight: CONACyT 100254 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13046-018-0843-y
+Highlight: O00410 : [1.0, 1.0, 0.0]
+Highlight: O95373 : [1.0, 1.0, 0.0]
+Highlight: Q96P70 : [1.0, 1.0, 0.0]
+Highlight: P52292 : [1.0, 1.0, 0.0]
+Highlight: O00629 : [1.0, 1.0, 0.0]
+Highlight: O00505 : [1.0, 1.0, 0.0]
+Highlight: Q14974 : [1.0, 1.0, 0.0]
+Highlight: Q92973 : [1.0, 1.0, 0.0]
+Highlight: E9PFH4 : [1.0, 1.0, 0.0]
+Highlight: O14980 : [1.0, 1.0, 0.0]
+Highlight: P55060 : [1.0, 1.0, 0.0]
+Highlight: Q9HAV4 : [1.0, 1.0, 0.0]
+Highlight: P12270 : [1.0, 1.0, 0.0]
+Highlight: Q9UKX7 : [1.0, 1.0, 0.0]
+Highlight: 2007–2013- : [0.0, 1.0, 0.0]
+Highlight: PON01_01059 : [0.0, 1.0, 0.0]
+Highlight: PXD007771 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13054-015-0738-7
+Highlight: 2013CB531403 : [0.0, 1.0, 0.0]
+Highlight: 2012AA021007 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13054-015-1052-0
+Highlight: GEO:GSE26440 : [1.0, 0.5, 0.0]
+Highlight: GEO:GSE26378 : [1.0, 0.5, 0.0]
+Highlight: K23GM110496 : [0.0, 1.0, 0.0]
+Highlight: R01 GM108025 : [0.0, 1.0, 0.0]
+Highlight: R01 GM099773 : [0.0, 1.0, 0.0]
+Highlight: T32GM095442 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13054-019-2488-4
+Highlight: NSFC81671171 : [0.0, 1.0, 0.0]
+Highlight: NSFC81870936 : [0.0, 1.0, 0.0]
+Highlight: NSFC81800746 : [0.0, 1.0, 0.0]
+Highlight: 2017A030313821 : [0.0, 1.0, 0.0]
+Highlight: 2018M633077 : [0.0, 1.0, 0.0]
+Highlight: LC2016PY025 : [0.0, 1.0, 0.0]
+Highlight: NFEC-2018-034 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13058-015-0618-8
+Highlight: P30CA047904 : [0.0, 1.0, 0.0]
+Highlight: W81XWH-11-1-0582 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13059-017-1200-8
+Highlight: R01GM108600 : [0.0, 1.0, 0.0]
+Highlight: R01HG006137 : [0.0, 1.0, 0.0]
+Highlight: 10.5281/zenodo.437554 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13059-018-1557-3
+Highlight: GSE120232 : [1.0, 0.5, 0.0]
+Highlight: GSE120232 : [1.0, 0.5, 0.0]
+Highlight: GSE119466 : [1.0, 0.5, 0.0]
+Highlight: GSE119466 : [1.0, 0.5, 0.0]
+Highlight: AG05065 : [0.0, 1.0, 0.0]
+Highlight: DK104814 : [0.0, 1.0, 0.0]
+Highlight: AG040118 : [0.0, 1.0, 0.0]
+Highlight: SFB 1074 : [0.0, 1.0, 0.0]
+Highlight: SFB1149 : [0.0, 1.0, 0.0]
+Highlight: FOR2674 : [0.0, 1.0, 0.0]
+Highlight: SFB1074 : [0.0, 1.0, 0.0]
+Highlight: GSE120232 : [1.0, 0.5, 0.0]
+Highlight: GSE119466 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13059-019-1749-5
+Highlight: GSE126200) : [1.0, 0.5, 0.0]
+Highlight: TCPA-2017-PASTINEN / CIHR NTC-154083 : [0.0, 1.0, 0.0]
+Highlight: U01CA200147 : [0.0, 1.0, 0.0]
+Highlight: #G-18-0021604 : [0.0, 1.0, 0.0]
+Highlight: #136979 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13059-019-1840-y
+Highlight: EGAD00001004965 : [1.0, 0.5, 0.0]
+Highlight: DK106236 : [0.0, 1.0, 0.0]
+Highlight: HL142015 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13059-019-1908-8
+Highlight: DBI #1759940 : [0.0, 1.0, 0.0]
+Highlight: DGE 1249946 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13059-019-1918-6
+Highlight: CRSI33_127485 : [0.0, 1.0, 0.0]
+Highlight: GSE118622 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13059-019-1924-8
+Highlight: GSE63525 : [1.0, 1.0, 0.0]
+Highlight: GSE72816 : [1.0, 1.0, 0.0]
+Highlight: E-MTAB-2323 : [1.0, 1.0, 0.0]
+Highlight: GSE72816 : [1.0, 1.0, 0.0]
+Highlight: GSE63525 : [1.0, 1.0, 0.0]
+Highlight: ENCSR451UAK : [1.0, 1.0, 0.0]
+Highlight: ENCSR502KJC : [1.0, 1.0, 0.0]
+Highlight: ENCSR376OQT : [1.0, 1.0, 0.0]
+Highlight: ENCSR970YPW : [1.0, 1.0, 0.0]
+Highlight: ENCSR282MAC : [1.0, 1.0, 0.0]
+Highlight: ENCSR551OAQ : [1.0, 1.0, 0.0]
+Highlight: ENCSR529CSY : [1.0, 1.0, 0.0]
+Highlight: ENCSR117DKP : [1.0, 1.0, 0.0]
+Highlight: ENCSR117AJU : [1.0, 1.0, 0.0]
+Highlight: ENCSR935NWB : [1.0, 1.0, 0.0]
+Highlight: ENCSR981LWT : [1.0, 1.0, 0.0]
+Highlight: ENCSR593JKE : [1.0, 1.0, 0.0]
+Highlight: ENCSR000COQ : [1.0, 1.0, 0.0]
+Highlight: ENCSR000CPR : [1.0, 1.0, 0.0]
+Highlight: ENCSR830HIN : [1.0, 1.0, 0.0]
+Highlight: ENCSR860HAA : [1.0, 1.0, 0.0]
+Highlight: ENCSR000AEM : [1.0, 1.0, 0.0]
+Highlight: ENCSR000CTQ : [1.0, 1.0, 0.0]
+Highlight: ENCSR000CPL : [1.0, 1.0, 0.0]
+Highlight: 5U24HG009446 : [0.0, 1.0, 0.0]
+Highlight: 5U41HG007000 : [0.0, 1.0, 0.0]
+Highlight: ENCSR480YCS, : [1.0, 1.0, 0.0]
+Highlight: E-MTAB-2323. : [1.0, 1.0, 0.0]
+
+
+10.1186_s13059-020-02048-6
+Highlight: GSE141115 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13059-020-1949-z
+Highlight: GSM2396858 : [1.0, 1.0, 0.0]
+Highlight: GSM2396859 : [1.0, 1.0, 0.0]
+Highlight: GSM2396858 : [1.0, 1.0, 0.0]
+Highlight: GSM2396859 : [1.0, 1.0, 0.0]
+Highlight: GSM3630200 : [1.0, 1.0, 0.0]
+Highlight: GSM3630201 : [1.0, 1.0, 0.0]
+Highlight: GSM3630202 : [1.0, 1.0, 0.0]
+Highlight: GSM3630203 : [1.0, 1.0, 0.0]
+Highlight: U54-CA217377. : [0.0, 1.0, 0.0]
+Highlight: SAF2017-89109-P : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/zenodo.3564179 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13068-017-0901-2
+Highlight: GSE90611 d f : [1.0, 0.5, 0.0]
+Highlight: GM068087 : [0.0, 1.0, 0.0]
+Highlight: 2 TR32 GM : [0.0, 1.0, 0.0]
+Highlight: 7127-36 A1 : [0.0, 1.0, 0.0]
+Highlight: GSE90611 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13068-018-1078-z
+Highlight: EEC-0813570 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13068-018-1167-z
+Highlight: PRJEB25632 : [1.0, 0.5, 0.0]
+Highlight: PRJNA265584 : [1.0, 0.5, 0.0]
+Highlight: DE-AC02-05CH11231 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13068-018-1316-4
+Highlight: GSE72765 : [1.0, 0.5, 0.0]
+Highlight: BK20150938 : [0.0, 1.0, 0.0]
+Highlight: 21390204 : [0.0, 1.0, 0.0]
+Highlight: 21706123 : [0.0, 1.0, 0.0]
+Highlight: 21636003 : [0.0, 1.0, 0.0]
+Highlight: IRT_14R28 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13071-016-1359-y
+Highlight: 2P01AI044220-06A1 : [0.0, 1.0, 0.0]
+Highlight: GR077229 : [0.0, 1.0, 0.0]
+Highlight: WT093587MA : [0.0, 1.0, 0.0]
+
+
+10.1186_s13071-018-2842-4
+
+
+10.1186_s13071-018-2964-8
+Highlight: D43TW007391 : [0.0, 1.0, 0.0]
+Highlight: RO3TW009444 : [0.0, 1.0, 0.0]
+Highlight: RO1AI051584 : [0.0, 1.0, 0.0]
+Highlight: SRP093558 : [1.0, 0.5, 0.0]
+Highlight: PRJNA354110 : [1.0, 0.5, 0.0]
+
+
+10.1186_s13071-018-3084-1
+Highlight: N° 2014/17764-6. : [0.0, 1.0, 0.0]
+
+
+10.1186_s13071-018-3237-2
+Highlight: 200/97308 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13072-019-0285-6
+Highlight: GSE95356 : [1.0, 0.5, 0.0]
+Highlight: GSE73406 ) : [1.0, 0.5, 0.0]
+Highlight: GSE49739 l : [1.0, 0.5, 0.0]
+Highlight: GSE80049 f : [1.0, 0.5, 0.0]
+Highlight: GSE98063 ll : [1.0, 0.5, 0.0]
+Highlight: GSE98966 : [1.0, 0.5, 0.0]
+Highlight: GSE100723 d ) : [1.0, 0.5, 0.0]
+Highlight: GSE49733 : [1.0, 0.5, 0.0]
+Highlight: GSE51176 ] f h : [1.0, 0.5, 0.0]
+Highlight: GSE54167 l ( : [1.0, 0.5, 0.0]
+Highlight: GSE73972 : [1.0, 0.5, 0.0]
+Highlight: GSE98967 l : [1.0, 0.5, 0.0]
+Highlight: GSE81436 d : [1.0, 0.5, 0.0]
+Highlight: GSE79033 ( : [1.0, 0.5, 0.0]
+Highlight: GSE19602 : [1.0, 0.5, 0.0]
+Highlight: NSFC31570315 : [0.0, 1.0, 0.0]
+Highlight: 31771420 : [0.0, 1.0, 0.0]
+Highlight: 31800207 : [0.0, 1.0, 0.0]
+Highlight: 31571319 : [0.0, 1.0, 0.0]
+Highlight: PRJNA522350 : [1.0, 0.5, 0.0]
+Highlight: 2012CB910500 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13072-019-0322-5
+Highlight: TRCN0000092555 ( : [0.0, 1.0, 0.0]
+Highlight: TRCN0000092436 ( : [0.0, 1.0, 0.0]
+Highlight: TRCN00000 ( : [0.0, 1.0, 0.0]
+Highlight: 92437 : [0.0, 1.0, 0.0]
+Highlight: TRCN0000012731 : [0.0, 1.0, 0.0]
+Highlight: TR : [0.0, 1.0, 0.0]
+Highlight: CN0000012732 : [0.0, 1.0, 0.0]
+Highlight: REP/1/2186-01-01 : [0.0, 1.0, 0.0]
+Highlight: BAS/1/1037-01-01 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13073-019-0674-2
+Highlight: PIE 15/00065 : [0.0, 1.0, 0.0]
+Highlight: PI14/01234) : [0.0, 1.0, 0.0]
+Highlight: SAF2014-55942-R : [0.0, 1.0, 0.0]
+Highlight: SAF2017- : [0.0, 1.0, 0.0]
+Highlight: 88086-R : [0.0, 1.0, 0.0]
+Highlight: PR (ATR)122/2019 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13073-019-0709-8
+
+
+10.1186_s13073-020-00727-4
+Highlight: NC_010227.2 : [1.0, 1.0, 0.0]
+Highlight: NC_010227.2 : [1.0, 1.0, 0.0]
+Highlight: P01CA203655 : [0.0, 1.0, 0.0]
+Highlight: R01CA173023 : [0.0, 1.0, 0.0]
+Highlight: R01CA63113 : [0.0, 1.0, 0.0]
+Highlight: R35CA232128 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13100-019-0153-8
+Highlight: MH937731 : [1.0, 0.5, 0.0]
+Highlight: MH937730 : [1.0, 0.5, 0.0]
+Highlight: APHIDHOST- : [0.0, 1.0, 0.0]
+Highlight: 310190 : [0.0, 1.0, 0.0]
+Highlight: BB/J004553/1 : [0.0, 1.0, 0.0]
+Highlight: 2010-65105-20558 : [0.0, 1.0, 0.0]
+Highlight: BB/ : [0.0, 1.0, 0.0]
+Highlight: N020146/1 : [0.0, 1.0, 0.0]
+Highlight: n°646625 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13104-018-4014-1
+Highlight: SRX2499144-SRX2499147 : [1.0, 0.5, 0.0]
+Highlight: GPIPB/2013/9413602) : [0.0, 1.0, 0.0]
+
+
+10.1186_s13104-019-4058-x
+Highlight: 15J06180 : [0.0, 1.0, 0.0]
+Highlight: 25242055 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13104-019-4127-1
+
+
+10.1186_s13148-018-0581-1
+Highlight: 2015/06281-7 : [0.0, 1.0, 0.0]
+Highlight: 2013/03236-5 : [0.0, 1.0, 0.0]
+Highlight: 302849/2015-7 : [0.0, 1.0, 0.0]
+Highlight: 1R01HD084542 : [0.0, 1.0, 0.0]
+Highlight: 8P51OD011092 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13148-019-0719-9
+Highlight: 2016YFC0902903 : [0.0, 1.0, 0.0]
+Highlight: 2016YFC1302904 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13321-015-0110-6
+Highlight: NSF IIS-0513376 : [0.0, 1.0, 0.0]
+Highlight: NIH : [0.0, 1.0, 0.0]
+Highlight: LM010235 : [0.0, 1.0, 0.0]
+Highlight: NIH NLM T15 LM07443 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13321-017-0223-1
+Highlight: Exp. 021 : [0.0, 1.0, 0.0]
+Highlight: V/2014/215 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13321-017-0246-7
+Highlight: 2016YFC1305805 : [0.0, 1.0, 0.0]
+Highlight: 2016YFC1305800 : [0.0, 1.0, 0.0]
+Highlight: 31670724 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13321-018-0298-3
+
+
+10.1186_s13326-019-0195-3
+Highlight: K08 HL136850) : [0.0, 1.0, 0.0]
+Highlight: R56 AG052536-01A : [0.0, 1.0, 0.0]
+Highlight: 12–315 CRE : [0.0, 1.0, 0.0]
+Highlight: 08–374 CHIR HIR : [0.0, 1.0, 0.0]
+Highlight: HIR : [0.0, 1.0, 0.0]
+Highlight: 08–204 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13568-018-0680-6
+Highlight: SRP144478 : [1.0, 0.5, 0.0]
+Highlight: SRP144478 : [1.0, 0.5, 0.0]
+Highlight: 2016YFD0700201) : [0.0, 1.0, 0.0]
+Highlight: 2016YFD0700205 : [0.0, 1.0, 0.0]
+Highlight: 31572435) : [0.0, 1.0, 0.0]
+Highlight: 2016YFD0700201 : [0.0, 1.0, 0.0]
+Highlight: 2016YFD0700205 : [0.0, 1.0, 0.0]
+Highlight: 31572435 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13617-019-0084-6
+Highlight: Folio 72170365 : [0.0, 1.0, 0.0]
+Highlight: 2018–2021 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13643-018-0859-6
+Highlight: CRD42016039557 : [0.0, 1.0, 0.0]
+Highlight: CRD42016039557 : [0.0, 1.0, 0.0]
+
+
+10.1186_s13750-020-0184-0
+Highlight: https​://doi.org/10.6084/ : [1.0, 1.0, 0.0]
+Highlight: m9.figsh​are.58973​89 : [1.0, 1.0, 0.0]
+Highlight: https​://doi.org/10.6084/m9.figsh​ : [1.0, 1.0, 0.0]
+Highlight: are.58972​72 : [1.0, 1.0, 0.0]
+
+
+10.1186_s40168-017-0338-7
+Highlight: PRJNA349463 : [1.0, 0.5, 0.0]
+Highlight: R01-DK104371) : [0.0, 1.0, 0.0]
+Highlight: UL1TR001111 : [0.0, 1.0, 0.0]
+Highlight: NICHD R24 HD050924 : [0.0, 1.0, 0.0]
+Highlight: PRJNA349463 : [1.0, 0.5, 0.0]
+Highlight: #14-0639 : [0.0, 1.0, 0.0]
+Highlight: #15-0381 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40168-018-0532-2
+Highlight: IPR000515) : [1.0, 1.0, 0.0]
+Highlight: IPR000515) : [1.0, 1.0, 0.0]
+Highlight: PF01036 : [1.0, 1.0, 0.0]
+Highlight: ERP009498 : [1.0, 1.0, 0.0]
+Highlight: ERP009498) : [1.0, 1.0, 0.0]
+Highlight: ANR-11-LABX-0037-01 : [0.0, 1.0, 0.0]
+Highlight: ANR-11-IDEX-0004-02 : [0.0, 1.0, 0.0]
+Highlight: ANR-10-EQPX-29-01 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40168-018-0550-0
+Highlight: PRJNA273799. : [1.0, 0.5, 0.0]
+Highlight: SRP058493 : [1.0, 0.5, 0.0]
+Highlight: PRJEB21451 : [1.0, 0.5, 0.0]
+Highlight: 310039-PUZZLE_CELL) : [0.0, 1.0, 0.0]
+Highlight: SSF-FFL5) : [0.0, 1.0, 0.0]
+Highlight: 2015-04959 : [0.0, 1.0, 0.0]
+Highlight: 2015-04254) : [0.0, 1.0, 0.0]
+Highlight: 2011-4369 : [0.0, 1.0, 0.0]
+Highlight: 2011-5689 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40169-019-0253-6
+Highlight: REK 07321b : [0.0, 1.0, 0.0]
+Highlight: 2017/167) : [0.0, 1.0, 0.0]
+Highlight: FOTS 8318) : [0.0, 1.0, 0.0]
+Highlight: GRANT# 144402 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40170-018-0185-4
+Highlight: TRCN0000036550 : [0.0, 1.0, 0.0]
+Highlight: TRCN0000036553 : [0.0, 1.0, 0.0]
+Highlight: TRCN0000036551 : [0.0, 1.0, 0.0]
+Highlight: GSE92742) : [1.0, 1.0, 0.0]
+Highlight: FFL12-0220 : [0.0, 1.0, 0.0]
+Highlight: CAN 2016/632 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40170-020-00212-x
+Highlight: #IS00003893R : [0.0, 1.0, 0.0]
+Highlight: R37-CA230042) : [0.0, 1.0, 0.0]
+Highlight: 14-70-25-DENI : [0.0, 1.0, 0.0]
+Highlight: K22-CA197058 : [0.0, 1.0, 0.0]
+Highlight: R03-CA227349 : [0.0, 1.0, 0.0]
+Highlight: P30-CA076292 : [0.0, 1.0, 0.0]
+Highlight: 06BS-02-9614 : [0.0, 1.0, 0.0]
+Highlight: #IS00003893R) : [0.0, 1.0, 0.0]
+
+
+10.1186_s40425-019-0730-x
+Highlight: R01CA233490 : [0.0, 1.0, 0.0]
+Highlight: P50CA142509 : [0.0, 1.0, 0.0]
+Highlight: P50CA136411 : [0.0, 1.0, 0.0]
+Highlight: R01CA138688 : [0.0, 1.0, 0.0]
+Highlight: R01CA187415 : [0.0, 1.0, 0.0]
+Highlight: 1RC1CA146299 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40478-018-0561-x
+Highlight: GSE110720 : [1.0, 0.5, 0.0]
+Highlight: GSE110716 : [1.0, 0.5, 0.0]
+Highlight: GSE110717 : [1.0, 0.5, 0.0]
+Highlight: GSE110718 : [1.0, 0.5, 0.0]
+Highlight: GSE110719 : [1.0, 0.5, 0.0]
+Highlight: GSE110720 : [1.0, 0.5, 0.0]
+Highlight: BMBF 01EK1609B : [0.0, 1.0, 0.0]
+Highlight: GRK2162 : [0.0, 1.0, 0.0]
+Highlight: BMBF 01GM1520A : [0.0, 1.0, 0.0]
+Highlight: IZKF E25 : [0.0, 1.0, 0.0]
+Highlight: AZ: 3.04.02/0121 : [0.0, 1.0, 0.0]
+
+
+10.1186_s40478-018-0655-5
+
+
+10.1186_s40657-018-0125-6
+Highlight: No. 2011T2S04 : [0.0, 1.0, 0.0]
+Highlight: 2015-04402 : [0.0, 1.0, 0.0]
+Highlight: 2015-04651, : [0.0, 1.0, 0.0]
+
+
+10.1186_s40657-020-00194-w
+Highlight: doi:10.5061/dryad​.25f7g​. h d : [1.0, 1.0, 0.0]
+Highlight: PRJNA396570 : [1.0, 0.5, 0.0]
+Highlight: https​://doi.org/10.5281/zenod​o.35253​40 : [1.0, 0.5, 0.0]
+Highlight: PRJNA​39657​0 : [1.0, 0.5, 0.0]
+
+
+10.1186_s40793-015-0095-9
+
+
+10.1186_s40851-018-0089-8
+Highlight: JPMJCR13W3 : [0.0, 1.0, 0.0]
+
+
+10.1212_wnl.0000000000006035
+Highlight: 10.5061/dryad.tq61224) : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.tq61224 : [1.0, 0.5, 0.0]
+Highlight: PXD009578. : [1.0, 0.5, 0.0]
+Highlight: 10. : [1.0, 0.5, 0.0]
+Highlight: 5061/dryad.tq61224 : [1.0, 0.5, 0.0]
+Highlight: WO/2010/046716 : [0.0, 1.0, 0.0]
+Highlight: WO/2010/046716 : [0.0, 1.0, 0.0]
+Highlight: WO/2010/046716 : [0.0, 1.0, 0.0]
+Highlight: WO/2010/046716 : [0.0, 1.0, 0.0]
+
+
+10.1242_bio.035071
+Highlight: https://doi.org/10.5061/dryad.dk5gt88 : [1.0, 0.5, 0.0]
+
+
+10.1242_dev.138545
+Highlight: /10.5061/dryad.fj0qj : [1.0, 0.5, 0.0]
+Highlight: 16GM0610004H0005 : [0.0, 1.0, 0.0]
+Highlight: 16H06385 : [0.0, 1.0, 0.0]
+Highlight: 26110005 : [0.0, 1.0, 0.0]
+
+
+10.1242_jeb.211466
+Highlight: IOS 1257886 : [0.0, 1.0, 0.0]
+Highlight: DEB : [0.0, 1.0, 0.0]
+Highlight: 1541547 : [0.0, 1.0, 0.0]
+Highlight: IOS 1425049 : [0.0, 1.0, 0.0]
+Highlight: DGE- : [0.0, 1.0, 0.0]
+Highlight: 0903637 : [0.0, 1.0, 0.0]
+Highlight: DBI-1812107 : [0.0, 1.0, 0.0]
+Highlight: DBI-1612230 : [0.0, 1.0, 0.0]
+Highlight: N00014-0910352 : [0.0, 1.0, 0.0]
+Highlight: 10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: gtht76hhb : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.10556.1
+Highlight: http://dx.doi.org/10.5256/f1000research.10556.d148743 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5256/f1000research.10556.d148744 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.10556.d148744 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.10556.d148743 : [1.0, 0.5, 0.0]
+Highlight: Pharma/IEC/GMA/196/2014 : [0.0, 1.0, 0.0]
+Highlight: E10102013 : [0.0, 1.0, 0.0]
+
+
+10.12688_f1000research.11698.1
+Highlight: g NCT01780298 : [0.0, 1.0, 0.0]
+Highlight: 10.5256/f1000research.11698.d163782 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163781 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163783 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163784 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163786 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163788 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163789 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.11698.d163790 : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.13064.1
+Highlight: 10.5256/f1000research.13064.d183806 : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.13483.1
+Highlight: 10.5256/f1000research.13483.d188591 : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.13622.1
+Highlight: 10.5256/f1000research. : [1.0, 0.5, 0.0]
+Highlight: 13622.d194233 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/f1000research.13622. : [1.0, 0.5, 0.0]
+Highlight: d194234 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/ : [1.0, 0.5, 0.0]
+Highlight: f1000research.13622.d194236 : [1.0, 0.5, 0.0]
+Highlight: 10.5256/ : [1.0, 0.5, 0.0]
+Highlight: f1000research.13622.d194235 : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.13852.1
+Highlight: 10.5256/ : [1.0, 0.5, 0.0]
+Highlight: f1000research.13852.d195529 : [1.0, 0.5, 0.0]
+
+
+10.12688_f1000research.4660.1
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+MuPDF error: unsupported error: cannot create appearance stream for  annotations
+
+Highlight: 10.5256/f1000research.4660.d34165 : [1.0, 0.5, 0.0]
+Highlight: NS046450 : [0.0, 1.0, 0.0]
+Highlight: NS078792 : [0.0, 1.0, 0.0]
+
+
+10.1364_oe.25.001985
+Highlight: https://doi.org/10.15125/BATH-00325 : [1.0, 0.5, 0.0]
+Highlight: EP/K03197X/1 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pcbi.1011828
+Highlight: CD14 : [0.0, 1.0, 0.0]
+Highlight: PPIA, : [0.0, 1.0, 0.0]
+Highlight: MRC2 : [0.0, 1.0, 0.0]
+Highlight: PRDX1 : [0.0, 1.0, 0.0]
+Highlight: TXNDC5 : [0.0, 1.0, 0.0]
+Highlight: PID2021-122227OB-I00 : [0.0, 1.0, 0.0]
+Highlight: RTI2018-095055-B-I00 : [0.0, 1.0, 0.0]
+Highlight: PDC2022-133056-I00 : [0.0, 1.0, 0.0]
+Highlight: MCIN/AEI/10.13039/ : [0.0, 1.0, 0.0]
+Highlight: 501100011033) : [0.0, 1.0, 0.0]
+Highlight: BB/ : [0.0, 1.0, 0.0]
+Highlight: T019670/1 : [0.0, 1.0, 0.0]
+Highlight: IND2019/BMD-17153 : [0.0, 1.0, 0.0]
+Highlight: PXD001676 : [1.0, 1.0, 0.0]
+Highlight: PXD002137 : [1.0, 1.0, 0.0]
+Highlight: PXD014511 : [1.0, 1.0, 0.0]
+Highlight: PXD019504 : [1.0, 1.0, 0.0]
+Highlight: PDC000111 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-23 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-106 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-105 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-104 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-103 : [1.0, 1.0, 0.0]
+Highlight: PXD005693 : [1.0, 1.0, 0.0]
+Highlight: PXD020454 : [1.0, 1.0, 0.0]
+Highlight: PXD010458 : [1.0, 1.0, 0.0]
+Highlight: JPST000867 : [1.0, 1.0, 0.0]
+Highlight: PXD031556 : [1.0, 1.0, 0.0]
+Highlight: PXD032899 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-100 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-101 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-102 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-107 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-108 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-109 : [1.0, 1.0, 0.0]
+Highlight: E-PROT-110 : [1.0, 1.0, 0.0]
+Highlight: PXD005709 : [1.0, 1.0, 0.0]
+Highlight: PXD001676 : [1.0, 1.0, 0.0]
+Highlight: PXD001676 : [1.0, 1.0, 0.0]
+Highlight: PXD005693 : [1.0, 1.0, 0.0]
+Highlight: JPST000867 : [1.0, 1.0, 0.0]
+Highlight: PXD005709 : [1.0, 1.0, 0.0]
+Highlight: PXD020454 : [1.0, 1.0, 0.0]
+Highlight: GO0000723 : [0.0, 1.0, 0.0]
+Highlight: GO0042254 : [0.0, 1.0, 0.0]
+Highlight: GO0007049 : [0.0, 1.0, 0.0]
+Highlight: GO0006412 : [0.0, 1.0, 0.0]
+Highlight: GO0045333 : [0.0, 1.0, 0.0]
+Highlight: GO0034774 : [0.0, 1.0, 0.0]
+Highlight: GO0005576 : [0.0, 1.0, 0.0]
+Highlight: GO1903561 : [0.0, 1.0, 0.0]
+Highlight: GO0007596 : [0.0, 1.0, 0.0]
+Highlight: GO0007049 : [0.0, 1.0, 0.0]
+Highlight: GO0045333 : [0.0, 1.0, 0.0]
+Highlight: GO0006412 : [0.0, 1.0, 0.0]
+Highlight: GO0042060 : [0.0, 1.0, 0.0]
+Highlight: GSE41258 : [1.0, 1.0, 0.0]
+Highlight: GO0005759 : [0.0, 1.0, 0.0]
+Highlight: GO0034774 : [0.0, 1.0, 0.0]
+Highlight: GO0005634 : [0.0, 1.0, 0.0]
+Highlight: GSE41258 : [1.0, 1.0, 0.0]
+
+
+10.1371_journal.pntd.0005385
+Highlight: 10.5061/dryad.72v34 : [1.0, 0.5, 0.0]
+Highlight: 2011-2014 DSO/GA-515/10 : [0.0, 1.0, 0.0]
+Highlight: OPP1016395 : [0.0, 1.0, 0.0]
+Highlight: UL1RR031988 : [0.0, 1.0, 0.0]
+Highlight: NCT01385189 : [0.0, 1.0, 0.0]
+Highlight: NCT01261130 : [0.0, 1.0, 0.0]
+Highlight: NCT01261130 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0070749
+Highlight: RO1GM100366 : [0.0, 1.0, 0.0]
+Highlight: RO1GM097415 : [0.0, 1.0, 0.0]
+Highlight: doi:10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.5q1sb : [1.0, 0.5, 0.0]
+Highlight: 4523256.3 : [0.0, 1.0, 0.0]
+Highlight: 4523279.3 : [0.0, 1.0, 0.0]
+Highlight: 4523258.3 : [0.0, 1.0, 0.0]
+Highlight: 4523268.3 : [0.0, 1.0, 0.0]
+Highlight: 4523293.3 : [0.0, 1.0, 0.0]
+Highlight: 4523265.3 : [0.0, 1.0, 0.0]
+Highlight: 4523290.3 : [0.0, 1.0, 0.0]
+Highlight: 4523300.3 : [0.0, 1.0, 0.0]
+Highlight: 4523277.3 : [0.0, 1.0, 0.0]
+Highlight: 4523299.3 : [0.0, 1.0, 0.0]
+Highlight: 4523254.3 : [0.0, 1.0, 0.0]
+Highlight: 4523281.3 : [0.0, 1.0, 0.0]
+Highlight: 4523255.3 : [0.0, 1.0, 0.0]
+Highlight: 4523282.3 : [0.0, 1.0, 0.0]
+Highlight: 4523283.3 : [0.0, 1.0, 0.0]
+Highlight: 4523260.3 : [0.0, 1.0, 0.0]
+Highlight: 4523257.3 : [0.0, 1.0, 0.0]
+Highlight: 4523285.3 : [0.0, 1.0, 0.0]
+Highlight: 4523295.3 : [0.0, 1.0, 0.0]
+Highlight: 4523267.3 : [0.0, 1.0, 0.0]
+Highlight: 4523292.3 : [0.0, 1.0, 0.0]
+Highlight: 4523298.3 : [0.0, 1.0, 0.0]
+Highlight: 4523302.3 : [0.0, 1.0, 0.0]
+Highlight: 4523305.3 : [0.0, 1.0, 0.0]
+Highlight: 4523270.3 : [0.0, 1.0, 0.0]
+Highlight: 4523284.3 : [0.0, 1.0, 0.0]
+Highlight: 4523262.3 : [0.0, 1.0, 0.0]
+Highlight: 4523287.3 : [0.0, 1.0, 0.0]
+Highlight: 4523259.3 : [0.0, 1.0, 0.0]
+Highlight: 4523269.3 : [0.0, 1.0, 0.0]
+Highlight: 4523294.3 : [0.0, 1.0, 0.0]
+Highlight: 4523304.3 : [0.0, 1.0, 0.0]
+Highlight: 4523273.3 : [0.0, 1.0, 0.0]
+Highlight: 4523251.3 : [0.0, 1.0, 0.0]
+Highlight: 4523297.3 : [0.0, 1.0, 0.0]
+Highlight: 4523253.3 : [0.0, 1.0, 0.0]
+Highlight: 4523264.3 : [0.0, 1.0, 0.0]
+Highlight: 4523289.3 : [0.0, 1.0, 0.0]
+Highlight: 4523261.3 : [0.0, 1.0, 0.0]
+Highlight: 4523286.3 : [0.0, 1.0, 0.0]
+Highlight: 4523296.3 : [0.0, 1.0, 0.0]
+Highlight: 4523250.3 : [0.0, 1.0, 0.0]
+Highlight: 4523272.3 : [0.0, 1.0, 0.0]
+Highlight: 4523276.3 : [0.0, 1.0, 0.0]
+Highlight: 4523252.3 : [0.0, 1.0, 0.0]
+Highlight: 4523280.3 : [0.0, 1.0, 0.0]
+Highlight: 4523266.3 : [0.0, 1.0, 0.0]
+Highlight: 4523291.3 : [0.0, 1.0, 0.0]
+Highlight: 4523263.3 : [0.0, 1.0, 0.0]
+Highlight: 4523288.3 : [0.0, 1.0, 0.0]
+Highlight: 4523271.3 : [0.0, 1.0, 0.0]
+Highlight: 4523275.3 : [0.0, 1.0, 0.0]
+Highlight: 4523301.3 : [0.0, 1.0, 0.0]
+Highlight: 4523278.3 : [0.0, 1.0, 0.0]
+Highlight: 4523303.3 : [0.0, 1.0, 0.0]
+Highlight: 4523274.3 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0093021
+Highlight: FP7/2007-2013 : [0.0, 1.0, 0.0]
+Highlight: nu 211384 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0096457
+Highlight: http://dx.doi.org/10.5061/dryad.[sn878] : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0117675
+Highlight: doi:10.5061/dryad.7pd40 : [1.0, 0.5, 0.0]
+Highlight: G13/36138.1 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0137181
+Highlight: 10.5061/ : [1.0, 0.5, 0.0]
+Highlight: dryad.m4r46 : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0139215
+Highlight: http://dx.doi.org/10.5061/dryad.27m63 : [1.0, 0.5, 0.0]
+Highlight: OUVC 10445 : [0.0, 1.0, 0.0]
+Highlight: 10603 : [0.0, 1.0, 0.0]
+Highlight: 10611 : [0.0, 1.0, 0.0]
+Highlight: 10612 : [0.0, 1.0, 0.0]
+Highlight: 10709 : [0.0, 1.0, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.27m63 : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0146274
+Highlight: KT345715 : [1.0, 0.5, 0.0]
+Highlight: KT345716 : [1.0, 0.5, 0.0]
+Highlight: KT345720 : [1.0, 0.5, 0.0]
+Highlight: KT345719 : [1.0, 0.5, 0.0]
+Highlight: KT345718 : [1.0, 0.5, 0.0]
+Highlight: KT345717 : [1.0, 0.5, 0.0]
+Highlight: KT345721 : [1.0, 0.5, 0.0]
+Highlight: KT345722 : [1.0, 0.5, 0.0]
+Highlight: KT345723, : [1.0, 0.5, 0.0]
+Highlight: KT345724 : [1.0, 0.5, 0.0]
+Highlight: KT345725 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi. : [1.0, 0.5, 0.0]
+Highlight: org/10.5061/dryad.kh186 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.kh186 : [1.0, 0.5, 0.0]
+Highlight: 31100273/C030101 : [0.0, 1.0, 0.0]
+Highlight: AR2012/03001 : [0.0, 1.0, 0.0]
+Highlight: ENSG00000116044 : [1.0, 1.0, 0.0]
+Highlight: ENSPTRG00000012677 : [1.0, 1.0, 0.0]
+Highlight: ENSBTAG00000019255 : [1.0, 1.0, 0.0]
+Highlight: ENSCAFG00000013506 : [1.0, 1.0, 0.0]
+Highlight: ENSSTOG00000000313 : [1.0, 1.0, 0.0]
+Highlight: KT345715-KT345725 : [1.0, 0.5, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.kh186 : [1.0, 0.5, 0.0]
+Highlight: 10.5061/dryad.kh186 : [1.0, 0.5, 0.0]
+Highlight: 100D : [0.0, 1.0, 0.0]
+Highlight: 133D : [0.0, 1.0, 0.0]
+Highlight: 205F : [0.0, 1.0, 0.0]
+Highlight: 224G : [0.0, 1.0, 0.0]
+Highlight: 279I : [0.0, 1.0, 0.0]
+Highlight: 350R : [0.0, 1.0, 0.0]
+Highlight: 424S : [0.0, 1.0, 0.0]
+Highlight: A100D : [0.0, 1.0, 0.0]
+Highlight: N133D : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+Highlight: D224G : [0.0, 1.0, 0.0]
+Highlight: T350R : [0.0, 1.0, 0.0]
+Highlight: T279I : [0.0, 1.0, 0.0]
+Highlight: N424S : [0.0, 1.0, 0.0]
+Highlight: A100D : [0.0, 1.0, 0.0]
+Highlight: N133D : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+Highlight: D224G : [0.0, 1.0, 0.0]
+Highlight: T279I : [0.0, 1.0, 0.0]
+Highlight: T350R : [0.0, 1.0, 0.0]
+Highlight: N133D : [0.0, 1.0, 0.0]
+Highlight: A100D : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+Highlight: N424S : [0.0, 1.0, 0.0]
+Highlight: T279I : [0.0, 1.0, 0.0]
+Highlight: D224G : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: T350R : [0.0, 1.0, 0.0]
+Highlight: T279I : [0.0, 1.0, 0.0]
+Highlight: D205F, : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+Highlight: T350R : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: f : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: T279I : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Neh7 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: Neh6 : [0.0, 1.0, 0.0]
+Highlight: Nrf2 : [0.0, 1.0, 0.0]
+Highlight: T350G : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+Highlight: D205F : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0159387
+Highlight: SRX1830060 : [1.0, 0.5, 0.0]
+Highlight: PRJNA296687 : [1.0, 0.5, 0.0]
+Highlight: CP013147 : [1.0, 0.5, 0.0]
+Highlight: CP013147 : [1.0, 0.5, 0.0]
+Highlight: SRX1830060 : [1.0, 0.5, 0.0]
+Highlight: PRJNA20133 : [1.0, 1.0, 0.0]
+Highlight: PRJNA16146 : [1.0, 1.0, 0.0]
+Highlight: PRJNA16148 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167259 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167255 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167229 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167242 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74077 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74089 : [1.0, 1.0, 0.0]
+Highlight: PRJNA65041 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167235 : [1.0, 1.0, 0.0]
+Highlight: PRJNA10687 : [1.0, 1.0, 0.0]
+Highlight: PRJNA293 : [1.0, 1.0, 0.0]
+Highlight: PRJNA32553 : [1.0, 1.0, 0.0]
+Highlight: PRJNA217894 : [1.0, 1.0, 0.0]
+Highlight: PRJNA185511 : [1.0, 1.0, 0.0]
+Highlight: PRJNA287300 : [1.0, 1.0, 0.0]
+Highlight: PRJNA65043 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74039 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74079 : [1.0, 1.0, 0.0]
+Highlight: PRJNA167243 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74167 : [1.0, 1.0, 0.0]
+Highlight: PRJNA47139 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74123 : [1.0, 1.0, 0.0]
+Highlight: PRJNA296687 : [1.0, 0.5, 0.0]
+Highlight: CP013147 : [1.0, 0.5, 0.0]
+Highlight: CP013147 : [1.0, 0.5, 0.0]
+Highlight: PRJNA167242 : [1.0, 1.0, 0.0]
+Highlight: PRJNA74077) : [1.0, 1.0, 0.0]
+Highlight: PRJNA167229) : [1.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0170126
+Highlight: 2014-70 : [0.0, 1.0, 0.0]
+Highlight: KU363044–KU363130 : [1.0, 0.5, 0.0]
+Highlight: KU363044 : [1.0, 0.5, 0.0]
+Highlight: KU363045 : [1.0, 0.5, 0.0]
+Highlight: KU363046 : [1.0, 0.5, 0.0]
+Highlight: KU363047 : [1.0, 0.5, 0.0]
+Highlight: KU363048 : [1.0, 0.5, 0.0]
+Highlight: KU363049 : [1.0, 0.5, 0.0]
+Highlight: KU363050 : [1.0, 0.5, 0.0]
+Highlight: KU363051 : [1.0, 0.5, 0.0]
+Highlight: KU363052 : [1.0, 0.5, 0.0]
+Highlight: KU363053 : [1.0, 0.5, 0.0]
+Highlight: KU363054 : [1.0, 0.5, 0.0]
+Highlight: KU363055 : [1.0, 0.5, 0.0]
+Highlight: KU363056 : [1.0, 0.5, 0.0]
+Highlight: KU363057 : [1.0, 0.5, 0.0]
+Highlight: KU363058 : [1.0, 0.5, 0.0]
+Highlight: KU363059 : [1.0, 0.5, 0.0]
+Highlight: KU363060 : [1.0, 0.5, 0.0]
+Highlight: KU363061 : [1.0, 0.5, 0.0]
+Highlight: KU363062 : [1.0, 0.5, 0.0]
+Highlight: KU363063 : [1.0, 0.5, 0.0]
+Highlight: KU363064 : [1.0, 0.5, 0.0]
+Highlight: KU363065 : [1.0, 0.5, 0.0]
+Highlight: KU363066 : [1.0, 0.5, 0.0]
+Highlight: KU363067 : [1.0, 0.5, 0.0]
+Highlight: KU363068 : [1.0, 0.5, 0.0]
+Highlight: KU363069 : [1.0, 0.5, 0.0]
+Highlight: KU363070 : [1.0, 0.5, 0.0]
+Highlight: KU363071 : [1.0, 0.5, 0.0]
+Highlight: KU363072 : [1.0, 0.5, 0.0]
+Highlight: KU363073 : [1.0, 0.5, 0.0]
+Highlight: KU363074 : [1.0, 0.5, 0.0]
+Highlight: KU363075 : [1.0, 0.5, 0.0]
+Highlight: KU363076 : [1.0, 0.5, 0.0]
+Highlight: KU363077 : [1.0, 0.5, 0.0]
+Highlight: KU363078 : [1.0, 0.5, 0.0]
+Highlight: KU363079 : [1.0, 0.5, 0.0]
+Highlight: KU363080 : [1.0, 0.5, 0.0]
+Highlight: KU363081 : [1.0, 0.5, 0.0]
+Highlight: KU363082 : [1.0, 0.5, 0.0]
+Highlight: KU363111 : [1.0, 0.5, 0.0]
+Highlight: KU363112 : [1.0, 0.5, 0.0]
+Highlight: KU363113 : [1.0, 0.5, 0.0]
+Highlight: KU363114 : [1.0, 0.5, 0.0]
+Highlight: KU363115 : [1.0, 0.5, 0.0]
+Highlight: KU363116 : [1.0, 0.5, 0.0]
+Highlight: KU363122 : [1.0, 0.5, 0.0]
+Highlight: KU363123 : [1.0, 0.5, 0.0]
+Highlight: KU363124 : [1.0, 0.5, 0.0]
+Highlight: KU363125 : [1.0, 0.5, 0.0]
+Highlight: KU363126 : [1.0, 0.5, 0.0]
+Highlight: KU363127 : [1.0, 0.5, 0.0]
+Highlight: KU363132 : [1.0, 0.5, 0.0]
+Highlight: KU363128 : [1.0, 0.5, 0.0]
+Highlight: KU363129 : [1.0, 0.5, 0.0]
+Highlight: KU363131 : [1.0, 0.5, 0.0]
+Highlight: KU363130 : [1.0, 0.5, 0.0]
+Highlight: KU363083 : [1.0, 0.5, 0.0]
+Highlight: KU363084 : [1.0, 0.5, 0.0]
+Highlight: KU363085 : [1.0, 0.5, 0.0]
+Highlight: KU363086 : [1.0, 0.5, 0.0]
+Highlight: KU363087 : [1.0, 0.5, 0.0]
+Highlight: KU363088 : [1.0, 0.5, 0.0]
+Highlight: KU363089 : [1.0, 0.5, 0.0]
+Highlight: KU363090 : [1.0, 0.5, 0.0]
+Highlight: KU363091 : [1.0, 0.5, 0.0]
+Highlight: KU363092 : [1.0, 0.5, 0.0]
+Highlight: KU363093 : [1.0, 0.5, 0.0]
+Highlight: KU363094 : [1.0, 0.5, 0.0]
+Highlight: KU363095 : [1.0, 0.5, 0.0]
+Highlight: KU363096 : [1.0, 0.5, 0.0]
+Highlight: KU363097 : [1.0, 0.5, 0.0]
+Highlight: KU363098 : [1.0, 0.5, 0.0]
+Highlight: KU363099 : [1.0, 0.5, 0.0]
+Highlight: KU363100 : [1.0, 0.5, 0.0]
+Highlight: KU363101 : [1.0, 0.5, 0.0]
+Highlight: KU363102 : [1.0, 0.5, 0.0]
+Highlight: KU363103 : [1.0, 0.5, 0.0]
+Highlight: KU363121 : [1.0, 0.5, 0.0]
+Highlight: KU363117 : [1.0, 0.5, 0.0]
+Highlight: KU363118 : [1.0, 0.5, 0.0]
+Highlight: KU363120 : [1.0, 0.5, 0.0]
+Highlight: KU363119 : [1.0, 0.5, 0.0]
+Highlight: KU363104 : [1.0, 0.5, 0.0]
+Highlight: KU363105 : [1.0, 0.5, 0.0]
+Highlight: KU363106 : [1.0, 0.5, 0.0]
+Highlight: KU363107 : [1.0, 0.5, 0.0]
+Highlight: KU363108 : [1.0, 0.5, 0.0]
+Highlight: KU363109 : [1.0, 0.5, 0.0]
+Highlight: KU363110 : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0188323
+Highlight: https://doi.org/ : [1.0, 0.5, 0.0]
+Highlight: 10.13020/D6WX0S : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0191086
+
+
+10.1371_journal.pone.0198382
+Highlight: https://doi.org/10.5066/ : [1.0, 0.5, 0.0]
+Highlight: F72J69RM : [1.0, 0.5, 0.0]
+
+
+10.1371_journal.pone.0200041
+Highlight: https://doi.org/10.5061/dryad. : [1.0, 0.5, 0.0]
+Highlight: f8c5r7q : [1.0, 0.5, 0.0]
+Highlight: #1501737 : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0212669
+Highlight: E-GEOD-19722 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-28654 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-29623 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-39084 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-45216 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-45670 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-46474 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-48278 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-48350 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-48780 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-49243 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-50774 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-53224 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-53890 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-54543 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-54837 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-58697 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-59312 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-60028 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-61804 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-63626 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-64415 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-64857 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-67851 : [1.0, 1.0, 0.0]
+Highlight: E-GEOD-68720 : [1.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0220399
+Highlight: https://doi.org/ : [1.0, 0.0, 0.0]
+Highlight: 10.5061/dryad.8t3g361 : [1.0, 0.0, 0.0]
+Highlight: NCT01367093 : [0.0, 1.0, 0.0]
+Highlight: n˚B403201213353 : [0.0, 1.0, 0.0]
+Highlight: NCT01367093) : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0253228
+Highlight: 10.5061/dryad.j0zpc86f2 : [1.0, 0.0, 0.0]
+
+
+10.1371_journal.pone.0262974
+Highlight: 2020BQ23 : [0.0, 1.0, 0.0]
+Highlight: 2022-1980 : [0.0, 1.0, 0.0]
+Highlight: nheA : [0.0, 1.0, 0.0]
+Highlight: nheB : [0.0, 1.0, 0.0]
+Highlight: nheC : [0.0, 1.0, 0.0]
+Highlight: hblA : [0.0, 1.0, 0.0]
+Highlight: hblC : [0.0, 1.0, 0.0]
+Highlight: hblD : [0.0, 1.0, 0.0]
+Highlight: cytK : [0.0, 1.0, 0.0]
+Highlight: hblACD : [0.0, 1.0, 0.0]
+Highlight: GCA_000160935.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161215.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161155.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161295.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161175.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161055.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000160895.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161275.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000160915.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161315.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161235.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000003645.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161095.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161395.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161375.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161395.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000003955.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_0000160995.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161075.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_009176625.1 : [1.0, 1.0, 0.0]
+Highlight: 172560W : [0.0, 1.0, 0.0]
+Highlight: ATCC10876 : [0.0, 1.0, 0.0]
+Highlight: BGSC6E1 : [0.0, 1.0, 0.0]
+Highlight: F65185 : [0.0, 1.0, 0.0]
+Highlight: AH676 : [0.0, 1.0, 0.0]
+Highlight: AH1271 : [0.0, 1.0, 0.0]
+Highlight: AH1272 : [0.0, 1.0, 0.0]
+Highlight: AH1273 : [0.0, 1.0, 0.0]
+Highlight: R309803 : [0.0, 1.0, 0.0]
+Highlight: BDRD-ST26 : [0.0, 1.0, 0.0]
+Highlight: Control 70–3 : [0.0, 1.0, 0.0]
+Highlight: BDRD-ST196 : [0.0, 1.0, 0.0]
+Highlight: m1293 : [0.0, 1.0, 0.0]
+Highlight: Rock3-42 : [0.0, 1.0, 0.0]
+Highlight: Rock3-28 : [0.0, 1.0, 0.0]
+Highlight: Rock4-2 : [0.0, 1.0, 0.0]
+Highlight: BDRD-ST24 : [0.0, 1.0, 0.0]
+Highlight: Rock1-15 : [0.0, 1.0, 0.0]
+Highlight: Rock4-18 : [0.0, 1.0, 0.0]
+Highlight: Rock1-3 : [0.0, 1.0, 0.0]
+Highlight: Rock3-29 : [0.0, 1.0, 0.0]
+Highlight: GCA_000021205.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000007825.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_001518875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000022505.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000008005.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000021305.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000021785.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000239195.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000013065.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000143605.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000833045.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000021225.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000283675.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_010223795.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_010232525.2 : [1.0, 1.0, 0.0]
+Highlight: GCA_002504105.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_007923085.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161015.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161115.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161035.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000161135.1 : [1.0, 1.0, 0.0]
+Highlight: B4264 : [0.0, 1.0, 0.0]
+Highlight: ATCC14579 : [0.0, 1.0, 0.0]
+Highlight: FORC-013 : [0.0, 1.0, 0.0]
+Highlight: 03BB102 : [0.0, 1.0, 0.0]
+Highlight: ATCC10987 : [0.0, 1.0, 0.0]
+Highlight: AH820 : [0.0, 1.0, 0.0]
+Highlight: G9842 : [0.0, 1.0, 0.0]
+Highlight: F837/76 : [0.0, 1.0, 0.0]
+Highlight: Q1 : [0.0, 1.0, 0.0]
+Highlight: CI : [0.0, 1.0, 0.0]
+Highlight: E33L : [0.0, 1.0, 0.0]
+Highlight: AH187 : [0.0, 1.0, 0.0]
+Highlight: NC7401 : [0.0, 1.0, 0.0]
+Highlight: SGAir0263 : [0.0, 1.0, 0.0]
+Highlight: SGAir0260 : [0.0, 1.0, 0.0]
+Highlight: BHU1 : [0.0, 1.0, 0.0]
+Highlight: Co1-1 : [0.0, 1.0, 0.0]
+Highlight: ATCC4342 : [0.0, 1.0, 0.0]
+Highlight: BDRD-Cer4 : [0.0, 1.0, 0.0]
+Highlight: m1550 : [0.0, 1.0, 0.0]
+Highlight: 95/8201 : [0.0, 1.0, 0.0]
+Highlight: nhe : [0.0, 1.0, 0.0]
+Highlight: hbl : [0.0, 1.0, 0.0]
+Highlight: cytK : [0.0, 1.0, 0.0]
+Highlight: glpF : [0.0, 1.0, 0.0]
+Highlight: adk : [0.0, 1.0, 0.0]
+Highlight: glpT : [0.0, 1.0, 0.0]
+Highlight: ccpA : [0.0, 1.0, 0.0]
+Highlight: pta : [0.0, 1.0, 0.0]
+Highlight: cytk : [0.0, 1.0, 0.0]
+Highlight: nheAB : [0.0, 1.0, 0.0]
+Highlight: hblCD : [0.0, 1.0, 0.0]
+Highlight: lA : [0.0, 1.0, 0.0]
+Highlight: hblD : [0.0, 1.0, 0.0]
+Highlight: nheABC : [0.0, 1.0, 0.0]
+Highlight: hblACD : [0.0, 1.0, 0.0]
+Highlight: 7nmq.1.A : [0.0, 1.0, 0.0]
+Highlight: 7nmq.1.A : [0.0, 1.0, 0.0]
+Highlight: 2nrj.1.A : [0.0, 1.0, 0.0]
+Highlight: 7nmq.1.A : [0.0, 1.0, 0.0]
+Highlight: 4k1p.1.A : [0.0, 1.0, 0.0]
+Highlight: 3yhd.1.A : [0.0, 1.0, 0.0]
+Highlight: 4k1p.1.A : [0.0, 1.0, 0.0]
+
+
+10.1371_journal.pone.0284951
+Highlight: https://doi. : [1.0, 0.5, 0.0]
+Highlight: org/10.13012/B2IDB-5784165_V1 : [1.0, 0.5, 0.0]
+Highlight: UIUC-BI-BIC) : [0.0, 1.0, 0.0]
+
+
+10.14358_pers.22-00039r2
+Highlight: y https://doi.org/10.5066/ : [1.0, 0.5, 0.0]
+Highlight: P98LO5D4 : [1.0, 0.5, 0.0]
+
+
+10.14379_iodp.proc.390393.208.2024
+Highlight: https://doi.pangaea.de/10.1594/PANGAEA.964943 : [1.0, 0.5, 0.0]
+Highlight: https://doi.pangaea.de/ 10.1594/ : [1.0, 0.5, 0.0]
+Highlight: PANGAEA.965000 : [1.0, 0.5, 0.0]
+Highlight: OCE1450528) : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.1594/IEDA/500255 : [1.0, 1.0, 0.0]
+
+
+10.1534_g3.119.400401
+Highlight: https://doi.org/10.25387/g3.9478253. : [1.0, 0.5, 0.0]
+Highlight: PRJNA473780 : [1.0, 1.0, 0.0]
+Highlight: PRJNA488050 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.25387/g3.9478253 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.13020/adqb-bb41 : [1.0, 0.5, 0.0]
+Highlight: 2011-68002-30029 : [0.0, 1.0, 0.0]
+Highlight: IOS-1339393 : [0.0, 1.0, 0.0]
+Highlight: MCB-1518058 : [0.0, 1.0, 0.0]
+
+
+10.1534_g3.119.400993
+Highlight: https://doi.org/10.25387/g3.9626636 : [1.0, 0.5, 0.0]
+Highlight: GSE68510 : [1.0, 1.0, 0.0]
+Highlight: 10.25387/g3.9626636 : [1.0, 0.5, 0.0]
+Highlight: GO:0009725, : [0.0, 1.0, 0.0]
+Highlight: GO:0009719 : [0.0, 1.0, 0.0]
+Highlight: GO:0010033 : [0.0, 1.0, 0.0]
+Highlight: GO:0042221 : [0.0, 1.0, 0.0]
+Highlight: CMB-035919) : [0.0, 1.0, 0.0]
+Highlight: IOS-1802848 : [0.0, 1.0, 0.0]
+
+
+10.1534_genetics.120.303190
+Highlight: pET29bHTV : [0.0, 1.0, 0.0]
+Highlight: pET29bHTV-HSP82 : [0.0, 1.0, 0.0]
+Highlight: pET29bHTV-STI. : [0.0, 1.0, 0.0]
+Highlight: SAB5200007 : [0.0, 1.0, 0.0]
+Highlight: ADI-SPA-822-F : [0.0, 1.0, 0.0]
+Highlight: MA5-15256 : [0.0, 1.0, 0.0]
+Highlight: pET29bHTV-STI1 : [0.0, 1.0, 0.0]
+Highlight: pET29bHTV- : [0.0, 1.0, 0.0]
+Highlight: HSP82 : [0.0, 1.0, 0.0]
+Highlight: 10.25386/genetics.12136941 : [1.0, 0.5, 0.0]
+Highlight: BT/PR6463/GBD/27/420/2012) : [0.0, 1.0, 0.0]
+
+
+10.1590_0001-3765201920180768
+
+
+10.1590_0001-3765201920190822
+Highlight: ED09/2009) : [0.0, 1.0, 0.0]
+
+
+10.1590_0034-7167-2018-0065
+
+
+10.1590_0034-737x201966050002
+
+
+10.1590_0047-2085000000239
+
+
+10.1590_0102-778632120150164
+
+
+10.1590_0102-77863220007
+
+
+10.1590_0102.3772e35417
+
+
+10.1590_0103-6351_4070
+
+
+10.1590_0103-6440201802861
+
+
+10.1590_0104-4060.59642
+
+
+10.1590_0104-530x4900-19
+
+
+10.1590_0104-6632.20190362s20180340
+Highlight: MH532414 : [1.0, 1.0, 0.0]
+Highlight: MH675468 : [1.0, 1.0, 0.0]
+Highlight: p MH532415 : [1.0, 1.0, 0.0]
+Highlight: MH569333 : [1.0, 1.0, 0.0]
+
+
+10.1590_1413-785220192703169516
+
+
+10.1590_1414-431x20198292
+Highlight: 2014/50489-9 : [0.0, 1.0, 0.0]
+Highlight: 2015/ : [0.0, 1.0, 0.0]
+Highlight: 26791-0 : [0.0, 1.0, 0.0]
+
+
+10.1590_1516-3180.2018.0270071218
+
+
+10.1590_1517-869220192505126869
+
+
+10.1590_1519-6984.192126
+Highlight: pp CRA-APQ 01767-11) : [0.0, 1.0, 0.0]
+
+
+10.1590_1678-4162-10032
+
+
+10.1590_1678-4162-10752
+Highlight: 8441110317/2017 : [0.0, 1.0, 0.0]
+
+
+10.1590_1678-4499.20190067
+
+
+10.1590_1678-4685-gmb-2018-0055
+Highlight: SRR3187022 : [1.0, 1.0, 0.0]
+Highlight: SRR3168931 : [1.0, 1.0, 0.0]
+Highlight: SRR5438011 : [1.0, 1.0, 0.0]
+Highlight: SRR5651498 : [1.0, 1.0, 0.0]
+Highlight: AB556947 : [1.0, 1.0, 0.0]
+Highlight: LN607806 : [1.0, 1.0, 0.0]
+Highlight: HQ215539 : [1.0, 1.0, 0.0]
+Highlight: HQ415764 : [1.0, 1.0, 0.0]
+Highlight: KY950644 : [1.0, 1.0, 0.0]
+Highlight: KC346251 : [1.0, 1.0, 0.0]
+Highlight: KY9[50643 : [1.0, 1.0, 0.0]
+Highlight: MF417380 : [1.0, 1.0, 0.0]
+Highlight: MF591717 : [1.0, 1.0, 0.0]
+
+
+10.1590_1679-78255326
+Highlight: 1210-669-46014 : [0.0, 1.0, 0.0]
+
+
+10.1590_1679-78255753
+Highlight: DYNA3D : [0.0, 1.0, 0.0]
+Highlight: FMVSS214 : [0.0, 1.0, 0.0]
+Highlight: FMVSS214 : [0.0, 1.0, 0.0]
+Highlight: FMVSS214 : [0.0, 1.0, 0.0]
+Highlight: FMVSS214 : [0.0, 1.0, 0.0]
+
+
+10.1590_1806-90882019000500004
+
+
+10.1590_1806-93042019000400002
+Highlight: 85439418.8.8.0000.5269 : [0.0, 1.0, 0.0]
+Highlight: 3.005.922. : [0.0, 1.0, 0.0]
+
+
+10.1590_1806-9479.2019.185555
+
+
+10.1590_1807-3107bor-2019.vol33.0095
+
+
+10.1590_1809-2950_19003927012020
+Highlight: 6MWT : [0.0, 1.0, 0.0]
+
+
+10.1590_1809-2950_19008627012020
+
+
+10.1590_1809-4430-eng.agric.v40n1p24-33_2020
+
+
+10.1590_1809-6891v21e-43578
+
+
+10.1590_1809-9823.2007.10034
+
+
+10.1590_1980-5373-mr-2018-0766
+
+
+10.1590_1980-5373-mr-2018-0921
+Highlight: 2014A010105056 : [0.0, 1.0, 0.0]
+Highlight: 2016KTSCX152 : [0.0, 1.0, 0.0]
+Highlight: 201804030402 : [0.0, 1.0, 0.0]
+Highlight: Guangdong : [0.0, 1.0, 0.0]
+Highlight: 51402258 : [0.0, 1.0, 0.0]
+
+
+10.1590_1980-5373-mr-2019-0338
+Highlight: 2015/24374-2) : [0.0, 1.0, 0.0]
+
+
+10.1590_1980-5918.032.ao27
+
+
+10.1590_1980-5918.033.ao15
+
+
+10.1590_1981-22562019022.190037
+
+
+10.1590_1981-52712015v43n3rb20180090
+Highlight: CNS/MS 510/2016 : [0.0, 1.0, 0.0]
+
+
+10.1590_1981-6723.06017
+
+
+10.1590_1981-86372019000243506
+
+
+10.1590_1982-0216_20192158519
+
+
+10.1590_1983-21252019v32n324rc
+Highlight: 23115008833/2014-31 : [0.0, 1.0, 0.0]
+
+
+10.1590_2236-3459_83528
+
+
+10.1590_2237-6089-2017-0134
+Highlight: IRCT2017082029817N3 : [0.0, 1.0, 0.0]
+Highlight: IRCT2017082029817N3 : [0.0, 1.0, 0.0]
+Highlight: IRCT2017082029817N3 : [0.0, 1.0, 0.0]
+
+
+10.1590_fst.33717
+
+
+10.1590_fst.36617
+Highlight: LQ13C200003 : [0.0, 1.0, 0.0]
+Highlight: y y 31301437) : [0.0, 1.0, 0.0]
+
+
+10.1590_s1677-5538.ibju.2019.0167
+Highlight: JF461540.1 : [1.0, 1.0, 0.0]
+Highlight: JF461539.1 : [1.0, 1.0, 0.0]
+
+
+10.1590_s1678-86212019000400340
+
+
+10.1617_s11527-023-02260-3
+Highlight: https://doi.org/10. : [1.0, 0.5, 0.0]
+Highlight: 5518/1438 : [1.0, 0.5, 0.0]
+Highlight: EP/T008407/1, : [0.0, 1.0, 0.0]
+Highlight: #1903457 : [0.0, 1.0, 0.0]
+Highlight: EP/R001642/1 : [0.0, 1.0, 0.0]
+
+
+10.17581_bp.2020.09104
+Highlight: (g RSF 18-14-00121 : [0.0, 1.0, 0.0]
+Highlight: NSK, № USU 440537) : [0.0, 1.0, 0.0]
+Highlight: ) 17-04-00018) : [0.0, 1.0, 0.0]
+Highlight: ke f w d . . g https://doi.org/10.15468/dl.elq8xm : [1.0, 0.5, 0.0]
+Highlight: ke e w d g https://doi.org/10.15468/dl.ze0mrg : [1.0, 0.5, 0.0]
+
+
+10.17815_jlsrf-2-58
+
+
+10.18438_eblip29674
+Highlight: https://doi.org/10.6078/D1K419 : [1.0, 0.5, 0.0]
+Highlight: https://datadryad.org/stash/dataset/doi:10.6078/ : [1.0, 0.5, 0.0]
+Highlight: D1K419 : [1.0, 0.5, 0.0]
+
+
+10.20944_preprints202009.0353.v1
+Highlight: doi.org/10.15468/dl.jx7wck : [1.0, 0.5, 0.0]
+
+
+10.21105_joss.04237
+Highlight: 20210213ER : [0.0, 1.0, 0.0]
+Highlight: p 20220697PRD1 : [0.0, 1.0, 0.0]
+Highlight: y #9233218CNA000001 : [0.0, 1.0, 0.0]
+Highlight: y https://doi.org/10.5067/MODIS/ : [1.0, 1.0, 0.0]
+Highlight: MOD13A2.006 : [1.0, 1.0, 0.0]
+Highlight: g https://doi.org/ : [1.0, 1.0, 0.0]
+Highlight: 10.5067/GPM/IMERG/3B-HH/06 : [1.0, 1.0, 0.0]
+Highlight: , https://doi.org/10.5067/ZX7YX2Y2LHEB : [1.0, 1.0, 0.0]
+Highlight: ( ) y https://doi.org/10.15485/1843541 : [1.0, 1.0, 0.0]
+
+
+10.21203_rs.3.rs-2814013_v1
+Highlight: https://​doi.​org/​10. : [1.0, 0.5, 0.0]
+Highlight: p 15468/​dl.​qv53hc : [1.0, 0.5, 0.0]
+Highlight: g DEB-0950080 : [0.0, 1.0, 0.0]
+Highlight: DEB-1457100 : [0.0, 1.0, 0.0]
+Highlight: DEB-1557009 : [0.0, 1.0, 0.0]
+Highlight: DEB- : [0.0, 1.0, 0.0]
+Highlight: gy g 2051343 : [0.0, 1.0, 0.0]
+Highlight: p DE-FG02-97ER62458 : [0.0, 1.0, 0.0]
+Highlight: gy DE-SC0014413 : [0.0, 1.0, 0.0]
+Highlight: y DE-SC0019110 : [0.0, 1.0, 0.0]
+Highlight: g ( DE-SC0021112) : [0.0, 1.0, 0.0]
+Highlight: G10AC00675 : [0.0, 1.0, 0.0]
+Highlight: DEB-1457100 : [0.0, 1.0, 0.0]
+Highlight: g DEB-0950080 : [0.0, 1.0, 0.0]
+Highlight: DEB-1557009 : [0.0, 1.0, 0.0]
+Highlight: gy DEB-2051343 : [0.0, 1.0, 0.0]
+
+
+10.21203_rs.3.rs-3338732_v1
+Highlight: #80NSSC21K0011 : [0.0, 1.0, 0.0]
+Highlight: y #NNX14AL54G : [0.0, 1.0, 0.0]
+Highlight: ) #80GSFC21M0002 : [0.0, 1.0, 0.0]
+Highlight: #DGE-1746060 : [0.0, 1.0, 0.0]
+Highlight: 10.​25422/​azu.​data.​19680​372 : [1.0, 1.0, 0.0]
+Highlight: g g https://​doi.​org/​10.​5066/​P9VQP​E9W : [1.0, 1.0, 0.0]
+
+
+10.3133_cir1497
+Highlight: gg y g https://doi.org/10.5066/P99ONUNM : [1.0, 1.0, 0.0]
+Highlight: gg https://doi.org/10.5066/P9S5PVON. : [1.0, 1.0, 0.0]
+Highlight: p https://doi.org/10.5066/P9XVJDNP. : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5066/P9EUCGJQ : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5066/ : [1.0, 1.0, 0.0]
+Highlight: P9Z04LNK : [1.0, 1.0, 0.0]
+Highlight: y, https://doi.org/10.5066/P9GCDYT2 : [1.0, 1.0, 0.0]
+Highlight: p g https://doi.org/10.5066/F7TT4Q4B : [1.0, 1.0, 0.0]
+Highlight: g https://doi.org/10.5066/F72Z13N1 : [1.0, 1.0, 0.0]
+Highlight: g https://doi.org/10.5066/P9H1S1PV. : [1.0, 1.0, 0.0]
+Highlight: , , , y https://doi.org/10.5066/F7NC5ZFM : [1.0, 1.0, 0.0]
+
+
+10.3133_fs20233046
+Highlight: g y https://doi.org/10.5066/P9YS1X7P. : [1.0, 1.0, 0.0]
+
+
+10.3133_ofr20201035
+Highlight: y j https://doi.org/10.5066/P9ZUDIOH : [1.0, 0.5, 0.0]
+Highlight: ) , https://doi.org/10.5066/P9WEK4JI : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5066/P9ZUDIOH. : [1.0, 0.5, 0.0]
+Highlight: j , https://doi.org/10.5066/P9WEK4JI : [1.0, 0.5, 0.0]
+
+
+10.3133_ofr20231026
+Highlight: https://doi.org/10.5066/P9KEHY2S : [1.0, 0.5, 0.0]
+Highlight: y g https://doi.org/​10.5066/​P9IRL3GV. : [1.0, 1.0, 0.0]
+Highlight: g https://doi.org/​10.5066/​P918E2P3 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/​10.5066/ : [1.0, 1.0, 0.0]
+Highlight: g P9KEHY2S : [1.0, 1.0, 0.0]
+
+
+10.3133_ofr20231027
+Highlight: https://doi.org/10.5066/P9OOIQ0E : [1.0, 0.5, 0.0]
+
+
+10.3389_fcell.2020.618552
+Highlight: 223255/F50) : [0.0, 1.0, 0.0]
+Highlight: 182767 : [0.0, 1.0, 0.0]
+Highlight: PID6031 : [0.0, 1.0, 0.0]
+Highlight: 0 : [0.0, 1.0, 0.0]
+Highlight: 248810/O70 : [0.0, 1.0, 0.0]
+Highlight: 274760 : [0.0, 1.0, 0.0]
+Highlight: 10.5281/zenodo.4311473. : [1.0, 0.5, 0.0]
+Highlight: E-MTAB-9291 : [1.0, 1.0, 0.0]
+Highlight: E- : [1.0, 1.0, 0.0]
+Highlight: MTAB-9290 : [1.0, 1.0, 0.0]
+Highlight: S-BSST447 : [1.0, 1.0, 0.0]
+Highlight: idr0092 : [1.0, 1.0, 0.0]
+Highlight: FOTS ID: 15888 : [0.0, 1.0, 0.0]
+Highlight: 10.5281/zenodo. : [1.0, 0.5, 0.0]
+Highlight: 3951126 : [1.0, 0.5, 0.0]
+
+
+10.3389_fchem.2019.00828
+Highlight: 21472122 : [0.0, 1.0, 0.0]
+Highlight: 21772118 : [0.0, 1.0, 0.0]
+Highlight: 16PJD024 : [0.0, 1.0, 0.0]
+
+
+10.3389_fcimb.2024.1292467
+Highlight: NR-53522 : [0.0, 1.0, 0.0]
+Highlight: NR-54970 : [0.0, 1.0, 0.0]
+Highlight: NR-55672 : [0.0, 1.0, 0.0]
+Highlight: NR-52281 : [0.0, 1.0, 0.0]
+Highlight: NR-56520 : [0.0, 1.0, 0.0]
+Highlight: NR-52286 : [0.0, 1.0, 0.0]
+Highlight: EPI_ISL_1626969 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2365356 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340581 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340662 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340614 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340615 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340626 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340570 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340575 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2402571 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_13295050 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_10271777 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_17371329 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_1626969 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340662 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340581 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2365356, : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340615 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340626 : [1.0, 1.0, 0.0]
+Highlight: EPI_ : [1.0, 1.0, 0.0]
+Highlight: ISL_2340570 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2340575 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_2402571 : [1.0, 1.0, 0.0]
+Highlight: EPI_ : [1.0, 1.0, 0.0]
+Highlight: ISL_2340614 : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_13295050, : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_10271777, : [1.0, 1.0, 0.0]
+Highlight: EPI_ISL_17371329 : [1.0, 1.0, 0.0]
+Highlight: IRB2023-0941 : [0.0, 1.0, 0.0]
+
+
+10.3389_feart.2023.1205211
+Highlight: H13117 : [0.0, 1.0, 0.0]
+Highlight: H13119 : [0.0, 1.0, 0.0]
+Highlight: H13118 : [0.0, 1.0, 0.0]
+Highlight: H13137 : [0.0, 1.0, 0.0]
+Highlight: H13206 : [0.0, 1.0, 0.0]
+Highlight: W00474 : [0.0, 1.0, 0.0]
+Highlight: W00475 : [0.0, 1.0, 0.0]
+Highlight: H13549 : [0.0, 1.0, 0.0]
+Highlight: doi:10.5066/P9MYL7WJ : [1.0, 1.0, 0.0]
+Highlight: doi:10.5066/P9F7K9F2 : [1.0, 1.0, 0.0]
+Highlight: doi:10.5066/P96ZBXK8 : [1.0, 1.0, 0.0]
+Highlight: doi:10.5066/ : [1.0, 1.0, 0.0]
+Highlight: P9TW2X7Y : [1.0, 1.0, 0.0]
+Highlight: doi:10.5066/P9J10NH5 : [1.0, 1.0, 0.0]
+Highlight: doi:10.5066/F7930R7P : [1.0, 1.0, 0.0]
+
+
+10.3389_fevo.2023.1112519
+Highlight: 10.1594/PANGAEA.921544 : [1.0, 0.5, 0.0]
+Highlight: 10.1594/PANGAEA.941237 : [1.0, 0.5, 0.0]
+Highlight: PRJNA780103, : [1.0, 0.5, 0.0]
+Highlight: RI 2093/2-1 : [0.0, 1.0, 0.0]
+Highlight: MU 1464/7-1 : [0.0, 1.0, 0.0]
+
+
+10.3389_fmicb.2024.1456637
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: MG1655 : [0.0, 1.0, 0.0]
+Highlight: RM9973 : [0.0, 1.0, 0.0]
+Highlight: RM9976 : [0.0, 1.0, 0.0]
+Highlight: RM10507 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM10507 : [0.0, 1.0, 0.0]
+Highlight: RM9973 : [0.0, 1.0, 0.0]
+Highlight: RM9974 : [0.0, 1.0, 0.0]
+Highlight: RM9976 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM15112-RM15116 : [0.0, 1.0, 0.0]
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: SAMN12620691 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620692 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620693 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620694 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620697 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620700 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620701 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620702 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620703 : [1.0, 1.0, 0.0]
+Highlight: SAMN12620704 : [1.0, 1.0, 0.0]
+Highlight: SAMN03019926 : [1.0, 1.0, 0.0]
+Highlight: SAMN04498560 : [1.0, 1.0, 0.0]
+Highlight: SAMN04505646 : [1.0, 1.0, 0.0]
+Highlight: SAMN04505647 : [1.0, 1.0, 0.0]
+Highlight: SAMN07159041 : [1.0, 1.0, 0.0]
+Highlight: SAMN08199278 : [1.0, 1.0, 0.0]
+Highlight: SAMN07159045 : [1.0, 1.0, 0.0]
+Highlight: SAMN09534374 : [1.0, 1.0, 0.0]
+Highlight: SAMN07159044 : [1.0, 1.0, 0.0]
+Highlight: SAMN08172567 : [1.0, 1.0, 0.0]
+Highlight: RM10507 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM9973 : [0.0, 1.0, 0.0]
+Highlight: RM9976 : [0.0, 1.0, 0.0]
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: EDL933 : [0.0, 1.0, 0.0]
+Highlight: RM9974 : [0.0, 1.0, 0.0]
+Highlight: RM9973 : [0.0, 1.0, 0.0]
+Highlight: RM15112 : [0.0, 1.0, 0.0]
+Highlight: RM9974 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM9973 : [0.0, 1.0, 0.0]
+Highlight: RM9974 : [0.0, 1.0, 0.0]
+Highlight: RM10705 : [0.0, 1.0, 0.0]
+Highlight: RM9976 : [0.0, 1.0, 0.0]
+Highlight: SAMN33094111 : [1.0, 1.0, 0.0]
+Highlight: SAMN33094114 : [1.0, 1.0, 0.0]
+Highlight: SAMN33094102 : [1.0, 1.0, 0.0]
+Highlight: SAMN33094099 : [1.0, 1.0, 0.0]
+Highlight: SAMN33094112 : [1.0, 1.0, 0.0]
+Highlight: SAMN17525956 : [1.0, 1.0, 0.0]
+Highlight: 2030- : [0.0, 1.0, 0.0]
+Highlight: 42000-052-000D : [0.0, 1.0, 0.0]
+
+
+10.3389_fpls.2023.1160645
+Highlight: doi:10.4121/21864590 : [1.0, 0.5, 0.0]
+
+
+10.3390_cryst2031058
+
+
+10.3390_cryst9060301
+
+
+10.3390_d13010019
+Highlight: http://doi:10.6073/pasta/eeb59ddf840c51b93c4bc7b765d4d59f : [1.0, 0.5, 0.0]
+
+
+10.3390_ijms12117360
+Highlight: CCDC 847845-847875 : [0.0, 1.0, 0.0]
+
+
+10.3390_inorganics7050058
+Highlight: No. 716314 : [0.0, 1.0, 0.0]
+
+
+10.3390_microorganisms8121872
+Highlight: #01KI1723A : [0.0, 1.0, 0.0]
+Highlight: 31CA30_196062 : [0.0, 1.0, 0.0]
+Highlight: 310030_173085 : [0.0, 1.0, 0.0]
+Highlight: WO2006118607A2 : [0.0, 1.0, 0.0]
+Highlight: WO 2014085795 A1 : [0.0, 1.0, 0.0]
+Highlight: CHEMBL3311228 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL64391 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL243644 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL403 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3109593 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL198796 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1568820 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL76 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL408500 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL1652119 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL402487 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL2436978 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3752642 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL561 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3960662 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL4065616 : [1.0, 1.0, 0.0]
+Highlight: MMV1634386 : [0.0, 1.0, 0.0]
+Highlight: MMV637528 : [0.0, 1.0, 0.0]
+Highlight: MMV1483032 : [0.0, 1.0, 0.0]
+Highlight: MMV637945 : [0.0, 1.0, 0.0]
+Highlight: MMV1582492 : [0.0, 1.0, 0.0]
+Highlight: MMV1582487 : [0.0, 1.0, 0.0]
+Highlight: MMV1578576 : [0.0, 1.0, 0.0]
+Highlight: MMV000008 : [0.0, 1.0, 0.0]
+Highlight: MMV1593513 : [0.0, 1.0, 0.0]
+Highlight: MMV690621 : [0.0, 1.0, 0.0]
+Highlight: MMV1634401 : [0.0, 1.0, 0.0]
+Highlight: MMV002780 : [0.0, 1.0, 0.0]
+Highlight: MMV1580482 : [0.0, 1.0, 0.0]
+Highlight: MMV1593544 : [0.0, 1.0, 0.0]
+Highlight: MMV002350 : [0.0, 1.0, 0.0]
+Highlight: MMV1580483 : [0.0, 1.0, 0.0]
+
+
+10.3390_molecules17077645
+Highlight: PS190/2008A : [0.0, 1.0, 0.0]
+Highlight: PS381/2009B : [0.0, 1.0, 0.0]
+Highlight: RG149-11AFR : [0.0, 1.0, 0.0]
+
+
+10.3390_molecules191017026
+
+
+10.3390_molecules200917469
+Highlight: B3LYP/6-31G : [0.0, 1.0, 0.0]
+Highlight: MRSE XJ 75284) : [0.0, 1.0, 0.0]
+Highlight: ATCC 25922 : [0.0, 1.0, 0.0]
+Highlight: MRSA XJ 75302 : [0.0, 1.0, 0.0]
+Highlight: ATCC 700699 : [0.0, 1.0, 0.0]
+Highlight: ATCC 29213 : [0.0, 1.0, 0.0]
+Highlight: ATCC 14990 : [0.0, 1.0, 0.0]
+Highlight: XJ 75284) : [0.0, 1.0, 0.0]
+Highlight: XJ 75302 : [0.0, 1.0, 0.0]
+Highlight: ATCC 25922 : [0.0, 1.0, 0.0]
+Highlight: ATCC 700699 : [0.0, 1.0, 0.0]
+Highlight: ATCC 29213 : [0.0, 1.0, 0.0]
+Highlight: ATCC 14990 : [0.0, 1.0, 0.0]
+Highlight: 2012K14-01-04 : [0.0, 1.0, 0.0]
+Highlight: 2014KTCL03-03 : [0.0, 1.0, 0.0]
+Highlight: No. 81273555 : [0.0, 1.0, 0.0]
+Highlight: No. 81001460 : [0.0, 1.0, 0.0]
+Highlight: No. 81573468 : [0.0, 1.0, 0.0]
+
+
+10.3390_molecules23123199
+Highlight: 0022/2018/A1 : [0.0, 1.0, 0.0]
+Highlight: 2016-05857 : [0.0, 1.0, 0.0]
+Highlight: 2016-05857 : [0.0, 1.0, 0.0]
+Highlight: grant no. 314343 : [0.0, 1.0, 0.0]
+Highlight: 0022/2018/A1 : [0.0, 1.0, 0.0]
+Highlight: grant : [0.0, 1.0, 0.0]
+Highlight: no. 314343 : [0.0, 1.0, 0.0]
+
+
+10.3390_molecules25010053
+
+
+10.3390_rs12121957
+Highlight: https://doi.org/10.1594/PANGAEA.917588 : [1.0, 0.5, 0.0]
+Highlight: 03F0776D : [0.0, 1.0, 0.0]
+Highlight: 03F831C : [0.0, 1.0, 0.0]
+Highlight: WI 3314/3 : [0.0, 1.0, 0.0]
+Highlight: HE : [0.0, 1.0, 0.0]
+Highlight: 2740/22 : [0.0, 1.0, 0.0]
+
+
+10.3390_rs4102923
+Highlight: 4000100647/10/I-LG : [0.0, 1.0, 0.0]
+Highlight: 22185/09/I-OL : [0.0, 1.0, 0.0]
+Highlight: V150-N21 : [0.0, 1.0, 0.0]
+Highlight: doi:10.1594/PANGAEA.775959 : [1.0, 1.0, 0.0]
+Highlight: doi:10.1594/PANGAEA.779748 : [1.0, 1.0, 0.0]
+Highlight: doi:10.1594/PANGAEA.780464 : [1.0, 1.0, 0.0]
+
+
+10.3390_s19030479
+Highlight: U1813222 : [0.0, 1.0, 0.0]
+Highlight: E2016202341 : [0.0, 1.0, 0.0]
+Highlight: 2016CJ20 : [0.0, 1.0, 0.0]
+Highlight: 18JCYBJC16500 : [0.0, 1.0, 0.0]
+
+
+10.3390_s23094491
+Highlight: ARS01_00964 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/Zenodo.7871636, : [1.0, 0.5, 0.0]
+
+
+10.3390_s23177333
+Highlight: FEKT-S-23-8191 : [0.0, 1.0, 0.0]
+Highlight: TK04020173 : [0.0, 1.0, 0.0]
+Highlight: 10.5281/zenodo.8090619, : [1.0, 0.5, 0.0]
+
+
+10.3390_v11060565
+Highlight: AHRI-18032019 : [0.0, 1.0, 0.0]
+Highlight: EPI1184014 : [1.0, 1.0, 0.0]
+Highlight: EPI1019555 : [1.0, 1.0, 0.0]
+Highlight: EPI1184005 : [1.0, 1.0, 0.0]
+Highlight: EPI954557 : [1.0, 1.0, 0.0]
+Highlight: EPI1019554 : [1.0, 1.0, 0.0]
+Highlight: EPI1184004 : [1.0, 1.0, 0.0]
+Highlight: EPI1018206 : [1.0, 1.0, 0.0]
+Highlight: EPI954555 : [1.0, 1.0, 0.0]
+Highlight: EPI1018205 : [1.0, 1.0, 0.0]
+Highlight: EPI1019556 : [1.0, 1.0, 0.0]
+Highlight: EPI1104288 : [1.0, 1.0, 0.0]
+Highlight: EPI954556 : [1.0, 1.0, 0.0]
+Highlight: EPI1387245-52. : [1.0, 1.0, 0.0]
+Highlight: EPI1019558 : [1.0, 1.0, 0.0]
+Highlight: EPI954559 : [1.0, 1.0, 0.0]
+Highlight: EPI1183999 : [1.0, 1.0, 0.0]
+Highlight: EPI1018207 : [1.0, 1.0, 0.0]
+Highlight: EPI1104284 : [1.0, 1.0, 0.0]
+Highlight: EPI1018208 : [1.0, 1.0, 0.0]
+Highlight: EPI1019551 : [1.0, 1.0, 0.0]
+Highlight: EPI954552 : [1.0, 1.0, 0.0]
+Highlight: KX000734 : [1.0, 1.0, 0.0]
+Highlight: KX000727 : [1.0, 1.0, 0.0]
+Highlight: KX000717 : [1.0, 1.0, 0.0]
+Highlight: EPI1104286 : [1.0, 1.0, 0.0]
+Highlight: EPI1018210 : [1.0, 1.0, 0.0]
+Highlight: EPI954554 : [1.0, 1.0, 0.0]
+Highlight: EPI1019553 : [1.0, 1.0, 0.0]
+Highlight: EPI1019552 : [1.0, 1.0, 0.0]
+Highlight: EPI1104285 : [1.0, 1.0, 0.0]
+Highlight: EPI954553 : [1.0, 1.0, 0.0]
+Highlight: EPI1018211 : [1.0, 1.0, 0.0]
+Highlight: 2018-02569 : [0.0, 1.0, 0.0]
+
+
+10.3762_bjoc.8.42
+
+
+10.3762_bjoc.9.92
+
+
+10.3847_1538-4357_aae92c
+
+
+10.3897_bdj.7.e47369
+Highlight: https://doi.org/10.15468/dl.6fsft1 : [1.0, 0.5, 0.0]
+Highlight: /10.5281/ZENODO.15039 : [0.0, 1.0, 0.0]
+
+
+10.3897_jhr.96.111550
+Highlight: LED3000 : [0.0, 1.0, 0.0]
+Highlight: MC190 : [0.0, 1.0, 0.0]
+Highlight: S8APO : [0.0, 1.0, 0.0]
+Highlight: 30947854 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.15468/dl.x6cwjx : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.4hgjbk : [1.0, 0.5, 0.0]
+
+
+10.3897_neobiota.82.87455
+Highlight: UIDB/50017/2020 : [0.0, 1.0, 0.0]
+Highlight: UIDB/00329/2020 : [0.0, 1.0, 0.0]
+Highlight: LA/P/0094/2020 : [0.0, 1.0, 0.0]
+Highlight: UIDP/50017/2020 : [0.0, 1.0, 0.0]
+Highlight: COVID/BD/152524/2022 : [0.0, 1.0, 0.0]
+Highlight: PD/ : [0.0, 1.0, 0.0]
+Highlight: BD/135536/2018 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.26197/ : [1.0, 0.5, 0.0]
+Highlight: ala.9380591e-6d29-44d1-9ffb-0d7d8df2be6a : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.26197/ala.eff1cef9- : [1.0, 0.5, 0.0]
+Highlight: 0c2b-4eb0-b08f-f1496f3b5dec : [1.0, 0.5, 0.0]
+Highlight: 10.15468/dl.yu2xpv : [1.0, 0.5, 0.0]
+Highlight: 10.15468/dl.yjd4cg : [1.0, 0.5, 0.0]
+
+
+10.3897_zookeys.500.9360
+Highlight: AJ583453 : [1.0, 1.0, 0.0]
+Highlight: AJ388600 : [1.0, 1.0, 0.0]
+Highlight: AJ388624 : [1.0, 1.0, 0.0]
+Highlight: KP729410 : [1.0, 1.0, 0.0]
+Highlight: KP729407 : [1.0, 1.0, 0.0]
+Highlight: AJ275231 : [1.0, 1.0, 0.0]
+Highlight: KP729409 : [1.0, 1.0, 0.0]
+Highlight: FM955143 : [1.0, 1.0, 0.0]
+Highlight: KP729406 : [1.0, 1.0, 0.0]
+Highlight: AJ275229 : [1.0, 1.0, 0.0]
+Highlight: KP729411 : [1.0, 1.0, 0.0]
+Highlight: AJ388630 : [1.0, 1.0, 0.0]
+Highlight: AJ275064 : [1.0, 1.0, 0.0]
+Highlight: AJ583450 : [1.0, 1.0, 0.0]
+Highlight: JN005780 : [1.0, 1.0, 0.0]
+Highlight: AJ275232 : [1.0, 1.0, 0.0]
+Highlight: KC786018 : [1.0, 1.0, 0.0]
+Highlight: JX477434 : [1.0, 1.0, 0.0]
+Highlight: AJ388603 : [1.0, 1.0, 0.0]
+Highlight: AJ388605 : [1.0, 1.0, 0.0]
+Highlight: AY548162 : [1.0, 1.0, 0.0]
+Highlight: JX477443 : [1.0, 1.0, 0.0]
+Highlight: AF286935 : [1.0, 1.0, 0.0]
+Highlight: KP729412 : [1.0, 1.0, 0.0]
+Highlight: AJ388631 : [1.0, 1.0, 0.0]
+Highlight: AJ388619 : [1.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-32887 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34736 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-25102 : [0.0, 1.0, 0.0]
+Highlight: -PLAT-31553 *MHNG : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63117 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-25795 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-66546 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-33995 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21738 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21910 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22436 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63119 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21839 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21841 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22239 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-60052 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-22227 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-17905 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21996 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63128 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-49399 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-75447 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22211 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-75457 : [0.0, 1.0, 0.0]
+Highlight: 4217 CNHE : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21877 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21877 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22018 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-62586 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-31179 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-62973 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34186 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-75454 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-32838 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-32839 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-32842 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-49366 : [0.0, 1.0, 0.0]
+Highlight: 4889 CNHE : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-35373 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21874 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-17984 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21870 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-20351 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22269 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21740 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21963 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-17913 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22284 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21969 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22298 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34185 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-75442 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-18407 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63372 : [0.0, 1.0, 0.0]
+Highlight: AJ388612 : [1.0, 1.0, 0.0]
+Highlight: AJ275227 : [1.0, 1.0, 0.0]
+Highlight: KP729404 : [1.0, 1.0, 0.0]
+Highlight: KP729399 : [1.0, 1.0, 0.0]
+Highlight: AJ583452 : [1.0, 1.0, 0.0]
+Highlight: AJ583455 : [1.0, 1.0, 0.0]
+Highlight: AJ583454 : [1.0, 1.0, 0.0]
+Highlight: KC786020 : [1.0, 1.0, 0.0]
+Highlight: KP729414 : [1.0, 1.0, 0.0]
+Highlight: KP729408 : [1.0, 1.0, 0.0]
+Highlight: KP729405 : [1.0, 1.0, 0.0]
+Highlight: AY307117 : [1.0, 1.0, 0.0]
+Highlight: AY548165 : [1.0, 1.0, 0.0]
+Highlight: FM956086 : [1.0, 1.0, 0.0]
+Highlight: AJ388596 : [1.0, 1.0, 0.0]
+Highlight: AJ238832 : [1.0, 1.0, 0.0]
+Highlight: AJ388628 : [1.0, 1.0, 0.0]
+Highlight: AJ388625 : [1.0, 1.0, 0.0]
+Highlight: AJ388613 : [1.0, 1.0, 0.0]
+Highlight: AJ388611 : [1.0, 1.0, 0.0]
+Highlight: AJ388618 : [1.0, 1.0, 0.0]
+Highlight: AJ388614 : [1.0, 1.0, 0.0]
+Highlight: AJ388608 : [1.0, 1.0, 0.0]
+Highlight: AJ388597 : [1.0, 1.0, 0.0]
+Highlight: AJ388602 : [1.0, 1.0, 0.0]
+Highlight: KP729401 : [1.0, 1.0, 0.0]
+Highlight: KC786022 : [1.0, 1.0, 0.0]
+Highlight: AJ388598 : [1.0, 1.0, 0.0]
+Highlight: KP729416 : [1.0, 1.0, 0.0]
+Highlight: KC786025 : [1.0, 1.0, 0.0]
+Highlight: AJ388632 : [1.0, 1.0, 0.0]
+Highlight: AJ388607 : [1.0, 1.0, 0.0]
+Highlight: KC786021 : [1.0, 1.0, 0.0]
+Highlight: AJ388620 : [1.0, 1.0, 0.0]
+Highlight: AJ388629 : [1.0, 1.0, 0.0]
+Highlight: KP729415 : [1.0, 1.0, 0.0]
+Highlight: AJ388637 : [1.0, 1.0, 0.0]
+Highlight: KP729402 : [1.0, 1.0, 0.0]
+Highlight: KP729397 : [1.0, 1.0, 0.0]
+Highlight: AJ388604 : [1.0, 1.0, 0.0]
+Highlight: AJ238837 : [1.0, 1.0, 0.0]
+Highlight: AJ238835 : [1.0, 1.0, 0.0]
+Highlight: AM931032 : [1.0, 1.0, 0.0]
+Highlight: FM956088 : [1.0, 1.0, 0.0]
+Highlight: AJ388636 : [1.0, 1.0, 0.0]
+Highlight: KP729390 : [1.0, 1.0, 0.0]
+Highlight: KP729392 : [1.0, 1.0, 0.0]
+Highlight: KP729393 : [1.0, 1.0, 0.0]
+Highlight: AJ388622 : [1.0, 1.0, 0.0]
+Highlight: KP729388 : [1.0, 1.0, 0.0]
+Highlight: AJ388626 : [1.0, 1.0, 0.0]
+Highlight: AJ388609 : [1.0, 1.0, 0.0]
+Highlight: KP729394 : [1.0, 1.0, 0.0]
+Highlight: AJ388610 : [1.0, 1.0, 0.0]
+Highlight: AJ388594 : [1.0, 1.0, 0.0]
+Highlight: FM956089 : [1.0, 1.0, 0.0]
+Highlight: KP729395 : [1.0, 1.0, 0.0]
+Highlight: AJ388606 : [1.0, 1.0, 0.0]
+Highlight: AJ388638 : [1.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-36550 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-12393 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-79567 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-25962 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-16927 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-35370 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-18251 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-32851 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-75449 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22438 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22373 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22374 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34212 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-35548 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-24081 : [0.0, 1.0, 0.0]
+Highlight: C-364 IPCAS : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-50013 : [0.0, 1.0, 0.0]
+Highlight: C-299 IPCAS : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21889 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-66572 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21681 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-36526 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-22431 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-36744 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-35366 : [0.0, 1.0, 0.0]
+Highlight: C-679 *IPCAS : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-22434 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-17894 : [0.0, 1.0, 0.0]
+Highlight: KP729391 : [1.0, 1.0, 0.0]
+Highlight: KP729396 : [1.0, 1.0, 0.0]
+Highlight: JN005778 : [1.0, 1.0, 0.0]
+Highlight: AJ388635 : [1.0, 1.0, 0.0]
+Highlight: FM956085 : [1.0, 1.0, 0.0]
+Highlight: AJ388623 : [1.0, 1.0, 0.0]
+Highlight: AJ275063 : [1.0, 1.0, 0.0]
+Highlight: KP729389 : [1.0, 1.0, 0.0]
+Highlight: JX477447 : [1.0, 1.0, 0.0]
+Highlight: KP729398 : [1.0, 1.0, 0.0]
+Highlight: AJ388593 : [1.0, 1.0, 0.0]
+Highlight: AJ388627 : [1.0, 1.0, 0.0]
+Highlight: AJ388617 : [1.0, 1.0, 0.0]
+Highlight: AM931033 : [1.0, 1.0, 0.0]
+Highlight: KC786016 : [1.0, 1.0, 0.0]
+Highlight: KP729403 : [1.0, 1.0, 0.0]
+Highlight: AJ388592 : [1.0, 1.0, 0.0]
+Highlight: KP729413 : [1.0, 1.0, 0.0]
+Highlight: KP729417 : [1.0, 1.0, 0.0]
+Highlight: AJ388634 : [1.0, 1.0, 0.0]
+Highlight: FM956082 : [1.0, 1.0, 0.0]
+Highlight: AJ275065 : [1.0, 1.0, 0.0]
+Highlight: KP729400 : [1.0, 1.0, 0.0]
+Highlight: JX477453 : [1.0, 1.0, 0.0]
+Highlight: AJ388621 : [1.0, 1.0, 0.0]
+Highlight: AF286953 : [1.0, 1.0, 0.0]
+Highlight: AF286960 : [1.0, 1.0, 0.0]
+Highlight: AJ388591 : [1.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-54150 : [0.0, 1.0, 0.0]
+Highlight: C-33 IPCAS : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-62931 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-22429 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-36278 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-27431 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22108 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-79184 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63242 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34195 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-25026 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-19868 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-24668 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-49356 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22106 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-22106 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-37332 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-25027 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-69600 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-34216 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21986 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-35320 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-28993 : [0.0, 1.0, 0.0]
+Highlight: MHNG-PLAT-31175 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-63247 : [0.0, 1.0, 0.0]
+Highlight: *MHNG-PLAT-21846 : [0.0, 1.0, 0.0]
+Highlight: LRP-2112 : [0.0, 1.0, 0.0]
+Highlight: LRP_2115 : [0.0, 1.0, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.dv44b : [1.0, 0.5, 0.0]
+Highlight: P505/12/G112 : [0.0, 1.0, 0.0]
+Highlight: RVO: 60077344) : [0.0, 1.0, 0.0]
+Highlight: 0818696 : [0.0, 1.0, 0.0]
+Highlight: 0818823 : [0.0, 1.0, 0.0]
+
+
+10.3897_zoologia.35.e23481
+Highlight: 2016YFD0200900 : [0.0, 1.0, 0.0]
+Highlight: 2016AHB003 : [0.0, 1.0, 0.0]
+Highlight: 31672317 : [0.0, 1.0, 0.0]
+
+
+10.3897_zoologia.36.e32053
+Highlight: 2016/15873-8 : [0.0, 1.0, 0.0]
+Highlight: 2011/50225-3) : [0.0, 1.0, 0.0]
+Highlight: 302585/2011-7 : [0.0, 1.0, 0.0]
+Highlight: 421248/2017-3 : [0.0, 1.0, 0.0]
+Highlight: DEB- : [0.0, 1.0, 0.0]
+Highlight: 1256742 : [0.0, 1.0, 0.0]
+Highlight: AID-OAA-A-11-00012 : [0.0, 1.0, 0.0]
+Highlight: 563332/2010-7 : [0.0, 1.0, 0.0]
+Highlight: A4E702A : [0.0, 1.0, 0.0]
+
+
+10.4025_actasciagron.v40i1.39392
+
+
+10.5194_acp-2021-570
+Highlight: 2016YFA0602100 : [0.0, 1.0, 0.0]
+Highlight: 2018YFE0196000 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.22033/ESGF/CMIP6.10843 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.22033/ESGF/CMIP6.1621 : [1.0, 1.0, 0.0]
+
+
+10.5194_acp-22-2769-2022
+Highlight: https://doi.org/10.5281/zenodo.1285969 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/zenodo.3733448 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2018_V2 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2017_V2 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2016_V2 : [1.0, 1.0, 0.0]
+Highlight: NNH13ZDA001N-EVS2 : [0.0, 1.0, 0.0]
+Highlight: 80NSSC18K0222 : [0.0, 1.0, 0.0]
+Highlight: NNX16A018H : [0.0, 1.0, 0.0]
+Highlight: NNX15AF93G : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2018_V2, : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2017_V2 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/Suborbital/ORACLES/P3/2016_V2 : [1.0, 1.0, 0.0]
+
+
+10.5194_acp-22-5701-2022
+Highlight: https://doi.org/10.6096/AEROCLO.1754 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.6096/AEROCLO.1774 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6096/AEROCLO.1777 : [1.0, 1.0, 0.0]
+Highlight: DT-INSU : [0.0, 1.0, 0.0]
+Highlight: FP7/2014–2018 : [0.0, 1.0, 0.0]
+Highlight: ANR-15-CE01- : [0.0, 1.0, 0.0]
+Highlight: 0014-01 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6096/AEROCLO.1774 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6096/AEROCLO.1777 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6096/AEROCLO.1754 : [1.0, 1.0, 0.0]
+Highlight: 10.1029/2004JD005044, : [1.0, 1.0, 0.0]
+
+
+10.5194_amt-15-3969-2022
+Highlight: HA 3314/9-1 : [0.0, 1.0, 0.0]
+Highlight: SPP-2115 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/zenodo.5501399 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5334/jors.119 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.24381/cds.bd0915c6 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/MODIS/MYD06_L2.006 : [1.0, 1.0, 0.0]
+
+
+10.5194_essd-12-1287-2020
+Highlight: EVR1-CT-2001-20010 : [0.0, 1.0, 0.0]
+Highlight: HPMD-CT-2001- : [0.0, 1.0, 0.0]
+Highlight: 00075 : [0.0, 1.0, 0.0]
+Highlight: MAS3-CT98–0171 : [0.0, 1.0, 0.0]
+Highlight: EVK3-CT-2002- : [0.0, 1.0, 0.0]
+Highlight: 00075 : [0.0, 1.0, 0.0]
+Highlight: 13 – D.n. 778.RIC : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.17882/59867 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/70340 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.5194/essd-2019-136 : [1.0, 0.5, 0.0]
+
+
+10.5194_essd-2019-206
+Highlight: https://doi.org/10.18434/M32126 : [1.0, 0.5, 0.0]
+
+
+10.5194_essd-2023-187
+Highlight: https://doi.org/10.17882/94052; : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94040 : [1.0, 0.5, 0.0]
+Highlight: ANR-10-INBS-02 : [0.0, 1.0, 0.0]
+
+
+10.5194_essd-2023-198
+Highlight: https://doi.org/10.17882/94147 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94032 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94031 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94146 : [1.0, 0.5, 0.0]
+Highlight: ANR-16-CE32-0004 : [0.0, 1.0, 0.0]
+Highlight: 7518/VP/DRM : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.17600/18000582, : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.17600/18001644 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.17882/94146 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94032 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94031 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17882/94147 : [1.0, 0.5, 0.0]
+
+
+10.5194_essd-8-663-2016
+Highlight: doi:10.1594/PANGAEA.845258 : [1.0, 0.5, 0.0]
+
+
+10.5194_gmd-12-4221-2019
+Highlight: https://doi.org/10.6075/J0K35S05 : [1.0, 0.5, 0.0]
+Highlight: OSR-2016-RPP-3268.02 : [0.0, 1.0, 0.0]
+
+
+10.5194_gmd-13-335-2020
+Highlight: FI370074016 : [0.0, 1.0, 0.0]
+Highlight: FI370074016 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6073/pasta/fed17d67583eda16c439216ca40b0669 : [1.0, 1.0, 0.0]
+
+
+10.5194_se-13-1541-2022
+Highlight: https://doi.org/10.1594/PANGAEA.938422 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.17632/n92vwbg8zt.1 : [0.0, 1.0, 0.0]
+
+
+10.5194_tc-17-3617-2023
+Highlight: https://doi.org/10.5281/zenodo.5109574 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5067/MODIS/MOD10A1F.061 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.24381/cds.adbb2d47 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.24381/cds.6a6d1bc3 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.24381/cds.e2161bac : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.24381/cds.32b04ec5 : [1.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5281/zenodo.8252180, : [0.0, 1.0, 0.0]
+
+
+10.5937_bnhmb1811227u
+Highlight: https://doi.org/10.15468/dl.ize4xx : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.i71k4s : [1.0, 0.5, 0.0]
+
+
+10.7554_eLife.63194
+Highlight: GCA_904009505.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047305.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047245.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047255.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047275.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047325.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053135.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053145.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053495.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995865.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904047315.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995855.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995845.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995885.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995825.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053095.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053125.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053085.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053105.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995835.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995795.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995805.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995815.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_903995875.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053155.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053505.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904053115.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_904054495.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_000513175.1 : [1.0, 1.0, 0.0]
+Highlight: GCA_900239685.1) : [1.0, 1.0, 0.0]
+Highlight: GCA_900240375.1) : [1.0, 1.0, 0.0]
+Highlight: GCA_900239745.1 : [1.0, 1.0, 0.0]
+Highlight: PF00078 : [1.0, 1.0, 0.0]
+Highlight: PF05183 : [1.0, 1.0, 0.0]
+Highlight: PF03368 : [1.0, 1.0, 0.0]
+Highlight: PF02171 : [1.0, 1.0, 0.0]
+Highlight: PF02170 : [1.0, 1.0, 0.0]
+Highlight: UP000006548 : [1.0, 1.0, 0.0]
+Highlight: UP000002485 : [1.0, 1.0, 0.0]
+Highlight: UP000001805 : [1.0, 1.0, 0.0]
+Highlight: UP000001194 : [1.0, 1.0, 0.0]
+Highlight: UP000000803 : [1.0, 1.0, 0.0]
+Highlight: UP000015101 : [1.0, 1.0, 0.0]
+Highlight: UP000276133 : [1.0, 1.0, 0.0]
+Highlight: UP000001554 : [1.0, 1.0, 0.0]
+Highlight: UP000030746 : [1.0, 1.0, 0.0]
+Highlight: UP000001940 : [1.0, 1.0, 0.0]
+Highlight: UP000005640 : [1.0, 1.0, 0.0]
+Highlight: UP000002195 : [1.0, 1.0, 0.0]
+Highlight: UP000192578 : [1.0, 1.0, 0.0]
+Highlight: UP000054474 : [1.0, 1.0, 0.0]
+Highlight: UP000007015 : [1.0, 1.0, 0.0]
+Highlight: PF00680 : [1.0, 1.0, 0.0]
+Highlight: PF00978 : [1.0, 1.0, 0.0]
+Highlight: PF00998 : [1.0, 1.0, 0.0]
+Highlight: PF02123 : [1.0, 1.0, 0.0]
+
+
+10.7554_eLife.72626
+Highlight: PRKAA1 : [0.0, 1.0, 0.0]
+Highlight: PRKAA2 : [0.0, 1.0, 0.0]
+Highlight: PRKAB1 : [0.0, 1.0, 0.0]
+Highlight: PRKAB2 : [0.0, 1.0, 0.0]
+Highlight: PRKAG1 : [0.0, 1.0, 0.0]
+Highlight: PRKAG2 : [0.0, 1.0, 0.0]
+Highlight: AMPK : [0.0, 1.0, 0.0]
+Highlight: PRKAG3 : [0.0, 1.0, 0.0]
+Highlight: mTOR : [0.0, 1.0, 0.0]
+Highlight: MAPK : [0.0, 1.0, 0.0]
+Highlight: PI3K/AKT : [0.0, 1.0, 0.0]
+Highlight: NFkB : [0.0, 1.0, 0.0]
+Highlight: Wnt : [0.0, 1.0, 0.0]
+Highlight: EMT : [0.0, 1.0, 0.0]
+Highlight: TMPRSS2:ERG : [0.0, 1.0, 0.0]
+Highlight: TMPRSS2:ERG : [0.0, 1.0, 0.0]
+Highlight: MODEL2106070001 : [1.0, 1.0, 0.0]
+Highlight: SHH : [0.0, 1.0, 0.0]
+Highlight: http://doi.org/10.6019/CHEMBL.database.23 : [1.0, 1.0, 0.0]
+Highlight: H2020-PHC-668858 : [0.0, 1.0, 0.0]
+Highlight: H2020-ICT-951773 : [0.0, 1.0, 0.0]
+Highlight: H2020-ICT-825070 : [0.0, 1.0, 0.0]
+Highlight: CHEMBL3733336 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3347550 : [1.0, 1.0, 0.0]
+Highlight: CHEMBL3347551 : [1.0, 1.0, 0.0]
+
+
+10.7554_elife.29944
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/156450 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: TMM 34– : [0.0, 1.0, 0.0]
+Highlight: 2518 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518, : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: PRJNA384940 : [1.0, 1.0, 0.0]
+Highlight: KT168317-KT168336, : [1.0, 1.0, 0.0]
+Highlight: MF134655- : [1.0, 1.0, 0.0]
+Highlight: MF134663 : [1.0, 1.0, 0.0]
+Highlight: JX312727 : [1.0, 1.0, 0.0]
+Highlight: PLR-1417036 : [0.0, 1.0, 0.0]
+Highlight: PLR-09090456 : [0.0, 1.0, 0.0]
+Highlight: 4002-00152B : [0.0, 1.0, 0.0]
+Highlight: ERC-CoG-2015-681605 : [0.0, 1.0, 0.0]
+Highlight: GBMF3804 : [0.0, 1.0, 0.0]
+Highlight: 250963 : [0.0, 1.0, 0.0]
+Highlight: ERC-CoG-2015–681605 : [0.0, 1.0, 0.0]
+Highlight: S10RR027303 : [0.0, 1.0, 0.0]
+Highlight: S10RR029668 : [0.0, 1.0, 0.0]
+Highlight: 1417036 : [0.0, 1.0, 0.0]
+Highlight: 09090456 : [0.0, 1.0, 0.0]
+Highlight: 250963 : [0.0, 1.0, 0.0]
+Highlight: 4002-00152B : [0.0, 1.0, 0.0]
+Highlight: PRJNA384940 : [1.0, 1.0, 0.0]
+Highlight: KT168317 : [1.0, 1.0, 0.0]
+Highlight: PRJNA384940 : [1.0, 1.0, 0.0]
+Highlight: KT168317 : [1.0, 1.0, 0.0]
+Highlight: KT168318 : [1.0, 1.0, 0.0]
+Highlight: KT168319 : [1.0, 1.0, 0.0]
+Highlight: KT168320 : [1.0, 1.0, 0.0]
+Highlight: KT168321 : [1.0, 1.0, 0.0]
+Highlight: KT168320 : [1.0, 1.0, 0.0]
+Highlight: KT168321 : [1.0, 1.0, 0.0]
+Highlight: KT168319 : [1.0, 1.0, 0.0]
+Highlight: KT168318 : [1.0, 1.0, 0.0]
+Highlight: YG 404.663 : [0.0, 1.0, 0.0]
+Highlight: YG 401.387 : [0.0, 1.0, 0.0]
+Highlight: YG 29.169 : [0.0, 1.0, 0.0]
+Highlight: YG 133.16 : [0.0, 1.0, 0.0]
+Highlight: YG 303.371 : [0.0, 1.0, 0.0]
+Highlight: KT168322 : [1.0, 1.0, 0.0]
+Highlight: KT168323 : [1.0, 1.0, 0.0]
+Highlight: KT168325 : [1.0, 1.0, 0.0]
+Highlight: KT168324 : [1.0, 1.0, 0.0]
+Highlight: KT168323 : [1.0, 1.0, 0.0]
+Highlight: KT168322 : [1.0, 1.0, 0.0]
+Highlight: KT168326 : [1.0, 1.0, 0.0]
+Highlight: KT168327 : [1.0, 1.0, 0.0]
+Highlight: KT168328 : [1.0, 1.0, 0.0]
+Highlight: KT168329 : [1.0, 1.0, 0.0]
+Highlight: KT168330 : [1.0, 1.0, 0.0]
+Highlight: KT168331 : [1.0, 1.0, 0.0]
+Highlight: KT168332 : [1.0, 1.0, 0.0]
+Highlight: KT168333 : [1.0, 1.0, 0.0]
+Highlight: KT168334 : [1.0, 1.0, 0.0]
+Highlight: KT168335 : [1.0, 1.0, 0.0]
+Highlight: KT168336 : [1.0, 1.0, 0.0]
+Highlight: MF134655 : [1.0, 1.0, 0.0]
+Highlight: MF134655 : [1.0, 1.0, 0.0]
+Highlight: KT168333 : [1.0, 1.0, 0.0]
+Highlight: KT168331 : [1.0, 1.0, 0.0]
+Highlight: KT168330 : [1.0, 1.0, 0.0]
+Highlight: KT168329 : [1.0, 1.0, 0.0]
+Highlight: KT168328 : [1.0, 1.0, 0.0]
+Highlight: KT168327 : [1.0, 1.0, 0.0]
+Highlight: KT168326 : [1.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109 / 150807 : [0.0, 1.0, 0.0]
+Highlight: YG 404.205 : [0.0, 1.0, 0.0]
+Highlight: YG 401.235 : [0.0, 1.0, 0.0]
+Highlight: YG 404.480 : [0.0, 1.0, 0.0]
+Highlight: YG 404.662 : [0.0, 1.0, 0.0]
+Highlight: YG 160.8 : [0.0, 1.0, 0.0]
+Highlight: YG 76.2 : [0.0, 1.0, 0.0]
+Highlight: YG 417.13 : [0.0, 1.0, 0.0]
+Highlight: YG 130.6 : [0.0, 1.0, 0.0]
+Highlight: YG 303.1085 : [0.0, 1.0, 0.0]
+Highlight: YG 198.1 : [0.0, 1.0, 0.0]
+Highlight: YG 130.55 : [0.0, 1.0, 0.0]
+Highlight: YG 402.235 : [0.0, 1.0, 0.0]
+Highlight: YG 404.478 : [0.0, 1.0, 0.0]
+Highlight: YG 378.5 : [0.0, 1.0, 0.0]
+Highlight: YG 328.54 : [0.0, 1.0, 0.0]
+Highlight: KT168324 : [1.0, 1.0, 0.0]
+Highlight: KT168325 : [1.0, 1.0, 0.0]
+Highlight: KT168336 : [1.0, 1.0, 0.0]
+Highlight: KT168335 : [1.0, 1.0, 0.0]
+Highlight: KT168334 : [1.0, 1.0, 0.0]
+Highlight: KT168332 : [1.0, 1.0, 0.0]
+Highlight: MF134656 : [1.0, 1.0, 0.0]
+Highlight: MF134657 : [1.0, 1.0, 0.0]
+Highlight: MF134658 : [1.0, 1.0, 0.0]
+Highlight: MF134659 : [1.0, 1.0, 0.0]
+Highlight: MF134660 : [1.0, 1.0, 0.0]
+Highlight: MF134661 : [1.0, 1.0, 0.0]
+Highlight: MF134662 : [1.0, 1.0, 0.0]
+Highlight: MF134663 : [1.0, 1.0, 0.0]
+Highlight: MF134661 : [1.0, 1.0, 0.0]
+Highlight: MF134660 : [1.0, 1.0, 0.0]
+Highlight: MF134659 : [1.0, 1.0, 0.0]
+Highlight: MF134658 : [1.0, 1.0, 0.0]
+Highlight: MF134657 : [1.0, 1.0, 0.0]
+Highlight: http://dx.doi.org/10. : [1.0, 0.5, 0.0]
+Highlight: 5061/dryad.8153g : [1.0, 0.5, 0.0]
+Highlight: KU 33418 : [0.0, 1.0, 0.0]
+Highlight: KU 53678 : [0.0, 1.0, 0.0]
+Highlight: KU 50817 : [0.0, 1.0, 0.0]
+Highlight: KU 62158 : [0.0, 1.0, 0.0]
+Highlight: KU 62055 : [0.0, 1.0, 0.0]
+Highlight: KU 47800 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109 / 156450 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109 / 149291 : [0.0, 1.0, 0.0]
+Highlight: MF134656 : [1.0, 1.0, 0.0]
+Highlight: MF134662 : [1.0, 1.0, 0.0]
+Highlight: MF134663 : [1.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/150807 : [0.0, 1.0, 0.0]
+Highlight: YG 76.2 : [0.0, 1.0, 0.0]
+Highlight: YG 130.6; : [0.0, 1.0, 0.0]
+Highlight: YG 401.387 : [0.0, 1.0, 0.0]
+Highlight: KU 47800 : [0.0, 1.0, 0.0]
+Highlight: YG : [0.0, 1.0, 0.0]
+Highlight: 130.55 : [0.0, 1.0, 0.0]
+Highlight: AJ428947 : [1.0, 1.0, 0.0]
+Highlight: NC023838 : [1.0, 1.0, 0.0]
+Highlight: NC012681 : [1.0, 1.0, 0.0]
+Highlight: NC012684 : [1.0, 1.0, 0.0]
+Highlight: NC001779 : [1.0, 1.0, 0.0]
+Highlight: NC012683 : [1.0, 1.0, 0.0]
+Highlight: NC001808 : [1.0, 1.0, 0.0]
+Highlight: NC012682 : [1.0, 1.0, 0.0]
+Highlight: AJ428947 : [1.0, 1.0, 0.0]
+Highlight: NC023838 : [1.0, 1.0, 0.0]
+Highlight: NC012681 : [1.0, 1.0, 0.0]
+Highlight: NC012684 : [1.0, 1.0, 0.0]
+Highlight: NC001779 : [1.0, 1.0, 0.0]
+Highlight: NC012683 : [1.0, 1.0, 0.0]
+Highlight: NC001808 : [1.0, 1.0, 0.0]
+Highlight: NC012682 : [1.0, 1.0, 0.0]
+Highlight: YG 402.235 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/150807 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/149291 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/156450 : [0.0, 1.0, 0.0]
+Highlight: KU 47800 : [0.0, 1.0, 0.0]
+Highlight: KU 53678 : [0.0, 1.0, 0.0]
+Highlight: YG 303.1085 : [0.0, 1.0, 0.0]
+Highlight: YG 130.55 : [0.0, 1.0, 0.0]
+Highlight: YG 401.387 : [0.0, 1.0, 0.0]
+Highlight: YG 404.205 : [0.0, 1.0, 0.0]
+Highlight: YG 130.6 : [0.0, 1.0, 0.0]
+Highlight: YG 303.371 : [0.0, 1.0, 0.0]
+Highlight: YG 404.662 : [0.0, 1.0, 0.0]
+Highlight: YG 29.169 : [0.0, 1.0, 0.0]
+Highlight: YG 160.8 : [0.0, 1.0, 0.0]
+Highlight: YG 76.2 : [0.0, 1.0, 0.0]
+Highlight: YG 404.663 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: LACM(CIT) 109/156450) : [0.0, 1.0, 0.0]
+Highlight: YPM 13470, : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: SMP 60578 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+Highlight: TMM 34–2518 : [0.0, 1.0, 0.0]
+
+
+10.7554_elife.42722
+Highlight: R35 NS097343 : [0.0, 1.0, 0.0]
+Highlight: MH046742 : [0.0, 1.0, 0.0]
+Highlight: T32 NS07292 : [0.0, 1.0, 0.0]
+Highlight: 10.5061/dryad.d0779mb : [1.0, 0.5, 0.0]
+
+
+10.7554_elife.62329
+Highlight: RRID:SCR_019285 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_019286 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_008394) : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_016564 : [0.0, 1.0, 0.0]
+Highlight: PRAAT, : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_005972 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5061/dryad.12jm63xwd : [1.0, 0.5, 0.0]
+Highlight: R00DC014288 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_019287 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_001905 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_015654 : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_000432) : [0.0, 1.0, 0.0]
+Highlight: RRID:SCR_015656 : [0.0, 1.0, 0.0]
+
+
+10.7554_elife.63455
+Highlight: 2017YFA0700501 : [0.0, 1.0, 0.0]
+Highlight: 21874052 : [0.0, 1.0, 0.0]
+Highlight: HUST:2172019kfyXKJC077 : [0.0, 1.0, 0.0]
+
+
+10.7554_elife.73695
+Highlight: NCTS/RCD/12B/012/26B : [0.0, 1.0, 0.0]
+Highlight: NACOSTI/P/15/5727/4608 : [0.0, 1.0, 0.0]
+Highlight: NACOSTI/P/19/55517/24299 : [0.0, 1.0, 0.0]
+Highlight: NACOSTI/P/20/1407 : [0.0, 1.0, 0.0]
+Highlight: KWS/BRM/5001 : [0.0, 1.0, 0.0]
+Highlight: 2012.0601.2015 : [0.0, 1.0, 0.0]
+Highlight: 20442 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.5061/dryad.p5hqbzkqf : [1.0, 0.5, 0.0]
+Highlight: IIS 1514174 : [0.0, 1.0, 0.0]
+Highlight: IOS 1250895 : [0.0, 1.0, 0.0]
+Highlight: 2016-65130 : [0.0, 1.0, 0.0]
+Highlight: ID: 422037984 : [0.0, 1.0, 0.0]
+Highlight: http://dx.doi.org/10.5061/dryad.6h5b7 : [1.0, 0.5, 0.0]
+
+
+10.7554_elife.74937
+Highlight: 7804/2-1 : [0.0, 1.0, 0.0]
+
+
+10.7717_peerj.10452
+Highlight: PRJNA664798 : [1.0, 0.5, 0.0]
+Highlight: PRJNA664798 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233641 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233642 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233643 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233644 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233645 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233650 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233655 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233660 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233646 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233651 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233656 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233661 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233647 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233652 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233657 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233662 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233648 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233653 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233658 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233663 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233649 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233654 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233659 : [1.0, 0.5, 0.0]
+Highlight: SAMN16233664 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764129.v1 : [1.0, 0.5, 0.0]
+Highlight: CARS -20 : [0.0, 1.0, 0.0]
+Highlight: 201503137 : [0.0, 1.0, 0.0]
+Highlight: 201503137 : [0.0, 1.0, 0.0]
+Highlight: CARS -20 : [0.0, 1.0, 0.0]
+Highlight: 10.6084/m9.figshare.12764126.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764123.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764120.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764117.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764105.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764141.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764081.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764078.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764075.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764069.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764072.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764057.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764054.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764048.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764042.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764036.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764030.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764030.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764018.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12764012.v1 : [1.0, 0.5, 0.0]
+Highlight: 10.6084/m9.figshare.12763997.v1 : [1.0, 0.5, 0.0]
+Highlight: PRJNA664798 : [1.0, 0.5, 0.0]
+
+
+10.7717_peerj.11352
+Highlight: OCE-1538582 : [0.0, 1.0, 0.0]
+Highlight: 10.7291/D11M38 : [1.0, 0.5, 0.0]
+Highlight: SC-389 : [0.6349999904632568, 0.17299999296665192, 1.0]
+Highlight: OCE-1538582 : [0.0, 1.0, 0.0]
+
+
+10.7717_peerj.12422
+Highlight: https://doi.org/10.15468/dl.p4r693 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.72ddmz : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.k6jv69 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.czyyq2 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.j4fe7k : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.yak5vd : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.82wsgb : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.t3h8b4 : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.wgtneb : [1.0, 0.5, 0.0]
+Highlight: https://doi.org/10.15468/dl.wp98ts : [1.0, 0.5, 0.0]
+
+
+10.7717_peerj.13193
+Highlight: DEB-0949324 : [0.0, 1.0, 0.0]
+Highlight: DEB-0423259 : [0.0, 1.0, 0.0]
+Highlight: DEB-1114804 : [0.0, 1.0, 0.0]
+Highlight: DEB-1637685 : [0.0, 1.0, 0.0]
+Highlight: 2019- : [0.0, 1.0, 0.0]
+Highlight: 67019-29464 : [0.0, 1.0, 0.0]
+Highlight: 2019-67019-29464 : [0.0, 1.0, 0.0]
+Highlight: DEB-0949324 : [0.0, 1.0, 0.0]
+Highlight: DEB-0423259 : [0.0, 1.0, 0.0]
+Highlight: DEB-1114804 : [0.0, 1.0, 0.0]
+Highlight: DEB-1637685 : [0.0, 1.0, 0.0]
+Highlight: https://doi.org/10.6073/pasta/b23deb8e1ccf1c1413382bf911c6be19 : [1.0, 0.5, 0.0]
+Highlight: 10.6073/pasta/b23deb8e1ccf1c1413382bf911c6be19 : [1.0, 1.0, 0.0]
+Highlight: 10.6073/pasta/275ad28a2f31356cf9c2648531a16a2b : [1.0, 1.0, 0.0]
+Highlight: 10.6073/pasta/02e2764efb408a8b66b7f486eac14dc0. : [1.0, 1.0, 0.0]
+
+
