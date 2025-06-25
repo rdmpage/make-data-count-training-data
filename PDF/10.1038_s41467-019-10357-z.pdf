@@ -9282,53 +9282,64 @@ trailer
 startxref
 1247981
 %%EOF
-661 0 obj
+665 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-660 0 obj
-<</ExtGState <</R1 661 0 R >> /ProcSet [/PDF] >>
+664 0 obj
+<</ExtGState <</R1 665 0 R >> /ProcSet [/PDF] >>
 endobj
 
-659 0 obj
-<</BBox [0 0 245.055 24.219] /Filter /FlateDecode /FormType 1 /Length 106 /Resources 660 0 R /Subtype /Form /Type /XObject >>stream
-xœeÁƒ@ÿW…`ccïù®´%¼ò!ıK!Û»3’ª*ƒ—­!ì)[ÅØBïr»›LŸ²
-
-şçï§²éU”1%¥"Ùd~îœ}é-nğìW¾}Ë„¹øU¾<Î"
+663 0 obj
+<</BBox [0 0 245.055 24.218] /Filter /FlateDecode /FormType 1 /Length 102 /Resources 664 0 R /Subtype /Form /Type /XObject >>stream
+xœMÁ€0Eï‚D(í®`Ô“—ºbckì‰ÏÀHD0Ñ8¸-*hÙa²qI
+Ûæ•á¼Ã¨µ\ÎĞõH‚®‹’Dts(ûÇ-×µrFñüò4òşÍYä??Â:U"
 endstream
 endobj
 
 658 0 obj
-<</AP <</N 659 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624161855+01'00') /F 4 /M (D:20250624161855+01'00') /NM (29656737-D4A5-41E4-8C67-984E65C4F025) /P 310 0 R /QuadPoints [43.597 610.502 288.652 610.502 43.597 603.745 288.652 603.745 43.597 601.772 284.976 601.772 43.597 595.014 284.976 595.014 43.597 593.041 120.730 593.041 43.597 586.284 120.730 586.284] /Rect [43.597 586.284 288.652 610.502] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+<</AP <</N 663 0 R >> /BS <</W 0 >> /C [0 1 0] /CreationDate (D:20250624161855+01'00') /F 4 /M (D:20250625104105+01'00') /NM (29656737-D4A5-41E4-8C67-984E65C4F025) /P 310 0 R /QuadPoints [43.597 610.502 288.652 610.502 43.597 603.745 288.652 603.745 43.597 601.772 284.976 601.772 43.597 595.014 284.976 595.014 43.597 593.041 120.730 593.041 43.597 586.284 120.730 586.284] /Rect [43.597 586.284 288.652 610.502] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 662 0 obj
 [314 0 R 315 0 R 316 0 R 317 0 R 318 0 R 319 0 R 320 0 R 321 0 R 658 0 R]
 endobj
 
+1 0 obj
+<</Author (Jianping Zhao) /CreationDate (D:20190611113316+05'30') /Creator (Springer) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /Keywords () /ModDate (D:20250625104107+01'00') /Producer (iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (Nature Communications, doi:10.1038/s41467-019-10357-z) /Title (Proton mediated spin state transition of cobalt heme analogs) /doi (10.1038/s41467-019-10357-z) >>
+endobj
+
 310 0 obj
 <</Annots 662 0 R /Contents 311 0 R /CropBox [0 0 595.276 782.362] /MediaBox [0 0 595.276 782.362] /Parent 4 0 R /Resources 312 0 R /Rotate 0 /Thumb 313 0 R /Type /Page >>
 endobj
 
-1 0 obj
-<</Author (Jianping Zhao) /CreationDate (D:20190611113316+05'30') /Creator (Springer) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /Keywords () /ModDate (D:20250624161857+01'00') /Producer (iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (Nature Communications, doi:10.1038/s41467-019-10357-z) /Title (Proton mediated spin state transition of cobalt heme analogs) /doi (10.1038/s41467-019-10357-z) >>
+660 0 obj
+<</ExtGState <</R1 661 0 R >> /ProcSet [/PDF] >>
+endobj
+
+661 0 obj
+<</BM /Multiply /Type /ExtGState >>
 endobj
 
 xref
 1 1
-0001262470 00000 n 
+0001262272 00000 n 
 310 1
-0001262280 00000 n 
-658 5
-0001261697 00000 n 
+0001262742 00000 n 
+658 8
+0001261693 00000 n 
+0000000000 65535 f 
+0001262932 00000 n 
+0001262999 00000 n 
+0001262180 00000 n 
 0001261430 00000 n 
 0001261363 00000 n 
 0001261309 00000 n 
-0001262188 00000 n 
 trailer
-<</ID [<431b9afbc19e2099fa661c9be7a29d97> <57595e2f3f247d860f45397c9ad92c74>] /Info 1 0 R /Prev 1247981 /Root 505 0 R /Size 663 >>
+<</ID [<431b9afbc19e2099fa661c9be7a29d97> <871881e6829f51a5daf490a832f5ec20>] /Info 1 0 R /Prev 1247981 /Root 505 0 R /Size 666 >>
 % PDF Expert 11190 Mac OS AppStore 10dda5912
+% Smart Incremental Update
 
 startxref
-1262940
+1263053
 %%EOF

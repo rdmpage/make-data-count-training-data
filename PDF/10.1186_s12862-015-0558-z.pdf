@@ -10656,12 +10656,40 @@ trailer
 startxref
 1687452
 %%EOF
-786 0 obj
+819 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-785 0 obj
-<</ExtGState <</R1 786 0 R >> /ProcSet [/PDF] >>
+818 0 obj
+<</ExtGState <</R1 819 0 R >> /ProcSet [/PDF] >>
+endobj
+
+817 0 obj
+<</BBox [0 0 78.182 9.339] /Filter /FlateDecode /FormType 1 /Length 78 /Resources 818 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!=CC]3S=C33…ä\.ý C…ôb.ˆ=S0	b¥sA•ÃT›¹F
+–zÆÆ–
+E©\i\ Së
+endstream
+endobj
+
+816 0 obj
+<</AP <</N 817 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250625113356+01'00') /F 4 /M (D:20250625113356+01'00') /NM (9BDB1601-F4EA-4D60-BF1A-A432DE383EA9) /P 362 0 R /QuadPoints [88.101 654.505 166.282 654.505 88.101 645.166 166.282 645.166] /Rect [88.101 645.166 166.282 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+815 0 obj
+[368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R 386 0 R 387 0 R 388 0 R 795 0 R 783 0 R 799 0 R 791 0 R 803 0 R 811 0 R 807 0 R 816 0 R]
+endobj
+
+1 0 obj
+<</Author (Lea Fellner) /CreationDate (D:20151217055646+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /CrossmarkDomainExclusive (true) /CrossmarkMajorVersionDate (2015-12-17) /Keywords (Overprinting,Overlapping gene,de novo evolution,Coding reserve,Orphan,EHEC,nog1/citC) /ModDate (D:20250625113357+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Evolutionary Biology, 2015, doi:10.1186/s12862-015-0558-z) /Title (Evidence for the recent origin of a bacterial protein-coding, overlapping orphan gene by evolutionary overprinting) /doi (10.1186/s12862-015-0558-z) >>
+endobj
+
+362 0 obj
+<</Annots 815 0 R /Contents 363 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 317 0 R /Resources <</ColorSpace <</DefaultCMYK 7 0 R >> /ExtGState <</GS4 6 0 R /GS6 164 0 R /GS8 138 0 R >> /Font <</F1 8 0 R /F12 17 0 R /F14 10 0 R /F17 19 0 R /F2 9 0 R /F3 141 0 R /F4 12 0 R /F5 142 0 R /F7 143 0 R /F8 365 0 R /F9 15 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] /Properties <</MC15 366 0 R >> /XObject <</Im11 364 0 R >> >> /Rotate 0 /Thumb 367 0 R /Type /Page >>
+endobj
+
+783 0 obj
+<</AP <</N 784 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221512+01'00') /F 4 /M (D:20250624221512+01'00') /NM (7B304490-C98F-4A2D-B231-96F50C5BD971) /P 362 0 R /QuadPoints [246.444 642.487 290.586 642.487 246.444 633.147 290.586 633.147 56.693 630.468 153.833 630.468 56.693 621.129 153.833 621.129] /Rect [56.693 621.129 290.586 642.487] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 784 0 obj
@@ -10670,11 +10698,11 @@ xœMŒË€0Cï™"’&M•5XAO\Êþå'¸øÙ²e!fÆÿ;d'ÅÁ“¤Àyƒq¬;Ü¦|éé[…dNf†®JbÍ:©¶
 endstream
 endobj
 
-783 0 obj
-<</AP <</N 784 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221512+01'00') /F 4 /M (D:20250624221512+01'00') /NM (7B304490-C98F-4A2D-B231-96F50C5BD971) /P 362 0 R /QuadPoints [246.444 642.487 290.586 642.487 246.444 633.147 290.586 633.147 56.693 630.468 153.833 630.468 56.693 621.129 153.833 621.129] /Rect [56.693 621.129 290.586 642.487] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+785 0 obj
+<</ExtGState <</R1 786 0 R >> /ProcSet [/PDF] >>
 endobj
 
-790 0 obj
+786 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
@@ -10682,23 +10710,12 @@ endobj
 <</ExtGState <</R1 790 0 R >> /ProcSet [/PDF] >>
 endobj
 
-788 0 obj
-<</BBox [0 0 233.883 21.301] /Filter /FlateDecode /FormType 1 /Length 98 /Resources 789 0 R /Subtype /Form /Type /XObject >>stream
-xœMŒËÃ0CïšB„íH±ÖÈ
-E“S.îþ@Ñ¸Erá$af:ÙÝ8Š"«N1;¡ÏC+uË8üÔoî»” èMÃ°4-‰™Mµ¦ö—üp-á-¯}“}ÐÎ
-endstream
-endobj
-
-787 0 obj
-<</AP <</N 788 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221503+01'00') /F 4 /M (D:20250624221503+01'00') /NM (B5D89854-B628-4427-9A1E-DB02A4EF05C0) /P 362 0 R /QuadPoints [261.158 666.467 290.576 666.467 261.158 657.128 290.576 657.128 56.693 654.505 166.282 654.505 56.693 645.166 166.282 645.166] /Rect [56.693 645.166 290.576 666.467] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
-endobj
-
-794 0 obj
+790 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-793 0 obj
-<</ExtGState <</R1 794 0 R >> /ProcSet [/PDF] >>
+791 0 obj
+<</AP <</N 792 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221518+01'00') /F 4 /M (D:20250624221518+01'00') /NM (0AD4A720-306F-47F4-8D67-9483FE7D681F) /P 362 0 R /QuadPoints [82.999 618.506 223.889 618.506 82.999 609.167 223.889 609.167] /Rect [82.999 609.167 223.889 618.506] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 792 0 obj
@@ -10707,16 +10724,16 @@ xœ3Ô300PÐ5@¦!#=KKK]3K=C3s…ä\.ý C…ôb.ˆ=S0	b¥sA•ÃTšèYX(Xê[*¥r¥q p
 endstream
 endobj
 
-791 0 obj
-<</AP <</N 792 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221518+01'00') /F 4 /M (D:20250624221518+01'00') /NM (0AD4A720-306F-47F4-8D67-9483FE7D681F) /P 362 0 R /QuadPoints [82.999 618.506 223.889 618.506 82.999 609.167 223.889 609.167] /Rect [82.999 609.167 223.889 618.506] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+793 0 obj
+<</ExtGState <</R1 794 0 R >> /ProcSet [/PDF] >>
 endobj
 
-798 0 obj
+794 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-797 0 obj
-<</ExtGState <</R1 798 0 R >> /ProcSet [/PDF] >>
+795 0 obj
+<</AP <</N 796 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221510+01'00') /F 4 /M (D:20250624221510+01'00') /NM (337AF8A5-1B19-4947-956F-3043FDE4F38B) /P 362 0 R /QuadPoints [98.305 642.487 238.394 642.487 98.305 633.147 238.394 633.147] /Rect [98.305 633.147 238.394 642.487] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 796 0 obj
@@ -10725,16 +10742,16 @@ xœ3Ô300PÐ5@¦!K=cS]3cc=Cs…ä\.ý C…ôb.ˆ=S0	b¥sA•ÃTš e,,,õŒ-ŠR¹Ò¸ iÕG
 endstream
 endobj
 
-795 0 obj
-<</AP <</N 796 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221510+01'00') /F 4 /M (D:20250624221510+01'00') /NM (337AF8A5-1B19-4947-956F-3043FDE4F38B) /P 362 0 R /QuadPoints [98.305 642.487 238.394 642.487 98.305 633.147 238.394 633.147] /Rect [98.305 633.147 238.394 642.487] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+797 0 obj
+<</ExtGState <</R1 798 0 R >> /ProcSet [/PDF] >>
 endobj
 
-802 0 obj
+798 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-801 0 obj
-<</ExtGState <</R1 802 0 R >> /ProcSet [/PDF] >>
+799 0 obj
+<</AP <</N 800 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221515+01'00') /F 4 /M (D:20250624221515+01'00') /NM (A12A0554-E477-4D37-8CE0-F0225783E2DD) /P 362 0 R /QuadPoints [172.404 630.468 290.605 630.468 172.404 621.129 290.605 621.129 56.693 618.506 77.216 618.506 56.693 609.167 77.216 609.167] /Rect [56.693 609.167 290.605 630.468] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 800 0 obj
@@ -10743,16 +10760,16 @@ xœML¹€0ì=…Àøœ`ð¬€ MØ_â4÷èˆªr£Âm:Äk¼çi¥v—î‚Jwá©k!ô&Y3»A`ÁÀ ¦à”‚ëLÏ
 endstream
 endobj
 
-799 0 obj
-<</AP <</N 800 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221515+01'00') /F 4 /M (D:20250624221515+01'00') /NM (A12A0554-E477-4D37-8CE0-F0225783E2DD) /P 362 0 R /QuadPoints [172.404 630.468 290.605 630.468 172.404 621.129 290.605 621.129 56.693 618.506 77.216 618.506 56.693 609.167 77.216 609.167] /Rect [56.693 609.167 290.605 630.468] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+801 0 obj
+<</ExtGState <</R1 802 0 R >> /ProcSet [/PDF] >>
 endobj
 
-806 0 obj
+802 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-805 0 obj
-<</ExtGState <</R1 806 0 R >> /ProcSet [/PDF] >>
+803 0 obj
+<</AP <</N 804 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221521+01'00') /F 4 /M (D:20250624221521+01'00') /NM (6FA2286C-7017-430F-80BE-12905CAEBD8A) /P 362 0 R /QuadPoints [229.719 618.506 290.544 618.506 229.719 609.167 290.544 609.167 56.693 606.488 136.064 606.488 56.693 597.148 136.064 597.148] /Rect [56.693 597.148 290.544 618.506] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 804 0 obj
@@ -10761,16 +10778,16 @@ xœMŒÁ€0ÿ™"’–&Í¬€ />e‰BAðñÙ²e!fÆÿ’’zlt#™2.;Œ³`9 ˜Ò­—¯Bp2qTvµFÊ!¡SŒŽu
 endstream
 endobj
 
-803 0 obj
-<</AP <</N 804 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221521+01'00') /F 4 /M (D:20250624221521+01'00') /NM (6FA2286C-7017-430F-80BE-12905CAEBD8A) /P 362 0 R /QuadPoints [229.719 618.506 290.544 618.506 229.719 609.167 290.544 609.167 56.693 606.488 136.064 606.488 56.693 597.148 136.064 597.148] /Rect [56.693 597.148 290.544 618.506] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+805 0 obj
+<</ExtGState <</R1 806 0 R >> /ProcSet [/PDF] >>
 endobj
 
-810 0 obj
+806 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-809 0 obj
-<</ExtGState <</R1 810 0 R >> /ProcSet [/PDF] >>
+807 0 obj
+<</AP <</N 808 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221528+01'00') /F 4 /M (D:20250624221528+01'00') /NM (33F38885-2677-45FF-B3FB-D526901BAE0A) /P 362 0 R /QuadPoints [176.316 654.505 290.539 654.505 176.316 645.166 290.539 645.166 56.693 642.487 90.311 642.487 56.693 633.147 90.311 633.147] /Rect [56.693 633.147 290.539 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 808 0 obj
@@ -10779,16 +10796,16 @@ xœMŒ»€@CûL‘ñåÎèÖ`T4°¿Ä_ÐøÙ²e˜»kãà…ÆÚ0Â;i{è¼É=p+—ž~-@e.Rl)…V‹¨ºŽ
 endstream
 endobj
 
-807 0 obj
-<</AP <</N 808 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221528+01'00') /F 4 /M (D:20250624221528+01'00') /NM (33F38885-2677-45FF-B3FB-D526901BAE0A) /P 362 0 R /QuadPoints [176.316 654.505 290.539 654.505 176.316 645.166 290.539 645.166 56.693 642.487 90.311 642.487 56.693 633.147 90.311 633.147] /Rect [56.693 633.147 290.539 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+809 0 obj
+<</ExtGState <</R1 810 0 R >> /ProcSet [/PDF] >>
 endobj
 
-814 0 obj
+810 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-813 0 obj
-<</ExtGState <</R1 814 0 R >> /ProcSet [/PDF] >>
+811 0 obj
+<</AP <</N 812 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221524+01'00') /F 4 /M (D:20250624221524+01'00') /NM (B6677225-158B-4662-9049-4BECA1AB0D21) /P 362 0 R /QuadPoints [166.282 606.488 290.521 606.488 166.282 597.148 290.521 597.148 56.693 594.469 76.253 594.469 56.693 585.130 76.253 585.130] /Rect [56.693 585.130 290.521 606.488] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 812 0 obj
@@ -10797,65 +10814,62 @@ xœMŒ»€@CûL‘0É	—5XÁU4°¿Ä_Ð<Û²e…ˆp#Ñ;˜Ã#Zš…Ç…ÚA¹ntvñôk%uG*‰-zhWXS‡”ƒùà:
 endstream
 endobj
 
-811 0 obj
-<</AP <</N 812 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624221524+01'00') /F 4 /M (D:20250624221524+01'00') /NM (B6677225-158B-4662-9049-4BECA1AB0D21) /P 362 0 R /QuadPoints [166.282 606.488 290.521 606.488 166.282 597.148 290.521 597.148 56.693 594.469 76.253 594.469 56.693 585.130 76.253 585.130] /Rect [56.693 585.130 290.521 606.488] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+813 0 obj
+<</ExtGState <</R1 814 0 R >> /ProcSet [/PDF] >>
 endobj
 
-815 0 obj
-[368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R 386 0 R 387 0 R 388 0 R 787 0 R 795 0 R 783 0 R 799 0 R 791 0 R 803 0 R 811 0 R 807 0 R]
-endobj
-
-362 0 obj
-<</Annots 815 0 R /Contents 363 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 317 0 R /Resources <</ColorSpace <</DefaultCMYK 7 0 R >> /ExtGState <</GS4 6 0 R /GS6 164 0 R /GS8 138 0 R >> /Font <</F1 8 0 R /F12 17 0 R /F14 10 0 R /F17 19 0 R /F2 9 0 R /F3 141 0 R /F4 12 0 R /F5 142 0 R /F7 143 0 R /F8 365 0 R /F9 15 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] /Properties <</MC15 366 0 R >> /XObject <</Im11 364 0 R >> >> /Rotate 0 /Thumb 367 0 R /Type /Page >>
-endobj
-
-1 0 obj
-<</Author (Lea Fellner) /CreationDate (D:20151217055646+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /CrossmarkDomainExclusive (true) /CrossmarkMajorVersionDate (2015-12-17) /Keywords (Overprinting,Overlapping gene,de novo evolution,Coding reserve,Orphan,EHEC,nog1/citC) /ModDate (D:20250624221545+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Evolutionary Biology, 2015, doi:10.1186/s12862-015-0558-z) /Title (Evidence for the recent origin of a bacterial protein-coding, overlapping orphan gene by evolutionary overprinting) /doi (10.1186/s12862-015-0558-z) >>
+814 0 obj
+<</BM /Multiply /Type /ExtGState >>
 endobj
 
 xref
 1 1
-0001710344 00000 n 
+0001704256 00000 n 
 362 1
-0001709824 00000 n 
-783 33
-0001703657 00000 n 
+0001705039 00000 n 
+783 37
+0001705559 00000 n 
+0001705990 00000 n 
+0001706246 00000 n 
+0001706313 00000 n 
+0000000000 65535 f 
+0000000000 65535 f 
+0001706367 00000 n 
+0001706434 00000 n 
+0001706488 00000 n 
+0001706855 00000 n 
+0001707095 00000 n 
+0001707162 00000 n 
+0001707216 00000 n 
+0001707583 00000 n 
+0001707821 00000 n 
+0001707888 00000 n 
+0001707942 00000 n 
+0001708371 00000 n 
+0001708625 00000 n 
+0001708692 00000 n 
+0001708746 00000 n 
+0001709177 00000 n 
+0001709432 00000 n 
+0001709499 00000 n 
+0001709553 00000 n 
+0001709982 00000 n 
+0001710236 00000 n 
+0001710303 00000 n 
+0001710357 00000 n 
+0001710786 00000 n 
+0001711041 00000 n 
+0001711108 00000 n 
+0001704004 00000 n 
+0001703637 00000 n 
 0001703401 00000 n 
 0001703334 00000 n 
 0001703280 00000 n 
-0001704467 00000 n 
-0001704209 00000 n 
-0001704142 00000 n 
-0001704088 00000 n 
-0001705259 00000 n 
-0001705019 00000 n 
-0001704952 00000 n 
-0001704898 00000 n 
-0001705985 00000 n 
-0001705747 00000 n 
-0001705680 00000 n 
-0001705626 00000 n 
-0001706727 00000 n 
-0001706473 00000 n 
-0001706406 00000 n 
-0001706352 00000 n 
-0001707532 00000 n 
-0001707277 00000 n 
-0001707210 00000 n 
-0001707156 00000 n 
-0001708338 00000 n 
-0001708084 00000 n 
-0001708017 00000 n 
-0001707963 00000 n 
-0001709143 00000 n 
-0001708888 00000 n 
-0001708821 00000 n 
-0001708767 00000 n 
-0001709572 00000 n 
 trailer
-<</ID [<ed75b39026e1bc19ec2a36e1468d8d1b> <3d67c7c992b204fc50ca9f16fa6cf8e5>] /Info 1 0 R /Prev 1687452 /Root 652 0 R /Size 816 >>
+<</ID [<ed75b39026e1bc19ec2a36e1468d8d1b> <6032d8895040f0f2c77964fa1fb705b2>] /Info 1 0 R /Prev 1687452 /Root 652 0 R /Size 820 >>
 % PDF Expert 11190 Mac OS AppStore 10dda5912
+% Smart Incremental Update
 
 startxref
-1711127
+1711162
 %%EOF
