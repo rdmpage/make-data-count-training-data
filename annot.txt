@@ -543,9 +543,9 @@ Highlight: doi:10.5281/zenodo.1472500 : [1.0, 0.5, 0.0]
 
 
 10.1038_s41467-019-10357-z
-Highlight: The X-ray crystallographic coordinates for structures reported in this study have been : [1.0, 0.5, 0.0]
-Highlight: deposited at the Cambridge Crystallographic Data Center (CCDC), under deposition : [1.0, 0.5, 0.0]
-Highlight: numbers 1878657-1878660. : [1.0, 0.5, 0.0]
+Highlight: The X-ray crystallographic coordinates for structures reported in this study have been : [0.0, 1.0, 0.0]
+Highlight: deposited at the Cambridge Crystallographic Data Center (CCDC), under deposition : [0.0, 1.0, 0.0]
+Highlight: numbers 1878657-1878660. : [0.0, 1.0, 0.0]
 
 
 10.1038_s41558-022-01301-z
@@ -720,7 +720,6 @@ Highlight: GCA_007748195.1 : [1.0, 1.0, 0.0]
 Highlight: ( _ GCA_007747795.1 : [1.0, 1.0, 0.0]
 Highlight: J ( GCA_007747015.1) : [1.0, 1.0, 0.0]
 Highlight: ( _ GCA_900113665.1) : [1.0, 1.0, 0.0]
-Highlight: ( _ GCA_001707835.1) T : [1.0, 1.0, 0.0]
 Highlight: ), GCA_000165715.3 : [1.0, 1.0, 0.0]
 Highlight: _ ), GCA_022267515.1) : [1.0, 1.0, 0.0]
 Highlight: ( _ GCA_007747995.1)h : [1.0, 1.0, 0.0]
@@ -735,6 +734,7 @@ Highlight: _ ) GCA_000092105.1 : [1.0, 1.0, 0.0]
 Highlight: ( _ GCA_007752345.1) : [1.0, 1.0, 0.0]
 Highlight: ), GCA_000153105.1 : [1.0, 1.0, 0.0]
 Highlight: g CP001848.1 : [1.0, 1.0, 0.0]
+Highlight: ( _ GCA_001707835.1 T : [1.0, 1.0, 0.0]
 Highlight: y OR353748 : [1.0, 0.5, 0.0]
 Highlight: y CP130886 : [1.0, 0.5, 0.0]
 
@@ -1619,8 +1619,6 @@ Highlight: PXD016241 : [1.0, 0.0, 0.0]
 
 
 10.1186_s12862-015-0558-z
-Highlight: https:// : [1.0, 0.5, 0.0]
-Highlight: doi.org/10.6070/H42N5083 : [1.0, 0.5, 0.0]
 Highlight: https://doi.org/10.6070/H4T43R3V : [1.0, 0.5, 0.0]
 Highlight: https://doi. : [1.0, 0.5, 0.0]
 Highlight: org/10.6070/H4PG1PR0 : [1.0, 0.5, 0.0]
@@ -1633,6 +1631,7 @@ Highlight: https://doi.org/10.6070/H45D8 : [1.0, 0.5, 0.0]
 Highlight: PVN : [1.0, 0.5, 0.0]
 Highlight: https://doi.org/10.6070/H4X : [1.0, 0.5, 0.0]
 Highlight: W4GSD : [1.0, 0.5, 0.0]
+Highlight: 10.6070/H42N5083 : [1.0, 0.5, 0.0]
 
 
 10.1186_s12862-018-1213-2
@@ -1737,8 +1736,6 @@ Highlight: PRJNA283549 : [1.0, 0.5, 0.0]
 10.1186_s12866-019-1542-3
 Highlight: RQWM00000000 : [1.0, 0.5, 0.0]
 Highlight: RQWM01000000 : [1.0, 0.5, 0.0]
-Highlight: Whole : [1.0, 0.5, 0.0]
-Highlight: Genome Shotgun : [1.0, 0.5, 0.0]
 Highlight: GCA_000007825.1 : [1.0, 1.0, 0.0]
 Highlight: GCA_000008505.1 : [1.0, 1.0, 0.0]
 Highlight: NC_007530.2, : [1.0, 1.0, 0.0]
@@ -2055,8 +2052,8 @@ Highlight: SR #37102 : [0.0, 1.0, 0.0]
 Highlight: P50 : [0.0, 1.0, 0.0]
 Highlight: AG025688 : [0.0, 1.0, 0.0]
 Highlight: AMP-AD U01 AG046161 : [0.0, 1.0, 0.0]
-Highlight: Synapse:syn11209141 : [1.0, 0.5, 0.0]
-Highlight: Synapse:syn10934660. : [1.0, 0.5, 0.0]
+Highlight: Synapse:syn11209141 : [0.0, 1.0, 0.0]
+Highlight: Synapse:syn10934660. : [0.0, 1.0, 0.0]
 
 
 10.1186_s13024-018-0266-4
