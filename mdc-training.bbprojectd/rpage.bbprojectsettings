@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:rpage</key>
 	<false/>
-	<key>ExpandedEditorWidth:rpage:displays([(0, 0), (3440, 1440)])</key>
+	<key>ExpandedEditorWidth:rpage:displays([(0, 0), (1512, 982)]:[(1512, -172), (3440, 1440)])</key>
 	<integer>738</integer>
 	<key>ExpandedItems:rpage</key>
 	<array>
@@ -161,14 +161,14 @@
 		<dict>
 			<key>BookmarkData</key>
 			<data>
-			Ym9va0QDAAAAAAQQMAAAANBhk20uBZSGhdXvDd99pABmRJXLUAbB
-			GeugunLrZx3FNAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			Ym9va0QDAAAAAAQQMAAAABfDOOIHbyxcgFr4yUhgTae1j/ZOvB16
+			qYCXl73C374ANAIAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
 			AAAFAAAAAQEAAHJwYWdlAAAACwAAAAEBAABEZXZlbG9wbWVudAAd
 			AAAAAQEAAG1ha2UtZGF0YS1jb3VudC10cmFpbmluZy1kYXRhAAAA
 			FwAAAAEBAABuZXdfdHJhaW5pbmdfbGFiZWxzLmNzdgAUAAAAAQYA
 			ABAAAAAgAAAAMAAAAEQAAABsAAAACAAAAAQDAACEXAAAAAAAAAgA
 			AAAEAwAAlsYDAAAAAAAIAAAABAMAAFkpJQAAAAAACAAAAAQDAAAd
-			yWRHAAAAAAgAAAAEAwAAiz9oRwAAAAAUAAAAAQYAAKgAAAC4AAAA
+			yWRHAAAAAAgAAAAEAwAAj0poRwAAAAAUAAAAAQYAAKgAAAC4AAAA
 			yAAAANgAAADoAAAACAAAAAAEAABBxwWz9TWvCBgAAAABAgAAAQAA
 			AAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAAAAQA
 			AAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2lu
@@ -208,7 +208,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2025-06-26T09:22:24Z</date>
+			<date>2025-06-26T12:14:01Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -250,7 +250,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2025-06-26T09:22:24Z</date>
+			<date>2025-06-26T12:14:01Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -292,7 +292,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2025-06-26T09:22:24Z</date>
+			<date>2025-06-26T12:14:01Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -336,7 +336,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2025-06-26T09:22:24Z</date>
+			<date>2025-06-26T12:14:01Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -378,7 +378,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2025-06-26T09:22:24Z</date>
+			<date>2025-06-26T12:14:01Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -430,7 +430,7 @@
 	<false/>
 	<key>ViewSplitterPosition:rpage</key>
 	<real>0.21572795510292053</real>
-	<key>WindowFrame:rpage:displays([(0, 0), (3440, 1440)])</key>
-	<string>rect(346,1228,1249,2169)</string>
+	<key>WindowFrame:rpage:displays([(0, 0), (1512, 982)]:[(1512, -172), (3440, 1440)])</key>
+	<string>rect(74,281,977,1222)</string>
 </dict>
 </plist>
