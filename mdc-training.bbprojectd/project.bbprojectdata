@@ -10,6 +10,7 @@
 		<string>D563B07C-EC84-4BCB-A12C-75AB82650886</string>
 		<string>A99BD3A1-B16A-4B3B-85F4-4A7423C2728C</string>
 		<string>A52EF6E0-783A-406A-8B9C-1CAF92F838B3</string>
+		<string>AA09C3F0-20EF-45B9-8D49-C2A8E41D5534</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -201,6 +202,53 @@
 			</dict>
 			<key>ItemName</key>
 			<string>README.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>AA09C3F0-20EF-45B9-8D49-C2A8E41D5534</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/wCAAAAAAQQMAAAAOhmNquNVgeHfjP4HDZRQIq+
+				wYvo3u9I7JF1J/jJacBb+AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAAdAAAAAQEAAG1ha2UtZGF0
+				YS1jb3VudC10cmFpbmluZy1kYXRhAAAACgAAAAEBAAAu
+				Z2l0aWdub3JlAAAUAAAAAQYAABAAAAAgAAAAMAAAAEQA
+				AABsAAAACAAAAAQDAACEXAAAAAAAAAgAAAAEAwAAlsYD
+				AAAAAAAIAAAABAMAAFkpJQAAAAAACAAAAAQDAAAdyWRH
+				AAAAAAgAAAAEAwAAEeVkRwAAAAAUAAAAAQYAAJwAAACs
+				AAAAvAAAAMwAAADcAAAACAAAAAAEAABBxwW0ZwV3RRgA
+				AAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAA
+				AAQDAAADAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAA
+				ZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAE
+				AwAAAJCClucAAAAIAAAAAAQAAEHGd57agAAAJAAAAAEB
+				AABFRURCQzQ5NS1ERjUyLTQ1NkEtQjQzMS1GQjYwN0JG
+				MDRBRDEYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAA
+				AAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8B
+				AAAAAAAAABAAAAAEEAAAgAAAAAAAAAAFEAAA7AAAAAAA
+				AAAQEAAAGAEAAAAAAABAEAAACAEAAAAAAAACIAAA5AEA
+				AAAAAAAFIAAAVAEAAAAAAAAQIAAAZAEAAAAAAAARIAAA
+				mAEAAAAAAAASIAAAeAEAAAAAAAATIAAAiAEAAAAAAAAg
+				IAAAxAEAAAAAAAAwIAAA8AEAAAAAAAABwAAAOAEAAAAA
+				AAARwAAAIAAAAAAAAAASwAAASAEAAAAAAAAQ0AAABAAA
+				AAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/make-data-count-training-data/.gitignore</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./.gitignore</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>.gitignore</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
