@@ -1547,6 +1547,12 @@ article_id,dataset_id,type
 10.7554_elife.29944,NC012683,Secondary
 10.7554_elife.29944,NC001808,Secondary
 10.7554_elife.29944,NC012682,Secondary
+10.7554_elife.29944,NC_001808,Secondary
+10.7554_elife.29944,NC_023838,Secondary
+10.7554_elife.29944,NC_002008,Secondary
+10.7554_elife.29944,NC_018783,Secondary
+10.7554_elife.29944,NC_001640,Secondary
+10.7554_elife.29944,GCA_000002305.1,Secondary
 10.7554_elife.29944,https://doi.org/10.5061/dryad.8153g,Primary
 10.7554_elife.42722,https://doi.org/10.5061/dryad.d0779mb,Primary
 10.7554_elife.62329,https://doi.org/10.5061/dryad.12jm63xwd,Primary
