@@ -10656,32 +10656,62 @@ trailer
 startxref
 1687452
 %%EOF
-819 0 obj
+828 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-818 0 obj
-<</ExtGState <</R1 819 0 R >> /ProcSet [/PDF] >>
+827 0 obj
+<</ExtGState <</R1 828 0 R >> /ProcSet [/PDF] >>
 endobj
 
-817 0 obj
-<</BBox [0 0 78.182 9.339] /Filter /FlateDecode /FormType 1 /Length 78 /Resources 818 0 R /Subtype /Form /Type /XObject >>stream
-xœ3Ô300PÐ5@¦!=CC]3S=C33…ä\.ý C…ôb.ˆ=S0	b¥sA•ÃT›¹F
+826 0 obj
+<</BBox [0 0 48.345 9.339] /Filter /FlateDecode /FormType 1 /Length 77 /Resources 827 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!c=S#C]3S=C33…ä\.ý C…ôb.C$u=Eé\0õ0å&zÆ&¦
 –zÆÆ–
-E©\i\ Së
+E©\i\ zŠi
 endstream
 endobj
 
-816 0 obj
-<</AP <</N 817 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250625113356+01'00') /F 4 /M (D:20250625113356+01'00') /NM (9BDB1601-F4EA-4D60-BF1A-A432DE383EA9) /P 362 0 R /QuadPoints [88.101 654.505 166.282 654.505 88.101 645.166 166.282 645.166] /Rect [88.101 645.166 166.282 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+825 0 obj
+<</AP <</N 826 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628123844+01'00') /F 4 /M (D:20250628123844+01'00') /NM (B3A4A9C6-3DF3-4BF7-AED1-418F43B6DADC) /P 3 0 R /QuadPoints [403.521 654.505 451.866 654.505 403.521 645.166 451.866 645.166] /Rect [403.521 645.166 451.866 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
-815 0 obj
-[368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R 386 0 R 387 0 R 388 0 R 795 0 R 783 0 R 799 0 R 791 0 R 803 0 R 811 0 R 807 0 R 816 0 R]
+829 0 obj
+[21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 825 0 R]
+endobj
+
+3 0 obj
+<</Annots 829 0 R /Contents 5 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 4 0 R /Resources <</ColorSpace <</DefaultCMYK 7 0 R >> /ExtGState <</GS4 6 0 R >> /Font <</F1 8 0 R /F10 11 0 R /F11 13 0 R /F12 17 0 R /F14 14 0 R /F15 16 0 R /F16 18 0 R /F17 19 0 R /F2 9 0 R /F3 10 0 R /F4 12 0 R /F9 15 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] >> /Rotate 0 /Thumb 20 0 R /Type /Page >>
 endobj
 
 1 0 obj
-<</Author (Lea Fellner) /CreationDate (D:20151217055646+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /CrossmarkDomainExclusive (true) /CrossmarkMajorVersionDate (2015-12-17) /Keywords (Overprinting,Overlapping gene,de novo evolution,Coding reserve,Orphan,EHEC,nog1/citC) /ModDate (D:20250625113357+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Evolutionary Biology, 2015, doi:10.1186/s12862-015-0558-z) /Title (Evidence for the recent origin of a bacterial protein-coding, overlapping orphan gene by evolutionary overprinting) /doi (10.1186/s12862-015-0558-z) >>
+<</Author (Lea Fellner) /CreationDate (D:20151217055646+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /CrossMarkDomains#5b1#5d (springer.com) /CrossMarkDomains#5b2#5d (springerlink.com) /CrossmarkDomainExclusive (true) /CrossmarkMajorVersionDate (2015-12-17) /Keywords (Overprinting,Overlapping gene,de novo evolution,Coding reserve,Orphan,EHEC,nog1/citC) /ModDate (D:20250628123845+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Evolutionary Biology, 2015, doi:10.1186/s12862-015-0558-z) /Title (Evidence for the recent origin of a bacterial protein-coding, overlapping orphan gene by evolutionary overprinting) /doi (10.1186/s12862-015-0558-z) >>
+endobj
+
+135 0 obj
+<</Annots 824 0 R /Contents 136 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 4 0 R /Resources <</ColorSpace <</DefaultCMYK 7 0 R >> /ExtGState <</GS10 138 0 R /GS4 6 0 R /GS6 139 0 R /GS8 137 0 R >> /Font <</F1 8 0 R /F10 11 0 R /F11 13 0 R /F12 17 0 R /F14 10 0 R /F2 9 0 R /F3 141 0 R /F4 12 0 R /F5 142 0 R /F7 143 0 R /F9 15 0 R >> /ProcSet [/PDF /Text /ImageC /ImageB /ImageI] /Properties <</MC5 145 0 R /MC6 144 0 R >> /XObject <</Im3 140 0 R >> >> /Rotate 0 /Thumb 146 0 R /Type /Page >>
+endobj
+
+820 0 obj
+<</AP <</N 821 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628123835+01'00') /F 4 /M (D:20250628123835+01'00') /NM (94C1CCF4-358A-4AFB-B5BB-FF8824559480) /P 135 0 R /QuadPoints [436.650 666.470 487.372 666.470 436.650 657.131 487.372 657.131] /Rect [436.650 657.131 487.372 666.470] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+821 0 obj
+<</BBox [0 0 50.722 9.339] /Filter /FlateDecode /FormType 1 /Length 76 /Resources 822 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!c3=3S ÃÌÔ\ÏÐØP!9—K?ÈP!½˜ËIDOQ:L=L¹©ž¹‘‘‚¥ž±±¥BQ*W |Vi
+endstream
+endobj
+
+822 0 obj
+<</ExtGState <</R1 823 0 R >> /ProcSet [/PDF] >>
+endobj
+
+823 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+824 0 obj
+[147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 820 0 R]
 endobj
 
 362 0 obj
@@ -10822,54 +10852,92 @@ endobj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
+815 0 obj
+[368 0 R 369 0 R 370 0 R 371 0 R 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R 377 0 R 378 0 R 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R 386 0 R 387 0 R 388 0 R 795 0 R 783 0 R 799 0 R 791 0 R 803 0 R 811 0 R 807 0 R 816 0 R]
+endobj
+
+816 0 obj
+<</AP <</N 817 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250625113356+01'00') /F 4 /M (D:20250625113356+01'00') /NM (9BDB1601-F4EA-4D60-BF1A-A432DE383EA9) /P 362 0 R /QuadPoints [88.101 654.505 166.282 654.505 88.101 645.166 166.282 645.166] /Rect [88.101 645.166 166.282 654.505] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+817 0 obj
+<</BBox [0 0 78.182 9.339] /Filter /FlateDecode /FormType 1 /Length 78 /Resources 818 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!=CC]3S=C33…ä\.ý C…ôb.ˆ=S0	b¥sA•ÃT›¹F
+–zÆÆ–
+E©\i\ Së
+endstream
+endobj
+
+818 0 obj
+<</ExtGState <</R1 819 0 R >> /ProcSet [/PDF] >>
+endobj
+
+819 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
 xref
 1 1
-0001704256 00000 n 
+0001704593 00000 n 
+3 1
+0001704154 00000 n 
+135 1
+0001705376 00000 n 
 362 1
-0001705039 00000 n 
-783 37
-0001705559 00000 n 
-0001705990 00000 n 
-0001706246 00000 n 
-0001706313 00000 n 
+0001706724 00000 n 
+783 47
+0001707244 00000 n 
+0001707675 00000 n 
+0001707931 00000 n 
+0001707998 00000 n 
 0000000000 65535 f 
 0000000000 65535 f 
-0001706367 00000 n 
-0001706434 00000 n 
-0001706488 00000 n 
-0001706855 00000 n 
-0001707095 00000 n 
-0001707162 00000 n 
-0001707216 00000 n 
-0001707583 00000 n 
-0001707821 00000 n 
-0001707888 00000 n 
-0001707942 00000 n 
-0001708371 00000 n 
-0001708625 00000 n 
-0001708692 00000 n 
-0001708746 00000 n 
-0001709177 00000 n 
-0001709432 00000 n 
-0001709499 00000 n 
-0001709553 00000 n 
-0001709982 00000 n 
-0001710236 00000 n 
-0001710303 00000 n 
-0001710357 00000 n 
-0001710786 00000 n 
-0001711041 00000 n 
-0001711108 00000 n 
-0001704004 00000 n 
-0001703637 00000 n 
+0001708052 00000 n 
+0001708119 00000 n 
+0001708173 00000 n 
+0001708540 00000 n 
+0001708780 00000 n 
+0001708847 00000 n 
+0001708901 00000 n 
+0001709268 00000 n 
+0001709506 00000 n 
+0001709573 00000 n 
+0001709627 00000 n 
+0001710056 00000 n 
+0001710310 00000 n 
+0001710377 00000 n 
+0001710431 00000 n 
+0001710862 00000 n 
+0001711117 00000 n 
+0001711184 00000 n 
+0001711238 00000 n 
+0001711667 00000 n 
+0001711921 00000 n 
+0001711988 00000 n 
+0001712042 00000 n 
+0001712471 00000 n 
+0001712726 00000 n 
+0001712793 00000 n 
+0001712847 00000 n 
+0001713099 00000 n 
+0001713466 00000 n 
+0001713702 00000 n 
+0001713769 00000 n 
+0001705919 00000 n 
+0001706285 00000 n 
+0001706519 00000 n 
+0001706586 00000 n 
+0001706640 00000 n 
+0001703636 00000 n 
 0001703401 00000 n 
 0001703334 00000 n 
 0001703280 00000 n 
+0001704000 00000 n 
 trailer
-<</ID [<ed75b39026e1bc19ec2a36e1468d8d1b> <6032d8895040f0f2c77964fa1fb705b2>] /Info 1 0 R /Prev 1687452 /Root 652 0 R /Size 820 >>
+<</ID [<ed75b39026e1bc19ec2a36e1468d8d1b> <3a1deda75c239f8cd669e91f096df2a2>] /Info 1 0 R /Prev 1687452 /Root 652 0 R /Size 830 >>
 % PDF Expert 11190 Mac OS AppStore 10dda5912
 % Smart Incremental Update
 
 startxref
-1711162
+1713823
 %%EOF

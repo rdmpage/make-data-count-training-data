@@ -8870,30 +8870,30 @@ trailer
 startxref
 1603599
 %%EOF
-1143 0 obj
+1147 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-1142 0 obj
-<</ExtGState <</R1 1143 0 R >> /ProcSet [/PDF] >>
+1146 0 obj
+<</ExtGState <</R1 1147 0 R >> /ProcSet [/PDF] >>
 endobj
 
-1141 0 obj
-<</BBox [0 0 45.178 9.443] /Filter /FlateDecode /FormType 1 /Length 76 /Resources 1142 0 R /Subtype /Form /Type /XObject >>stream
+1145 0 obj
+<</BBox [0 0 45.178 9.443] /Filter /FlateDecode /FormType 1 /Length 76 /Resources 1146 0 R /Subtype /Form /Type /XObject >>stream
 xœ3Ô300PÐ5@¦!CS=cc#]ScS=C…ä\.ý C…ôb.C$u=Eé\0õ0å&@ÊÜBÁRÏÄÄX¡(•+ {Mh
 endstream
 endobj
 
-1140 0 obj
-<</AP <</N 1141 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250624161032+01'00') /F 4 /M (D:20250624161032+01'00') /NM (C87EA8C1-9898-422B-8298-2CB594F6D373) /P 334 0 R /QuadPoints [158.332 544.551 203.510 544.551 158.332 535.108 203.510 535.108] /Rect [158.332 535.108 203.510 544.551] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+1144 0 obj
+<</AP <</N 1145 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628141127+01'00') /F 4 /M (D:20250628141127+01'00') /NM (D8CDFF4F-C174-40A5-A9A6-6644E8E411EA) /P 334 0 R /QuadPoints [158.332 544.551 203.510 544.551 158.332 535.108 203.510 535.108] /Rect [158.332 535.108 203.510 544.551] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 338 0 obj
-[339 0 R 784 0 R 812 0 R 832 0 R 824 0 R 808 0 R 792 0 R 804 0 R 796 0 R 816 0 R 788 0 R 820 0 R 828 0 R 800 0 R 992 0 R 940 0 R 888 0 R 848 0 R 1112 0 R 1024 0 R 972 0 R 1064 0 R 988 0 R 836 0 R 1044 0 R 844 0 R 1140 0 R]
+[339 0 R 784 0 R 812 0 R 832 0 R 824 0 R 808 0 R 792 0 R 804 0 R 796 0 R 816 0 R 788 0 R 820 0 R 828 0 R 800 0 R 992 0 R 940 0 R 888 0 R 848 0 R 1112 0 R 1024 0 R 972 0 R 1064 0 R 988 0 R 836 0 R 1044 0 R 844 0 R 1144 0 R]
 endobj
 
 1 0 obj
-<</CreationDate (D:20200211011344+05'30') /Creator (Springer) /Keywords () /ModDate (D:20250624161047+01'00') /Producer (iText® 5.3.5 ©2000-2012 1T3XT BVBA \(SPRINGER SBM; licensed version\)) /Subject (Scientific Reports, doi:10.1038/s41598-020-59839-x) /Title (Genomic scan of selective sweeps in Djallonké \(West African Dwarf\) sheep shed light on adaptation to harsh environments) /doi (10.1038/s41598-020-59839-x) >>
+<</CreationDate (D:20200211011344+05'30') /Creator (Springer) /Keywords () /ModDate (D:20250628141129+01'00') /Producer (iText® 5.3.5 ©2000-2012 1T3XT BVBA \(SPRINGER SBM; licensed version\)) /Subject (Scientific Reports, doi:10.1038/s41598-020-59839-x) /Title (Genomic scan of selective sweeps in Djallonké \(West African Dwarf\) sheep shed light on adaptation to harsh environments) /doi (10.1038/s41598-020-59839-x) >>
 endobj
 
 263 0 obj
@@ -10574,6 +10574,14 @@ endobj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
+1142 0 obj
+<</ExtGState <</R1 1143 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1143 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
 xref
 0 2
 0000000000 65535 f 
@@ -10582,7 +10590,7 @@ xref
 0001620872 00000 n 
 338 1
 0001620193 00000 n 
-784 360
+784 364
 0001621539 00000 n 
 0001621905 00000 n 
 0001622141 00000 n 
@@ -10939,15 +10947,19 @@ xref
 0001685671 00000 n 
 0001685907 00000 n 
 0001685976 00000 n 
+0000000000 65535 f 
+0000000000 65535 f 
+0001686031 00000 n 
+0001686100 00000 n 
 0001619825 00000 n 
 0001619589 00000 n 
 0001619520 00000 n 
 0001619465 00000 n 
 trailer
-<</ID [<7a85b2c3607173a252e9415f9bde8880> <350b3071c3a81219cd5963d5e606dd71>] /Info 1 0 R /Prev 1603599 /Root 641 0 R /Size 1144 >>
+<</ID [<7a85b2c3607173a252e9415f9bde8880> <c2117175bef446d2a529c9effd2b0688>] /Info 1 0 R /Prev 1603599 /Root 641 0 R /Size 1148 >>
 % PDF Expert 11190 Mac OS AppStore 10dda5912
 % Smart Incremental Update
 
 startxref
-1686031
+1686155
 %%EOF

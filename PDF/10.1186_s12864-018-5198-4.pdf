@@ -15936,12 +15936,84 @@ trailer
 startxref
 3430331
 %%EOF
-1026 0 obj
+1031 0 obj
 <</BM /Multiply /Type /ExtGState >>
 endobj
 
-1025 0 obj
-<</ExtGState <</R1 1026 0 R >> /ProcSet [/PDF] >>
+1030 0 obj
+<</ExtGState <</R1 1031 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1029 0 obj
+<</BBox [0 0 54.468 9.339] /Filter /FlateDecode /FormType 1 /Length 77 /Resources 1030 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!cs=]3#C=CcS…ä\.ý C…ôb.C$u=Eé\0õ0å¦&z&f
+–zÆÆ–
+E©\i\ }Nv
+endstream
+endobj
+
+1028 0 obj
+<</AP <</N 1029 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628123625+01'00') /F 4 /M (D:20250628123625+01'00') /NM (1BF55383-706D-467A-AA88-68F2457B8BC9) /P 440 0 R /QuadPoints [307.884 630.474 362.352 630.474 307.884 621.135 362.352 621.135] /Rect [307.884 621.135 362.352 630.474] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+1035 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+1034 0 obj
+<</ExtGState <</R1 1035 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1033 0 obj
+<</BBox [0 0 54.546 9.339] /Filter /FlateDecode /FormType 1 /Length 77 /Resources 1034 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!cC=##]3cc=CK…ä\.ý C…ôb.C$u=Eé\0õ0å¦&z¦&f
+–zÆÆ–
+E©\i\ {ïo
+endstream
+endobj
+
+1032 0 obj
+<</AP <</N 1033 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628123623+01'00') /F 4 /M (D:20250628123623+01'00') /NM (3A630914-6030-4B71-9CF3-3912F4C4F1F4) /P 440 0 R /QuadPoints [381.422 642.489 435.969 642.489 381.422 633.149 435.969 633.149] /Rect [381.422 633.149 435.969 642.489] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+1039 0 obj
+<</BM /Multiply /Type /ExtGState >>
+endobj
+
+1038 0 obj
+<</ExtGState <</R1 1039 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1037 0 obj
+<</BBox [0 0 47.971 9.339] /Filter /FlateDecode /FormType 1 /Length 77 /Resources 1038 0 R /Subtype /Form /Type /XObject >>stream
+xœ3Ô300PÐ5@¦!=s]3S=C3…ä\.ý C…ôb.C$u=Eé\0õ0å&æz–æ†
+–zÆÆ–
+E©\i\ ‚³‘
+endstream
+endobj
+
+1036 0 obj
+<</AP <</N 1037 0 R >> /BS <</W 0 >> /C [1 1 0] /CreationDate (D:20250628123621+01'00') /F 4 /M (D:20250628123621+01'00') /NM (18F2D35E-C44C-478F-9370-5D31CF5BCF47) /P 440 0 R /QuadPoints [488.447 654.503 536.418 654.503 488.447 645.164 536.418 645.164] /Rect [488.447 645.164 536.418 654.503] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+endobj
+
+1040 0 obj
+[445 0 R 446 0 R 447 0 R 448 0 R 449 0 R 450 0 R 451 0 R 452 0 R 453 0 R 454 0 R 455 0 R 456 0 R 457 0 R 458 0 R 459 0 R 460 0 R 461 0 R 462 0 R 463 0 R 464 0 R 465 0 R 466 0 R 467 0 R 468 0 R 469 0 R 470 0 R 1036 0 R 1032 0 R 1028 0 R]
+endobj
+
+440 0 obj
+<</Annots 1040 0 R /Contents 441 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 390 0 R /Resources <</ColorSpace <</CS0 7 0 R >> /ExtGState <</GS1 6 0 R >> /Font <</F1 8 0 R /T1_0 10 0 R /T1_1 107 0 R /T1_2 12 0 R /T1_3 442 0 R /T1_4 443 0 R /T1_5 11 0 R /T1_6 13 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] >> /Rotate 0 /Thumb 444 0 R /Type /Page >>
+endobj
+
+1 0 obj
+<</Author (João Luís Reis-Cunha) /CreationDate (D:20181112162133+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /Keywords (Trypanosoma cruzi,TcII,Field isolates,Genomic variability,Copy number variation,Ploidy) /ModDate (D:20250628123628+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Genomics, 2018, doi:10.1186/s12864-018-5198-4) /Title (Whole genome sequencing of Trypanosoma cruzi field isolates reveals extensive genomic variability and complex aneuploidy patterns within TcII DTU) >>
+endobj
+
+540 0 obj
+<</Annots 1027 0 R /Contents 541 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 390 0 R /Resources <</ColorSpace <</CS0 7 0 R >> /ExtGState <</GS1 6 0 R >> /Font <</F1 8 0 R /T1_0 144 0 R /T1_1 107 0 R /T1_2 14 0 R /T1_3 143 0 R /T1_4 163 0 R /T1_5 543 0 R /T1_6 544 0 R /T1_7 11 0 R /T1_8 13 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] /Properties <</MC0 545 0 R >> /XObject <</Im0 542 0 R >> >> /Rotate 0 /Thumb 546 0 R /Type /Page >>
+endobj
+
+1023 0 obj
+<</AP <</N 1024 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624225344+01'00') /F 4 /M (D:20250624225344+01'00') /NM (14CBC649-BF62-4E42-A4A2-F8466BB1C3B4) /P 540 0 R /QuadPoints [386.141 563.678 426.978 563.678 386.141 556.778 426.978 556.778] /Rect [386.141 556.778 426.978 563.678] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
 endobj
 
 1024 0 obj
@@ -15951,37 +16023,49 @@ xœ3Ô300PÐ5@¦!c3=CC]SS3=ss…ä\.ý C…ôb.ˆ
 endstream
 endobj
 
-1023 0 obj
-<</AP <</N 1024 0 R >> /BS <</W 0 >> /C [1 0.500 0] /CreationDate (D:20250624225344+01'00') /F 4 /M (D:20250624225344+01'00') /NM (14CBC649-BF62-4E42-A4A2-F8466BB1C3B4) /P 540 0 R /QuadPoints [386.141 563.678 426.978 563.678 386.141 556.778 426.978 556.778] /Rect [386.141 556.778 426.978 563.678] /Subtype /Highlight /T (Roderick Page) /Type /Annot >>
+1025 0 obj
+<</ExtGState <</R1 1026 0 R >> /ProcSet [/PDF] >>
+endobj
+
+1026 0 obj
+<</BM /Multiply /Type /ExtGState >>
 endobj
 
 1027 0 obj
 [547 0 R 548 0 R 549 0 R 550 0 R 551 0 R 552 0 R 553 0 R 554 0 R 555 0 R 556 0 R 1023 0 R]
 endobj
 
-540 0 obj
-<</Annots 1027 0 R /Contents 541 0 R /CropBox [0 0 595.276 790.866] /MediaBox [0 0 595.276 790.866] /Parent 390 0 R /Resources <</ColorSpace <</CS0 7 0 R >> /ExtGState <</GS1 6 0 R >> /Font <</F1 8 0 R /T1_0 144 0 R /T1_1 107 0 R /T1_2 14 0 R /T1_3 143 0 R /T1_4 163 0 R /T1_5 543 0 R /T1_6 544 0 R /T1_7 11 0 R /T1_8 13 0 R >> /ProcSet [/PDF /Text /ImageB /ImageC /ImageI] /Properties <</MC0 545 0 R >> /XObject <</Im0 542 0 R >> >> /Rotate 0 /Thumb 546 0 R /Type /Page >>
-endobj
-
-1 0 obj
-<</Author (João Luís Reis-Cunha) /CreationDate (D:20181112162133+08'00') /Creator (Arbortext Advanced Print Publisher 9.1.440/W Unicode) /Keywords (Trypanosoma cruzi,TcII,Field isolates,Genomic variability,Copy number variation,Ploidy) /ModDate (D:20250624225349+01'00') /Producer (Acrobat Distiller 10.1.5 \(Windows\); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA \(AGPL-version\)) /Subject (BMC Genomics, 2018, doi:10.1186/s12864-018-5198-4) /Title (Whole genome sequencing of Trypanosoma cruzi field isolates reveals extensive genomic variability and complex aneuploidy patterns within TcII DTU) >>
-endobj
-
 xref
 1 1
-0003452297 00000 n 
+0003453810 00000 n 
+440 1
+0003453404 00000 n 
 540 1
-0003451805 00000 n 
-1023 5
-0003451323 00000 n 
+0003454433 00000 n 
+1023 18
+0003454925 00000 n 
+0003455297 00000 n 
+0003455535 00000 n 
+0003455604 00000 n 
+0003455659 00000 n 
+0003451322 00000 n 
 0003451085 00000 n 
 0003451016 00000 n 
 0003450961 00000 n 
-0003451695 00000 n 
+0003452051 00000 n 
+0003451814 00000 n 
+0003451745 00000 n 
+0003451690 00000 n 
+0003452780 00000 n 
+0003452543 00000 n 
+0003452474 00000 n 
+0003452419 00000 n 
+0003453148 00000 n 
 trailer
-<</ID [<1692a96aa6e65081afcc36a628ad9f72> <c20c144931691dcf34d69dad7e922ef2>] /Info 1 0 R /Prev 3430331 /Root 927 0 R /Size 1028 >>
+<</ID [<1692a96aa6e65081afcc36a628ad9f72> <c4a9790187c7a662f9f4d1b24ed63afb>] /Info 1 0 R /Prev 3430331 /Root 927 0 R /Size 1041 >>
 % PDF Expert 11190 Mac OS AppStore 10dda5912
+% Smart Incremental Update
 
 startxref
-3452920
+3455769
 %%EOF

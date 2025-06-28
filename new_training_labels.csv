@@ -1,5 +1,6 @@
 article_id,dataset_id,type
-10.1002_2017jc013030,https://doi.org/10.17882/49388,Primary
+10.1002_2017jc013030,https://doi.org/10.17882/49388,Secondary
+10.1002_2017jc013030,https://doi.org/10.17882/47142,Secondary
 10.1002_ece3.4466,https://doi.org/10.5061/dryad.r6nq870,Primary
 10.1002_ece3.5260,MK838494,Secondary
 10.1002_ece3.5260,MK838511,Secondary
@@ -15,9 +16,12 @@ article_id,dataset_id,type
 10.1002_ece3.6303,https://doi.org/10.5061/dryad.37pvmcvgb,Primary
 10.1002_ece3.6303,MN335287,Primary
 10.1002_ece3.6303,MN107084,Primary
+10.1002_ece3.6303,MN107151,Primary
+10.1002_ece3.6303,MN335290,Primary
 10.1002_ece3.9627,https://doi.org/10.5061/dryad.b8gtht7h3,Primary
 10.1002_ecs2.1280,https://doi.org/10.5061/dryad.p3fg9,Primary
 10.1002_ecs2.4619,https://doi.org/10.25349/d9qw5x,Primary
+10.1002_ecs2.4619,https://doi.org/10.6073/pasta/d835832d7fd00d9e4466e44eea87fab3,
 10.1002_esp.5058,https://doi.org/10.5066/p9fw6e8k,Primary
 10.1002_esp.5058,https://doi.org/10.5061/dryad.jh9w0vt9t,Primary
 10.1002_esp.5090,https://doi.org/10.5066/p9353101,Secondary
@@ -26,6 +30,7 @@ article_id,dataset_id,type
 10.1002_nafm.10870,https://doi.org/10.5066/p94bh3w0,Secondary
 10.1002_nafm.10870,https://doi.org/10.5066/p9gtumay,Secondary
 10.1002_nafm.10870,https://doi.org/10.5066/p90a4ugj,Secondary
+10.1002_nafm.10870,https://doi.org/10.5066/f75m63x0,Secondary
 10.1007_s00259-022-06053-8,https://doi.org/10.7937/k9/tcia.2017.7hs46erv,Secondary
 10.1007_s00259-022-06053-8,https://doi.org/10.7937/tcia.2019.30ilqfcl,Secondary
 10.1007_s00259-022-06053-8,https://doi.org/10.7937/k9/tcia.2020:a8s-7363,Secondary
@@ -34,7 +39,7 @@ article_id,dataset_id,type
 10.1007_s00382-022-06361-7,https://doi.org/10.6075/j089161b,Primary
 10.1007_s00442-022-05201-z,https://doi.org/10.5061/dryad.wpzgmsbps,Primary
 10.1007_s12559-020-09751-3,https://doi.org/10.7937/k9/tcia.2015.u1x8a5nr,Secondary
-10.1016_j.ast.2022.107401,https://doi.org/10.17862/cranfeld.rd.19146182.v1,Primary
+10.1016_j.ast.2022.107401,https://doi.org/10.17862/cranfield.rd.19146182.v1,Primary
 10.1016_j.dib.2022.108797,https://doi.org/10.1594/pangaea.949117,Primary
 10.1016_j.dib.2023.109949,https://doi.org/10.5281/zenodo.8338991,Primary
 10.1016_j.ecolind.2021.107934,https://doi.org/10.6073/pasta/be42bb841e696b7bcad9957aed33db5e,Secondary
@@ -72,6 +77,8 @@ article_id,dataset_id,type
 10.1016_j.molcel.2018.11.006,RRID:SCR_001837,Secondary
 10.1016_j.molcel.2018.11.006,RRID:SCR007393,Secondary
 10.1016_j.molcel.2018.11.006,RRID:SCR002380,Secondary
+10.1016_j.molcel.2018.11.006,HPA042816,Secondary
+10.1016_j.molcel.2018.11.006,HPA038237,Secondary
 10.1016_j.scitotenv.2024.171850,https://doi.org/10.17863/cam.107163,Primary
 10.1016_j.websem.2024.100815,https://doi.org/10.17863/cam.82548,Primary
 10.1017_rdc.2022.19,https://doi.org/10.11588/data/10100,Secondary
@@ -92,6 +99,7 @@ article_id,dataset_id,type
 10.1021_jacs.2c06519,CCDC2169273,Primary
 10.1029_2018gl078007,https://doi.org/10.5061/dryad.886pr72,Primary
 10.1029_2019jg005297,https://doi.org/10.5061/dryad.pp045j3,Primary
+10.1029_2019jg005297,https://doi.org/10.5066/f78s4n1v,Secondary
 10.1029_2019pa003774,https://doi.org/10.3334/cdiac/otg.ndp093_glodapv2,Secondary
 10.1029_2020jf005675,https://doi.org/10.5066/p9bu8faq,Primary
 10.1029_2021ea001703,https://doi.org/10.13020/jjdx-1m95,Primary
@@ -105,6 +113,8 @@ article_id,dataset_id,type
 10.1038_hdy.2014.75,https://doi.org/10.5061/dryad.1p80f,Primary
 10.1038_hdy.2015.99,KJ767593,Primary
 10.1038_hdy.2015.99,https://doi.org/10.5061/dryad.f47f6,Primary
+10.1038_hdy.2015.99,KF981442,Secondary
+10.1038_hdy.2015.99,KJ767630,Primary
 10.1038_ncomms11871,CCDC1442910,Primary
 10.1038_s41396-020-00885-8,PF00484.18,Secondary
 10.1038_s41396-020-00885-8,PF01493.23,Secondary
@@ -140,6 +150,7 @@ article_id,dataset_id,type
 10.1038_s41396-020-00885-8,PRJEB6603,Primary
 10.1038_s41396-020-00885-8,PRJEB41235,Primary
 10.1038_s41396-020-00885-8,https://doi.org/10.6084/m9.figshare.c.5008046,Primary
+10.1038_s41396-020-00885-8,IPR028730,Secondary
 10.1038_s41437-020-0318-8,https://doi.org/10.5061/dryad.rxwdbrv58,Primary
 10.1038_s41467-018-04041-x,PNQY00000000,Primary
 10.1038_s41467-018-04041-x,PNQY01000000,Primary
@@ -172,7 +183,7 @@ article_id,dataset_id,type
 10.1038_s41597-023-02280-2,EMPIARID10406,Secondary
 10.1038_s41597-023-02280-2,EMPIAR10345,Secondary
 10.1038_s41598-020-59839-x,IPR014760,Secondary
-10.1038_s41598-020-59839-x,IPR000264:,Secondary
+10.1038_s41598-020-59839-x,IPR000264,Secondary
 10.1038_s41598-020-59839-x,IPR020857,Secondary
 10.1038_s41598-020-59839-x,SM00103,Secondary
 10.1038_s41598-020-59839-x,IPR020858,Secondary
@@ -245,6 +256,7 @@ article_id,dataset_id,type
 10.1038_s41598-024-56373-y,GCA_000153105.1,Secondary
 10.1038_s41598-024-56373-y,CP001848.1,Secondary
 10.1038_s41598-024-56373-y,GCA_001707835.1,Secondary
+10.1038_s41598-024-56373-y,BX119912.1,Secondary
 10.1038_sdata.2017.167,https://doi.org/10.5061/dryad.sm847,Primary
 10.1039_d1ee03696c,https://doi.org/10.3334/cdiac/00001_v2017,Secondary
 10.1039_d2cc00847e,https://doi.org/10.5281/zenodo.6010342,Secondary
@@ -259,6 +271,7 @@ article_id,dataset_id,type
 10.1073_pnas.2306723120,https://doi.org/10.15468/dl.k8zeq6,Primary
 10.1073_pnas.2306723120,https://doi.org/10.15468/dl.a2a348,Primary
 10.1073_pnas.2306723120,https://doi.org/10.5281/zenodo.8411975,Primary
+10.1073_pnas.2306723120,https://doi.org/10.16904/envidat.159,Secondary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.cb2hsf,Primary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.qm4v2t,Primary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.92jj3s,Primary
@@ -274,7 +287,7 @@ article_id,dataset_id,type
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.gtnw2a,Primary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.txwcpa,Primary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.sz5x6g,Primary
-10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.2a5f6c ,Primary
+10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.2a5f6c,Primary
 10.1080_19475683.2023.2226196,https://doi.org/10.15468/dl.6qzmh7,Primary
 10.1093_beheco_arad016,https://doi.org/10.5061/dryad.rxwdbrvdc,Primary
 10.1093_beheco_arw167,https://doi.org/10.5061/dryad.12np0,Primary
@@ -285,6 +298,9 @@ article_id,dataset_id,type
 10.1093_nar_gkp1049,PF00106,Secondary
 10.1093_nar_gkp1049,PF03372,Secondary
 10.1093_sysbio_syy011,https://doi.org/10.5061/dryad.739bs,Primary
+10.1093_sysbio_syy011,KT346366,Secondary
+10.1093_sysbio_syy011,NC_028017,Secondary
+10.1093_sysbio_syy011,NC_011112,Secondary
 10.1098_rsbl.2015.0113,https://doi.org/10.5061/dryad.1h7p0,Primary
 10.1098_rsos.160417,https://doi.org/10.5061/dryad.2bs69,Primary
 10.1098_rsos.170796,https://doi.org/10.6084/m9.figshare.c.3872161,Primary
@@ -311,6 +327,7 @@ article_id,dataset_id,type
 10.1101_2022.07.21.501061,https://doi.org/10.15468/dl.pdjqte,Primary
 10.1101_2022.07.21.501061,https://doi.org/10.15468/dl.nbku3v,Primary
 10.1101_2022.07.21.501061,https://doi.org/10.15468/dl.uejpg6,Primary
+10.1101_2022.07.21.501061,https://doi.org/10.5061/dryad.547d7wmc2,Primary
 10.1103_physrevresearch.4.023008,https://doi.org/10.5291/ill-data.5-31-2380,Primary
 10.1107_s2059798322005691,https://doi.org/10.18150/vaojlj,Primary
 10.1107_s2059798322005691,https://doi.org/10.18150/r8vj7v,Primary
@@ -347,6 +364,7 @@ article_id,dataset_id,type
 10.1111_2041-210x.12453,https://doi.org/10.5061/dryad.h4f7p,Primary
 10.1111_2041-210x.13817,https://doi.org/10.5061/dryad.fn2z34tw7,Primary
 10.1111_acel.13089,GSE141725,Primary
+10.1111_acel.13089,rs33912345,Secondary
 10.1111_acel.13089,https://doi.org/10.6075/j0707ztm,Primary
 10.1111_cas.12935,Q99538,Secondary
 10.1111_cas.12935,O75787,Secondary
@@ -360,6 +378,18 @@ article_id,dataset_id,type
 10.1111_cas.12935,Q96AG4,Secondary
 10.1111_cas.12935,P23142,Secondary
 10.1111_cas.12935,P24821,Secondary
+10.1111_cas.12935,HPA001426,Secondary
+10.1111_cas.12935,HPA003156,Secondary
+10.1111_cas.12935,CAB009216,Secondary
+10.1111_cas.12935,HPA008063,Secondary
+10.1111_cas.12935,CAB010055,Secondary
+10.1111_cas.12935,HPA001522,Secondary
+10.1111_cas.12935,HPA042865,Secondary
+10.1111_cas.12935,HPA007450,Secondary
+10.1111_cas.12935,HPA003927,Secondary
+10.1111_cas.12935,HPA030827,Secondary
+10.1111_cas.12935, CAB004592,Secondary
+10.1111_cas.12935, HPA001612,Secondary
 10.1111_ddi.13161,https://doi.org/10.13020/z71w-jx69,Primary
 10.1111_ddi.13161,https://doi.org/10.5061/dryad.73n5tb2v8,Primary
 10.1111_ejn.13855,https://doi.org/10.5281/zenodo.1158410,Primary
@@ -367,13 +397,17 @@ article_id,dataset_id,type
 10.1111_eva.12151,KJ437343,Primary
 10.1111_eva.12151,KJ437271,Primary
 10.1111_eva.12151,rs12979860,Secondary
-10.1111_eva.12446,https://doi.org/http://doi:10.5061/dryad.7g2c9,Primary
+10.1111_eva.12151,rs8099917,Secondary
+10.1111_eva.12151,AF009606,Secondary
+10.1111_eva.12446,https://doi.org/10.5061/dryad.7g2c9,Primary
 10.1111_eva.12768,https://doi.org/10.5061/dryad.rf79641,Primary
 10.1111_evo.13972,https://doi.org/10.5061/dryad.3xsj3txbz,Primary
 10.1111_gcb.13914,https://doi.org/10.15131/shef.data.5414629,Primary
 10.1111_ggr.12517,https://doi.org/10.5281/zenodo.7804445,Primary
 10.1111_mec.16743,https://doi.org/10.5066/p9f519wo,Primary
 10.1111_mec.16743,https://doi.org/10.5061/dryad.g1jwstqsg,Primary
+10.1111_mec.16743,https://doi.org/10.5066/p93r9uel,Secondary
+10.1111_mec.16743,PRJNA794822,Primary
 10.1111_mec.16977,https://doi.org/10.5061/dryad.4mw6m90cz,Primary
 10.1111_mec.16977,PRJNA955776,Primary
 10.1111_njb.02077,https://doi.org/10.5061/dryad.2gh0ht2,Primary
@@ -399,6 +433,10 @@ article_id,dataset_id,type
 10.1128_spectrum.00422-24,SRX23584000,Primary
 10.1128_spectrum.00422-24,SRX23571306,Primary
 10.1128_spectrum.00422-24,PRJNA700828,Primary
+10.1128_spectrum.00422-24,GCA_002567645.1,Secondary
+10.1128_spectrum.00422-24,PF00356,Secondary
+10.1128_spectrum.00422-24,PF13377,Secondary
+10.1128_spectrum.00422-24,PF00248,Secondary
 10.1130_ges01387.1,https://doi.org/10.5066/f7qn64xq,Secondary
 10.1130_ges01387.1,https://doi.org/10.5066/f7th8jwj,Secondary
 10.1130_ges01387.1,https://doi.org/10.5066/f7930r7p,Secondary
@@ -436,7 +474,8 @@ article_id,dataset_id,type
 10.1145_3461702.3462538,https://doi.org/10.3886/icpsr34584.v1,Primary
 10.1145_3461702.3462538,https://doi.org/10.3886/icpsr25104.v1,Primary
 10.1145_3461702.3462538,https://doi.org/10.3886/icpsr25113.v1,Primary
-10.1186_gb-2010-11-10-r101,GSE24237,Primary
+10.1145_3461702.3462538,https://doi.org/10.3886/icpsr27647.v1,Primary
+10.1186_gb-2010-11-10-r101,GEO:GSE24237,Primary
 10.1186_s11658-018-0120-2,GSE70604,Secondary
 10.1186_s11658-018-0120-2,GSE2280,Secondary
 10.1186_s12859-016-0922-z,SRP023548,Secondary
@@ -476,6 +515,7 @@ article_id,dataset_id,type
 10.1186_s12859-018-2263-6,GSE7895,Secondary
 10.1186_s12859-018-2263-6,GSE59765,Secondary
 10.1186_s12860-020-00261-6,UP000000757,Secondary
+10.1186_s12860-020-00261-6,PXD016241,Primary
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h4t43r3v,Primary
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h4pg1pr0,Primary
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h4jq0z24,Primary
@@ -484,6 +524,7 @@ article_id,dataset_id,type
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h4xw4gsd,Primary
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h42n5083,Primary
 10.1186_s12862-015-0558-z,https://doi.org/10.6070/h4959fkc,Primary
+10.1186_s12862-015-0558-z,NC_002655,Secondary
 10.1186_s12863-019-0790-4,SRP158951,Primary
 10.1186_s12864-015-2206-9,ENSMODG00000014381,Secondary
 10.1186_s12864-015-2206-9,GCA_000189315.1,Secondary
@@ -494,6 +535,9 @@ article_id,dataset_id,type
 10.1186_s12864-015-2206-9,ERS624953,Primary
 10.1186_s12864-015-2206-9,ERS624952,Primary
 10.1186_s12864-018-5198-4,PRJNA421475,Primary
+10.1186_s12864-018-5198-4,FJ203996.1,Secondary
+10.1186_s12864-018-5198-4,DQ343646.1,Secondary
+10.1186_s12864-018-5198-4,DQ343645.1,Secondary
 10.1186_s12864-019-5872-1,PRJDB4785,Primary
 10.1186_s12864-019-5872-1,ENSDARG00000010097,Secondary
 10.1186_s12864-019-5872-1,ENSDARG00000060016,Secondary
@@ -514,6 +558,7 @@ article_id,dataset_id,type
 10.1186_s12864-019-5872-1,ENSDARG00000052766,Secondary
 10.1186_s12864-019-5872-1,ENSDARG00000076998,Secondary
 10.1186_s12864-019-6099-x,SRR8906254,Primary
+10.1186_s12864-019-6099-x,SRR8906256,Primary
 10.1186_s12864-019-6131-1,ENSPSIG00000011968,Secondary
 10.1186_s12864-019-6131-1,https://doi.org/10.6084/m9.figshare.5202853,Secondary
 10.1186_s12864-019-6131-1,SRR952232,Secondary
@@ -542,6 +587,13 @@ article_id,dataset_id,type
 10.1186_s12864-019-6131-1,PRJEB27670,Primary
 10.1186_s12864-019-6131-1,PRJEB24169,Primary
 10.1186_s12864-019-6131-1,PRJEB22479,Primary
+10.1186_s12864-019-6131-1, LN794246,Secondary
+10.1186_s12864-019-6131-1, LN794245,Secondary
+10.1186_s12864-019-6131-1, KT970642,Secondary
+10.1186_s12864-019-6131-1, KT445834,Secondary
+10.1186_s12864-019-6131-1, KJ196275,Secondary
+10.1186_s12864-019-6131-1, MF000729,Secondary
+10.1186_s12864-019-6131-1, NC_006112.4,Secondary
 10.1186_s12864-020-6657-2,PRJDB8242,Primary
 10.1186_s12864-020-6657-2,SAMD00169834,Primary
 10.1186_s12864-020-6657-2,DRA008324,Primary
@@ -549,7 +601,10 @@ article_id,dataset_id,type
 10.1186_s12864-020-6657-2,DRA008220,Primary
 10.1186_s12864-020-6657-2,DRA006301,Primary
 10.1186_s12864-020-6657-2,DRA008173,Primary
+10.1186_s12864-020-6657-2,SRP051959,Secondary
 10.1186_s12866-015-0509-2,PRJNA283549,Primary
+10.1186_s12866-015-0509-2,GCA_000011805.1,Secondary
+10.1186_s12866-015-0509-2,PRJNA58163,Secondary
 10.1186_s12866-019-1542-3,RQWM00000000,Primary
 10.1186_s12866-019-1542-3,RQWM01000000,Primary
 10.1186_s12866-019-1542-3,GCA_000007825.1,Secondary
@@ -732,8 +787,8 @@ article_id,dataset_id,type
 10.1186_s12934-018-1005-9,PF06013,Secondary
 10.1186_s12934-018-1005-9,PF15652,Secondary
 10.1186_s12934-018-1005-9,PF15542,Secondary
-10.1186_s12934-018-1005-9,IPR028916h,Secondary
-10.1186_s12934-018-1005-9,PF12639]Th,Secondary
+10.1186_s12934-018-1005-9,IPR028916,Secondary
+10.1186_s12934-018-1005-9,PF12639,Secondary
 10.1186_s12943-019-1017-z,SRP149488,Primary
 10.1186_s12943-019-1017-z,GDS723,Secondary
 10.1186_s12943-019-1017-z,GDS4121,Secondary
@@ -772,6 +827,8 @@ article_id,dataset_id,type
 10.1186_s13059-018-1557-3,GSE120232,Primary
 10.1186_s13059-018-1557-3,GSE119466,Primary
 10.1186_s13059-019-1749-5,GSE126200,Primary
+10.1186_s13059-019-1749-5,rs17163363,Secondary
+10.1186_s13059-019-1749-5,rs67180937,Secondary
 10.1186_s13059-019-1840-y,EGAD00001004965,Primary
 10.1186_s13059-019-1918-6,GSE118622,Primary
 10.1186_s13059-019-1924-8,GSE63525,Secondary
@@ -804,6 +861,7 @@ article_id,dataset_id,type
 10.1186_s13059-020-1949-z,GSM3630201,Secondary
 10.1186_s13059-020-1949-z,GSM3630202,Secondary
 10.1186_s13059-020-1949-z,GSM3630203,Secondary
+10.1186_s13059-020-1949-z,GSE133549,Secondary
 10.1186_s13059-020-1949-z,https://doi.org/10.5281/zenodo.3564179,Primary
 10.1186_s13068-017-0901-2,GSE90611,Primary
 10.1186_s13068-018-1167-z,PRJEB25632,Primary
@@ -815,12 +873,12 @@ article_id,dataset_id,type
 10.1186_s13072-019-0285-6,GSE73406,Primary
 10.1186_s13072-019-0285-6,GSE49739,Primary
 10.1186_s13072-019-0285-6,GSE80049,Primary
-10.1186_s13072-019-0285-6,GSE98063ll,Primary
+10.1186_s13072-019-0285-6,GSE98063,Primary
 10.1186_s13072-019-0285-6,GSE98966,Primary
-10.1186_s13072-019-0285-6,GSE100723d,Primary
+10.1186_s13072-019-0285-6,GSE100723,Primary
 10.1186_s13072-019-0285-6,GSE49733,Primary
-10.1186_s13072-019-0285-6,GSE51176]f,Primary
-10.1186_s13072-019-0285-6,GSE54167l,Primary
+10.1186_s13072-019-0285-6,GSE51176,Primary
+10.1186_s13072-019-0285-6,GSE54167,Primary
 10.1186_s13072-019-0285-6,GSE73972,Primary
 10.1186_s13072-019-0285-6,GSE98967,Primary
 10.1186_s13072-019-0285-6,GSE81436,Primary
@@ -828,9 +886,12 @@ article_id,dataset_id,type
 10.1186_s13072-019-0285-6,GSE19602,Primary
 10.1186_s13072-019-0285-6,PRJNA522350,Primary
 10.1186_s13073-020-00727-4,NC_010227.2,Secondary
+10.1186_s13073-020-00727-4,NC_010277.2,Secondary
+10.1186_s13073-020-00727-4,PRJNA606748,Primary
 10.1186_s13100-019-0153-8,MH937731,Primary
 10.1186_s13100-019-0153-8,MH937730,Primary
-10.1186_s13104-018-4014-1,SRX2499144-SRX2499147,Primary
+10.1186_s13104-018-4014-1,SRX2499144,Primary
+10.1186_s13104-018-4014-1,SRX2499147,Primary
 10.1186_s13568-018-0680-6,SRP144478,Primary
 10.1186_s13750-020-0184-0,https://doi.org/10.6084/m9.figshare.5897389,Secondary
 10.1186_s13750-020-0184-0,https://doi.org/10.6084/m9.figshare.5897272,Secondary
@@ -853,6 +914,7 @@ article_id,dataset_id,type
 10.1186_s40657-020-00194-w,PRJNA​39657​0,Primary
 10.1212_wnl.0000000000006035,https://doi.org/10.5061/dryad.tq61224,Primary
 10.1212_wnl.0000000000006035,PXD009578,Primary
+10.1212_wnl.0000000000006035,NM_001510,Secondary
 10.1242_bio.035071,https://doi.org/10.5061/dryad.dk5gt88,Primary
 10.1242_dev.138545,https://doi.org/10.5061/dryad.fj0qj,Primary
 10.1242_jeb.211466,https://doi.org/10.5061/dryad.gtht76hhb,Primary
@@ -872,6 +934,7 @@ article_id,dataset_id,type
 10.12688_f1000research.13622.1,https://doi.org/10.5256/f1000research.13622.d194235,Primary
 10.12688_f1000research.13622.1,https://doi.org/10.5256/f1000research.13622.d194233,Primary
 10.12688_f1000research.13622.1,https://doi.org/10.5256/f1000research.13622.d194236,Primary
+10.12688_f1000research.13622.1,https://doi.org/10.5256/f1000research.13609.d194564,Primary
 10.12688_f1000research.13852.1,https://doi.org/10.5256/f1000research.13852.d195529,Primary
 10.1364_oe.25.001985,https://doi.org/10.15125/bath-00325,Primary
 10.1371_journal.pcbi.1011828,PXD001676,Secondary
@@ -1120,6 +1183,7 @@ article_id,dataset_id,type
 10.1534_g3.119.400401,https://doi.org/10.13020/adqb-bb41,Primary
 10.1534_g3.119.400993,https://doi.org/10.25387/g3.9626636,Primary
 10.1534_g3.119.400993,GSE68510,Secondary
+10.1534_g3.119.400993,GSE132167,Secondary
 10.1534_genetics.120.303190,https://doi.org/10.25386/genetics.12136941,Primary
 10.1590_0104-6632.20190362s20180340,MH532414,Secondary
 10.1590_0104-6632.20190362s20180340,MH675468,Secondary
@@ -1144,7 +1208,7 @@ article_id,dataset_id,type
 10.17581_bp.2020.09104,https://doi.org/10.15468/dl.elq8xm,Primary
 10.17581_bp.2020.09104,https://doi.org/10.15468/dl.ze0mrg,Primary
 10.18438_eblip29674,https://doi.org/10.6078/d1k419,Primary
-10.20944_preprints202009.0353.v1,https://doi.org/doi.org/10.15468/dl.jx7wck,Primary
+10.20944_preprints202009.0353.v1,https://doi.org/10.15468/dl.jx7wck,Primary
 10.21105_joss.04237,https://doi.org/10.5067/modis/mod13a2.006,Secondary
 10.21105_joss.04237,https://doi.org/10.5067/gpm/imerg/3b-hh/06,Secondary
 10.21105_joss.04237,https://doi.org/10.5067/zx7yx2y2lheb,Secondary
@@ -1178,12 +1242,15 @@ article_id,dataset_id,type
 10.3133_ofr20231026,https://doi.org/10.5066/p9kehy2s,Primary
 10.3133_ofr20231026,https://doi.org/10.5066/p9irl3gv,Secondary
 10.3133_ofr20231026,https://doi.org/10.5066/p918e2p3,Secondary
+10.3133_ofr20231026,https://doi.org/10.5066/f7dz0771,Secondary
 10.3133_ofr20231027,https://doi.org/10.5066/p9ooiq0e,Primary
 10.3389_fcell.2020.618552,https://doi.org/10.5281/zenodo.4311473,Primary
 10.3389_fcell.2020.618552,E-MTAB-9291,Secondary
 10.3389_fcell.2020.618552,E-MTAB-9290,Secondary
 10.3389_fcell.2020.618552,S-BSST447,Secondary
 10.3389_fcell.2020.618552,https://doi.org/10.5281/zenodo.3951126,Primary
+10.3389_fcell.2020.618552,GSE33949,Secondary
+10.3389_fcell.2020.618552,GSE92332,Secondary
 10.3389_fcimb.2024.1292467,EPI_ISL_1626969,Secondary
 10.3389_fcimb.2024.1292467,EPI_ISL_2365356,Secondary
 10.3389_fcimb.2024.1292467,EPI_ISL_2340581,Secondary
@@ -1203,6 +1270,7 @@ article_id,dataset_id,type
 10.3389_feart.2023.1205211,https://doi.org/10.5066/p9j10nh5,Secondary
 10.3389_feart.2023.1205211,https://doi.org/10.5066/f7930r7p,Secondary
 10.3389_feart.2023.1205211,https://doi.org/10.5066/p9tw2x7y,Secondary
+10.3389_feart.2023.1205211,https://doi.org/10.5066/p99mj096,Secondary
 10.3389_fevo.2023.1112519,https://doi.org/10.1594/pangaea.921544,Primary
 10.3389_fevo.2023.1112519,https://doi.org/10.1594/pangaea.941237,Primary
 10.3389_fevo.2023.1112519,PRJNA780103,Primary
@@ -1232,6 +1300,7 @@ article_id,dataset_id,type
 10.3389_fmicb.2024.1456637,SAMN33094099,Secondary
 10.3389_fmicb.2024.1456637,SAMN33094112,Secondary
 10.3389_fmicb.2024.1456637,SAMN17525956,Secondary
+10.3389_fmicb.2024.1456637,NC_017643.1,Secondary
 10.3389_fpls.2023.1160645,https://doi.org/10.4121/21864590,Primary
 10.3390_d13010019,https://doi.org/10.6073/pasta/eeb59ddf840c51b93c4bc7b765d4d59f,Primary
 10.3390_microorganisms8121872,CHEMBL3311228,Secondary
@@ -1268,7 +1337,7 @@ article_id,dataset_id,type
 10.3390_v11060565,EPI1019556,Secondary
 10.3390_v11060565,EPI1104288,Secondary
 10.3390_v11060565,EPI954556,Secondary
-10.3390_v11060565,EPI1387245-52,Secondary
+10.3390_v11060565,EPI1387245,Secondary
 10.3390_v11060565,EPI1019558,Secondary
 10.3390_v11060565,EPI954559,Secondary
 10.3390_v11060565,EPI1183999,Secondary
@@ -1288,6 +1357,7 @@ article_id,dataset_id,type
 10.3390_v11060565,EPI1104285,Secondary
 10.3390_v11060565,EPI954553,Secondary
 10.3390_v11060565,EPI1018211,Secondary
+10.3390_v11060565,EPI1387252,Secondary
 10.3897_bdj.7.e47369,https://doi.org/10.15468/dl.6fsft1,Primary
 10.3897_jhr.96.111550,https://doi.org/10.15468/dl.x6cwjx,Primary
 10.3897_jhr.96.111550,https://doi.org/10.15468/dl.4hgjbk,Primary
@@ -1418,25 +1488,31 @@ article_id,dataset_id,type
 10.5194_acp-22-5701-2022,https://doi.org/10.6096/aeroclo.1774,Secondary
 10.5194_acp-22-5701-2022,https://doi.org/10.6096/aeroclo.1777,Secondary
 10.5194_acp-22-5701-2022,https://doi.org/10.1029/2004jd005044,Secondary
+10.5194_acp-22-5701-2022,https://doi.org/10.24381/cds.adbb2d47,Secondary
 10.5194_amt-15-3969-2022,https://doi.org/10.5281/zenodo.5501399,Primary
 10.5194_amt-15-3969-2022,https://doi.org/10.24381/cds.bd0915c6,Secondary
 10.5194_amt-15-3969-2022,https://doi.org/10.5067/modis/myd06_l2.006,Secondary
 10.5194_essd-12-1287-2020,https://doi.org/10.17882/59867,Primary
 10.5194_essd-12-1287-2020,https://doi.org/10.17882/70340,Primary
 10.5194_essd-12-1287-2020,https://doi.org/10.5194/essd-2019-136,Primary
+10.5194_essd-12-1287-2020,https://doi.org/10.17882/6235,Secondary
 10.5194_essd-2019-206,https://doi.org/10.18434/m32126,Primary
 10.5194_essd-2023-187,https://doi.org/10.17882/94052,Primary
 10.5194_essd-2023-187,https://doi.org/10.17882/94040,Primary
+10.5194_essd-2023-187,https://doi.org/10.17882/53389,Secondary
+10.5194_essd-2023-187,https://doi.org/10.17882/55741,Secondary
 10.5194_essd-2023-198,https://doi.org/10.17882/94147,Primary
 10.5194_essd-2023-198,https://doi.org/10.17882/94032,Primary
 10.5194_essd-2023-198,https://doi.org/10.17882/94031,Primary
 10.5194_essd-2023-198,https://doi.org/10.17882/94146,Primary
 10.5194_essd-2023-198,https://doi.org/10.17600/18000582,Secondary
 10.5194_essd-2023-198,https://doi.org/10.17600/18001644,Secondary
+10.5194_essd-2023-198,https://doi.org/10.17600/13100050,Secondary
 10.5194_essd-8-663-2016,https://doi.org/10.1594/pangaea.845258,Primary
 10.5194_gmd-12-4221-2019,https://doi.org/10.6075/j0k35s05,Primary
 10.5194_gmd-13-335-2020,https://doi.org/10.6073/pasta/fed17d67583eda16c439216ca40b0669,Secondary
 10.5194_se-13-1541-2022,https://doi.org/10.1594/pangaea.938422,Primary
+10.5194_se-13-1541-2022,https://doi.org/10.5067/gpm/imergdf/day/06,Secondary
 10.5194_tc-17-3617-2023,https://doi.org/10.5281/zenodo.5109574,Secondary
 10.5194_tc-17-3617-2023,https://doi.org/10.5067/modis/mod10a1f.061,Secondary
 10.5194_tc-17-3617-2023,https://doi.org/10.24381/cds.adbb2d47,Secondary
@@ -1501,14 +1577,14 @@ article_id,dataset_id,type
 10.7554_eLife.63194,PF00978,Secondary
 10.7554_eLife.63194,PF00998,Secondary
 10.7554_eLife.63194,PF02123,Secondary
+10.7554_eLife.63194,PRJEB39843,Primary
 10.7554_eLife.72626,MODEL2106070001,Secondary
 10.7554_eLife.72626,https://doi.org/10.6019/chembl.database.23,Secondary
 10.7554_eLife.72626,CHEMBL3733336,Secondary
 10.7554_eLife.72626,CHEMBL3347550,Secondary
 10.7554_eLife.72626,CHEMBL3347551,Secondary
 10.7554_elife.29944,PRJNA384940,Secondary
-10.7554_elife.29944,KT168317-KT168336,Secondary
-10.7554_elife.29944,MF134655-,Secondary
+10.7554_elife.29944,MF134655,Secondary
 10.7554_elife.29944,MF134663,Secondary
 10.7554_elife.29944,JX312727,Secondary
 10.7554_elife.29944,KT168317,Secondary
